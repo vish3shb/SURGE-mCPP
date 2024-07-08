@@ -1,0 +1,1552 @@
+Iteration: 14
+Energy for paths: [8284.0, 7480.0, 9621.65] J
+Number of turns: [14, 10, 15]
+Path lengths: [950.0, 950.0, 1033.33] m
+Total energy: 25385.65 J
+Total number of turns: 39
+Total path length: 2933.33 m
+
+Iteration: 37
+Energy for paths: [9936.35, 8817.75, 9450.3] J
+Number of turns: [18, 9, 12]
+Path lengths: [1191.67, 1293.75, 1191.6599999999999] m
+Total energy: 28204.40 J
+Total number of turns: 39
+Total path length: 3677.08 m
+
+Iteration: 3
+Energy for paths: [9908.35, 9301.75, 10243.75] J
+Number of turns: [10, 13, 15]
+Path lengths: [1291.67, 1193.75, 1193.75] m
+Total energy: 29453.85 J
+Total number of turns: 38
+Total path length: 3679.17 m
+
+Iteration: 36
+Energy for paths: [8307.35, 8688.35, 12585.75] J
+Number of turns: [9, 10, 17]
+Path lengths: [1191.67, 1191.67, 1293.75] m
+Total energy: 29581.45 J
+Total number of turns: 36
+Total path length: 3677.09 m
+
+Iteration: 44
+Energy for paths: [10212.3, 9523.75, 10023.75] J
+Number of turns: [14, 15, 15]
+Path lengths: [1191.6599999999999, 1193.75, 1293.75] m
+Total energy: 29759.80 J
+Total number of turns: 44
+Total path length: 3679.16 m
+
+Iteration: 53
+Energy for paths: [10984.75, 10394.35, 8920.75] J
+Number of turns: [16, 16, 12]
+Path lengths: [1193.75, 1291.67, 1193.75] m
+Total energy: 30299.85 J
+Total number of turns: 44
+Total path length: 3679.17 m
+
+Iteration: 52
+Energy for paths: [12596.35, 9450.3, 9121.75] J
+Number of turns: [18, 12, 13]
+Path lengths: [1291.67, 1191.6599999999999, 1193.75] m
+Total energy: 31168.40 J
+Total number of turns: 43
+Total path length: 3677.08 m
+
+Iteration: 4
+Energy for paths: [9121.75, 11432.35, 10953.35] J
+Number of turns: [13, 14, 15]
+Path lengths: [1193.75, 1291.67, 1191.67] m
+Total energy: 31507.45 J
+Total number of turns: 42
+Total path length: 3677.09 m
+
+Iteration: 7
+Energy for paths: [10163.65, 10147.0, 11304.7] J
+Number of turns: [17, 17, 18]
+Path lengths: [953.33, 950.0, 1033.34] m
+Total energy: 31615.35 J
+Total number of turns: 52
+Total path length: 2936.67 m
+
+Iteration: 19
+Energy for paths: [9429.35, 9619.75, 12596.3] J
+Number of turns: [11, 11, 18]
+Path lengths: [1191.67, 1193.75, 1291.6599999999999] m
+Total energy: 31645.40 J
+Total number of turns: 40
+Total path length: 3677.08 m
+
+Iteration: 20
+Energy for paths: [10614.35, 11344.75, 10310.35] J
+Number of turns: [16, 16, 12]
+Path lengths: [1191.67, 1193.75, 1291.67] m
+Total energy: 32269.45 J
+Total number of turns: 44
+Total path length: 3677.09 m
+
+Iteration: 184
+Energy for paths: [11000.0, 10698.65, 10696.7] J
+Number of turns: [10, 12, 10]
+Path lengths: [1510.0, 1513.33, 1593.3400000000001] m
+Total energy: 32395.35 J
+Total number of turns: 32
+Total path length: 4616.67 m
+
+Iteration: 59
+Energy for paths: [11220.0, 11439.0, 10323.0] J
+Number of turns: [10, 14, 13]
+Path lengths: [1554.0, 1437.0, 1434.0] m
+Total energy: 32982.00 J
+Total number of turns: 37
+Total path length: 4425.00 m
+
+Iteration: 55
+Energy for paths: [11432.35, 10635.3, 10974.35] J
+Number of turns: [14, 17, 16]
+Path lengths: [1291.67, 1191.6599999999999, 1191.67] m
+Total energy: 33042.00 J
+Total number of turns: 47
+Total path length: 3675.00 m
+
+Iteration: 16
+Energy for paths: [10725.0, 9519.0, 13203.0] J
+Number of turns: [15, 9, 18]
+Path lengths: [1434.0, 1434.0, 1557.0] m
+Total energy: 33447.00 J
+Total number of turns: 42
+Total path length: 4425.00 m
+
+Iteration: 77
+Energy for paths: [10620.0, 11022.0, 12060.0] J
+Number of turns: [10, 12, 15]
+Path lengths: [1434.0, 1434.0, 1557.0] m
+Total energy: 33702.00 J
+Total number of turns: 37
+Total path length: 4425.00 m
+
+Iteration: 24
+Energy for paths: [12546.0, 9900.0, 11256.0] J
+Number of turns: [16, 10, 11]
+Path lengths: [1434.0, 1434.0, 1557.0] m
+Total energy: 33702.00 J
+Total number of turns: 37
+Total path length: 4425.00 m
+
+Iteration: 2
+Energy for paths: [10042.75, 12447.75, 11376.3] J
+Number of turns: [14, 19, 18]
+Path lengths: [1193.75, 1293.75, 1191.6599999999999] m
+Total energy: 33866.80 J
+Total number of turns: 51
+Total path length: 3679.16 m
+
+Iteration: 45
+Energy for paths: [10920.0, 11721.0, 11424.0] J
+Number of turns: [15, 16, 14]
+Path lengths: [1437.0, 1557.0, 1434.0] m
+Total energy: 34065.00 J
+Total number of turns: 45
+Total path length: 4428.00 m
+
+Iteration: 5
+Energy for paths: [10774.0, 11905.75, 11537.35] J
+Number of turns: [19, 17, 19]
+Path lengths: [1175.0, 1193.75, 1291.67] m
+Total energy: 34217.10 J
+Total number of turns: 55
+Total path length: 3660.42 m
+
+Iteration: 35
+Energy for paths: [10338.0, 13887.0, 10302.0] J
+Number of turns: [13, 17, 12]
+Path lengths: [1437.0, 1554.0, 1434.0] m
+Total energy: 34527.00 J
+Total number of turns: 42
+Total path length: 4425.00 m
+
+Iteration: 31
+Energy for paths: [13902.0, 10317.0, 10323.0] J
+Number of turns: [17, 12, 13]
+Path lengths: [1557.0, 1437.0, 1434.0] m
+Total energy: 34542.00 J
+Total number of turns: 42
+Total path length: 4428.00 m
+
+Iteration: 81
+Energy for paths: [12561.0, 10938.0, 11043.0] J
+Number of turns: [16, 13, 13]
+Path lengths: [1437.0, 1557.0, 1434.0] m
+Total energy: 34542.00 J
+Total number of turns: 42
+Total path length: 4428.00 m
+
+Iteration: 34
+Energy for paths: [10804.75, 12606.75, 11376.35] J
+Number of turns: [16, 18, 18]
+Path lengths: [1193.75, 1293.75, 1191.67] m
+Total energy: 34787.85 J
+Total number of turns: 52
+Total path length: 3679.17 m
+
+Iteration: 62
+Energy for paths: [11042.0, 12402.65, 11421.0] J
+Number of turns: [12, 16, 11]
+Path lengths: [1510.0, 1513.33, 1590.0] m
+Total energy: 34865.65 J
+Total number of turns: 39
+Total path length: 4613.33 m
+
+Iteration: 74
+Energy for paths: [12165.0, 10323.0, 12384.0] J
+Number of turns: [15, 13, 14]
+Path lengths: [1434.0, 1434.0, 1554.0] m
+Total energy: 34872.00 J
+Total number of turns: 42
+Total path length: 4422.00 m
+
+Iteration: 43
+Energy for paths: [9900.0, 10719.0, 14289.0] J
+Number of turns: [10, 14, 19]
+Path lengths: [1434.0, 1437.0, 1554.0] m
+Total energy: 34908.00 J
+Total number of turns: 43
+Total path length: 4425.00 m
+
+Iteration: 9
+Energy for paths: [12468.0, 10323.0, 12264.0] J
+Number of turns: [18, 13, 19]
+Path lengths: [1554.0, 1434.0, 1437.0] m
+Total energy: 35055.00 J
+Total number of turns: 50
+Total path length: 4425.00 m
+
+Iteration: 102
+Energy for paths: [11886.0, 12524.0, 10719.7] J
+Number of turns: [16, 14, 13]
+Path lengths: [1590.0, 1510.0, 1513.3400000000001] m
+Total energy: 35129.70 J
+Total number of turns: 43
+Total path length: 4613.34 m
+
+Iteration: 22
+Energy for paths: [11757.0, 11235.0, 12180.0] J
+Number of turns: [12, 10, 15]
+Path lengths: [1437.0, 1557.0, 1437.0] m
+Total energy: 35172.00 J
+Total number of turns: 37
+Total path length: 4431.00 m
+
+Iteration: 47
+Energy for paths: [11445.0, 11058.0, 12744.0] J
+Number of turns: [15, 13, 14]
+Path lengths: [1434.0, 1437.0, 1554.0] m
+Total energy: 35247.00 J
+Total number of turns: 42
+Total path length: 4425.00 m
+
+Iteration: 8
+Energy for paths: [12575.35, 11344.75, 11428.75] J
+Number of turns: [17, 16, 20]
+Path lengths: [1291.67, 1193.75, 1193.75] m
+Total energy: 35348.85 J
+Total number of turns: 53
+Total path length: 3679.17 m
+
+Iteration: 75
+Energy for paths: [11163.0, 13902.0, 10338.0] J
+Number of turns: [18, 17, 13]
+Path lengths: [1437.0, 1557.0, 1437.0] m
+Total energy: 35403.00 J
+Total number of turns: 48
+Total path length: 4431.00 m
+
+Iteration: 39
+Energy for paths: [12180.0, 12426.0, 10941.0] J
+Number of turns: [15, 16, 16]
+Path lengths: [1437.0, 1554.0, 1437.0] m
+Total energy: 35547.00 J
+Total number of turns: 47
+Total path length: 4428.00 m
+
+Iteration: 1
+Energy for paths: [10846.75, 13358.35, 11355.3] J
+Number of turns: [18, 20, 17]
+Path lengths: [1193.75, 1291.67, 1191.6599999999999] m
+Total energy: 35560.40 J
+Total number of turns: 55
+Total path length: 3677.08 m
+
+Iteration: 13
+Energy for paths: [12426.0, 10620.0, 12582.0] J
+Number of turns: [16, 10, 17]
+Path lengths: [1554.0, 1434.0, 1437.0] m
+Total energy: 35628.00 J
+Total number of turns: 43
+Total path length: 4425.00 m
+
+Iteration: 29
+Energy for paths: [10317.0, 14289.0, 11043.0] J
+Number of turns: [12, 19, 13]
+Path lengths: [1437.0, 1554.0, 1434.0] m
+Total energy: 35649.00 J
+Total number of turns: 44
+Total path length: 4425.00 m
+
+Iteration: 72
+Energy for paths: [12384.0, 11481.0, 12243.0] J
+Number of turns: [14, 16, 18]
+Path lengths: [1554.0, 1437.0, 1437.0] m
+Total energy: 36108.00 J
+Total number of turns: 48
+Total path length: 4428.00 m
+
+Iteration: 27
+Energy for paths: [13563.0, 11544.0, 11058.0] J
+Number of turns: [18, 19, 13]
+Path lengths: [1557.0, 1437.0, 1437.0] m
+Total energy: 36165.00 J
+Total number of turns: 50
+Total path length: 4431.00 m
+
+Iteration: 158
+Energy for paths: [12243.7, 11341.65, 12708.65] J
+Number of turns: [17, 15, 22]
+Path lengths: [1513.3400000000001, 1593.33, 1513.33] m
+Total energy: 36294.00 J
+Total number of turns: 54
+Total path length: 4620.00 m
+
+Iteration: 28
+Energy for paths: [12180.0, 11799.0, 12426.0] J
+Number of turns: [15, 14, 16]
+Path lengths: [1437.0, 1437.0, 1554.0] m
+Total energy: 36405.00 J
+Total number of turns: 45
+Total path length: 4428.00 m
+
+Iteration: 32
+Energy for paths: [12759.0, 10719.0, 13308.0] J
+Number of turns: [14, 14, 18]
+Path lengths: [1557.0, 1437.0, 1434.0] m
+Total energy: 36786.00 J
+Total number of turns: 46
+Total path length: 4428.00 m
+
+Iteration: 23
+Energy for paths: [12441.0, 13323.0, 11079.0] J
+Number of turns: [16, 18, 14]
+Path lengths: [1557.0, 1437.0, 1437.0] m
+Total energy: 36843.00 J
+Total number of turns: 48
+Total path length: 4431.00 m
+
+Iteration: 15
+Energy for paths: [11865.0, 11706.0, 13287.0] J
+Number of turns: [15, 16, 17]
+Path lengths: [1410.0, 1554.0, 1434.0] m
+Total energy: 36858.00 J
+Total number of turns: 48
+Total path length: 4398.00 m
+
+Iteration: 56
+Energy for paths: [11127.0, 13683.0, 12060.0] J
+Number of turns: [17, 18, 15]
+Path lengths: [1434.0, 1437.0, 1557.0] m
+Total energy: 36870.00 J
+Total number of turns: 50
+Total path length: 4428.00 m
+
+Iteration: 64
+Energy for paths: [11721.0, 11460.0, 13725.0] J
+Number of turns: [16, 15, 20]
+Path lengths: [1557.0, 1437.0, 1437.0] m
+Total energy: 36906.00 J
+Total number of turns: 51
+Total path length: 4431.00 m
+
+Iteration: 172
+Energy for paths: [11322.65, 14686.65, 10920.65] J
+Number of turns: [16, 20, 14]
+Path lengths: [1513.33, 1593.33, 1513.33] m
+Total energy: 36929.95 J
+Total number of turns: 50
+Total path length: 4619.99 m
+
+Iteration: 88
+Energy for paths: [12624.7, 12103.65, 12206.0] J
+Number of turns: [18, 17, 16]
+Path lengths: [1513.3400000000001, 1593.33, 1510.0] m
+Total energy: 36934.35 J
+Total number of turns: 51
+Total path length: 4616.67 m
+
+Iteration: 21
+Energy for paths: [12786.75, 12085.75, 12085.75] J
+Number of turns: [18, 17, 17]
+Path lengths: [1293.75, 1193.75, 1193.75] m
+Total energy: 36958.25 J
+Total number of turns: 52
+Total path length: 3681.25 m
+
+Iteration: 25
+Energy for paths: [12487.75, 12477.35, 12024.75] J
+Number of turns: [19, 19, 16]
+Path lengths: [1193.75, 1191.67, 1293.75] m
+Total energy: 36989.85 J
+Total number of turns: 54
+Total path length: 3679.17 m
+
+Iteration: 46
+Energy for paths: [11121.0, 14283.0, 11640.0] J
+Number of turns: [16, 18, 15]
+Path lengths: [1437.0, 1557.0, 1437.0] m
+Total energy: 37044.00 J
+Total number of turns: 49
+Total path length: 4431.00 m
+
+Iteration: 171
+Energy for paths: [12964.0, 11705.65, 12381.65] J
+Number of turns: [14, 19, 15]
+Path lengths: [1670.0, 1433.33, 1513.33] m
+Total energy: 37051.30 J
+Total number of turns: 48
+Total path length: 4616.66 m
+
+Iteration: 103
+Energy for paths: [11523.65, 11505.0, 14085.65] J
+Number of turns: [17, 15, 19]
+Path lengths: [1513.33, 1590.0, 1513.33] m
+Total energy: 37114.30 J
+Total number of turns: 51
+Total path length: 4616.66 m
+
+Iteration: 49
+Energy for paths: [11742.0, 12441.0, 12948.0] J
+Number of turns: [12, 16, 18]
+Path lengths: [1434.0, 1557.0, 1434.0] m
+Total energy: 37131.00 J
+Total number of turns: 46
+Total path length: 4425.00 m
+
+Iteration: 159
+Energy for paths: [14083.75, 11130.0, 11921.699999999999] J
+Number of turns: [18, 15, 16]
+Path lengths: [1517.15, 1515.0, 1597.14] m
+Total energy: 37135.45 J
+Total number of turns: 49
+Total path length: 4629.29 m
+
+Iteration: 61
+Energy for paths: [12015.0, 13368.0, 11763.0] J
+Number of turns: [15, 18, 13]
+Path lengths: [1440.0, 1554.0, 1434.0] m
+Total energy: 37146.00 J
+Total number of turns: 46
+Total path length: 4428.00 m
+
+Iteration: 48
+Energy for paths: [11499.0, 12546.0, 13287.0] J
+Number of turns: [14, 16, 17]
+Path lengths: [1557.0, 1434.0, 1434.0] m
+Total energy: 37332.00 J
+Total number of turns: 47
+Total path length: 4425.00 m
+
+Iteration: 126
+Energy for paths: [11502.65, 14850.0, 11084.0] J
+Number of turns: [16, 20, 14]
+Path lengths: [1513.33, 1590.0, 1510.0] m
+Total energy: 37436.65 J
+Total number of turns: 50
+Total path length: 4613.33 m
+
+Iteration: 12
+Energy for paths: [11565.0, 12783.0, 13167.0] J
+Number of turns: [20, 18, 17]
+Path lengths: [1437.0, 1437.0, 1554.0] m
+Total energy: 37515.00 J
+Total number of turns: 55
+Total path length: 4428.00 m
+
+Iteration: 6
+Energy for paths: [13308.0, 11847.0, 12384.0] J
+Number of turns: [18, 17, 14]
+Path lengths: [1434.0, 1434.0, 1554.0] m
+Total energy: 37539.00 J
+Total number of turns: 49
+Total path length: 4422.00 m
+
+Iteration: 141
+Energy for paths: [13113.0, 12206.0, 12227.0] J
+Number of turns: [23, 16, 17]
+Path lengths: [1590.0, 1510.0, 1510.0] m
+Total energy: 37546.00 J
+Total number of turns: 56
+Total path length: 4610.00 m
+
+Iteration: 38
+Energy for paths: [11508.0, 12843.0, 13287.0] J
+Number of turns: [18, 18, 17]
+Path lengths: [1434.0, 1557.0, 1434.0] m
+Total energy: 37638.00 J
+Total number of turns: 53
+Total path length: 4425.00 m
+
+Iteration: 41
+Energy for paths: [12843.0, 11508.0, 13287.0] J
+Number of turns: [18, 18, 17]
+Path lengths: [1557.0, 1434.0, 1434.0] m
+Total energy: 37638.00 J
+Total number of turns: 53
+Total path length: 4425.00 m
+
+Iteration: 71
+Energy for paths: [13167.0, 11550.0, 12969.0] J
+Number of turns: [17, 20, 19]
+Path lengths: [1554.0, 1434.0, 1434.0] m
+Total energy: 37686.00 J
+Total number of turns: 56
+Total path length: 4422.00 m
+
+Iteration: 152
+Energy for paths: [11890.0, 12964.0, 12926.0] J
+Number of turns: [20, 14, 16]
+Path lengths: [1430.0, 1670.0, 1510.0] m
+Total energy: 37780.00 J
+Total number of turns: 50
+Total path length: 4610.00 m
+
+Iteration: 161
+Energy for paths: [11890.0, 12964.0, 12926.0] J
+Number of turns: [20, 14, 16]
+Path lengths: [1430.0, 1670.0, 1510.0] m
+Total energy: 37780.00 J
+Total number of turns: 50
+Total path length: 4610.00 m
+
+Iteration: 155
+Energy for paths: [12964.0, 12926.0, 11890.0] J
+Number of turns: [14, 16, 20]
+Path lengths: [1670.0, 1510.0, 1430.0] m
+Total energy: 37780.00 J
+Total number of turns: 50
+Total path length: 4610.00 m
+
+Iteration: 163
+Energy for paths: [11505.0, 11121.7, 15228.7] J
+Number of turns: [15, 15, 22]
+Path lengths: [1590.0, 1513.3400000000001, 1513.3400000000001] m
+Total energy: 37855.40 J
+Total number of turns: 52
+Total path length: 4616.68 m
+
+Iteration: 95
+Energy for paths: [14251.65, 11502.65, 12164.0] J
+Number of turns: [25, 16, 14]
+Path lengths: [1593.33, 1513.33, 1510.0] m
+Total energy: 37918.30 J
+Total number of turns: 55
+Total path length: 4616.66 m
+
+Iteration: 123
+Energy for paths: [12559.699999999999, 10728.0, 14641.0] J
+Number of turns: [14, 13, 26]
+Path lengths: [1517.14, 1515.0, 1595.0] m
+Total energy: 37928.70 J
+Total number of turns: 53
+Total path length: 4627.14 m
+
+Iteration: 82
+Energy for paths: [12186.0, 12849.0, 12906.0] J
+Number of turns: [16, 19, 16]
+Path lengths: [1434.0, 1554.0, 1434.0] m
+Total energy: 37941.00 J
+Total number of turns: 51
+Total path length: 4422.00 m
+
+Iteration: 73
+Energy for paths: [13323.0, 10740.0, 13881.0] J
+Number of turns: [18, 15, 16]
+Path lengths: [1437.0, 1437.0, 1557.0] m
+Total energy: 37944.00 J
+Total number of turns: 49
+Total path length: 4431.00 m
+
+Iteration: 140
+Energy for paths: [11301.65, 15993.0, 10899.65] J
+Number of turns: [15, 23, 13]
+Path lengths: [1513.33, 1590.0, 1513.33] m
+Total energy: 38194.30 J
+Total number of turns: 51
+Total path length: 4616.66 m
+
+Iteration: 94
+Energy for paths: [15212.0, 11105.0, 11886.0] J
+Number of turns: [22, 15, 16]
+Path lengths: [1510.0, 1510.0, 1590.0] m
+Total energy: 38203.00 J
+Total number of turns: 53
+Total path length: 4610.00 m
+
+Iteration: 154
+Energy for paths: [12164.0, 13100.0, 12942.7] J
+Number of turns: [14, 20, 16]
+Path lengths: [1510.0, 1600.0, 1513.3400000000001] m
+Total energy: 38206.70 J
+Total number of turns: 50
+Total path length: 4623.34 m
+
+Iteration: 58
+Energy for paths: [12741.0, 12864.0, 12603.0] J
+Number of turns: [16, 19, 18]
+Path lengths: [1437.0, 1557.0, 1437.0] m
+Total energy: 38208.00 J
+Total number of turns: 53
+Total path length: 4431.00 m
+
+Iteration: 129
+Energy for paths: [11484.0, 15429.65, 11301.65] J
+Number of turns: [14, 23, 15]
+Path lengths: [1590.0, 1513.33, 1513.33] m
+Total energy: 38215.30 J
+Total number of turns: 52
+Total path length: 4616.66 m
+
+Iteration: 76
+Energy for paths: [12201.0, 13887.0, 12201.0] J
+Number of turns: [16, 17, 16]
+Path lengths: [1437.0, 1554.0, 1437.0] m
+Total energy: 38289.00 J
+Total number of turns: 49
+Total path length: 4428.00 m
+
+Iteration: 122
+Energy for paths: [12084.65, 13503.65, 12706.7] J
+Number of turns: [18, 17, 20]
+Path lengths: [1513.33, 1513.33, 1593.3400000000001] m
+Total energy: 38295.00 J
+Total number of turns: 55
+Total path length: 4620.00 m
+
+Iteration: 17
+Energy for paths: [11814.0, 11847.0, 14685.0] J
+Number of turns: [14, 17, 20]
+Path lengths: [1440.0, 1434.0, 1557.0] m
+Total energy: 38346.00 J
+Total number of turns: 51
+Total path length: 4431.00 m
+
+Iteration: 50
+Energy for paths: [13323.0, 12864.0, 12180.0] J
+Number of turns: [18, 19, 15]
+Path lengths: [1437.0, 1557.0, 1437.0] m
+Total energy: 38367.00 J
+Total number of turns: 52
+Total path length: 4431.00 m
+
+Iteration: 197
+Energy for paths: [11979.65, 13812.0, 12741.65] J
+Number of turns: [13, 22, 15]
+Path lengths: [1513.33, 1590.0, 1513.33] m
+Total energy: 38533.30 J
+Total number of turns: 50
+Total path length: 4616.66 m
+
+Iteration: 113
+Energy for paths: [11804.0, 13426.7, 13365.7] J
+Number of turns: [14, 20, 19]
+Path lengths: [1510.0, 1593.3400000000001, 1513.3400000000001] m
+Total energy: 38596.40 J
+Total number of turns: 53
+Total path length: 4616.68 m
+
+Iteration: 78
+Energy for paths: [11130.0, 13713.0, 13774.0] J
+Number of turns: [15, 18, 19]
+Path lengths: [1515.0, 1515.0, 1595.0] m
+Total energy: 38617.00 J
+Total number of turns: 52
+Total path length: 4625.00 m
+
+Iteration: 190
+Energy for paths: [15268.65, 13031.0, 10372.0] J
+Number of turns: [22, 21, 12]
+Path lengths: [1593.33, 1510.0, 1520.0] m
+Total energy: 38671.65 J
+Total number of turns: 55
+Total path length: 4623.33 m
+
+Iteration: 186
+Energy for paths: [12951.0, 13445.699999999999, 12315.0] J
+Number of turns: [16, 20, 20]
+Path lengths: [1515.0, 1597.14, 1515.0] m
+Total energy: 38711.70 J
+Total number of turns: 56
+Total path length: 4627.14 m
+
+Iteration: 109
+Energy for paths: [12713.0, 12825.65, 13246.65] J
+Number of turns: [23, 19, 20]
+Path lengths: [1510.0, 1513.33, 1593.33] m
+Total energy: 38785.30 J
+Total number of turns: 62
+Total path length: 4616.66 m
+
+Iteration: 132
+Energy for paths: [13227.65, 12968.0, 12648.0] J
+Number of turns: [21, 18, 18]
+Path lengths: [1513.33, 1510.0, 1590.0] m
+Total energy: 38843.65 J
+Total number of turns: 57
+Total path length: 4613.33 m
+
+Iteration: 165
+Energy for paths: [11486.0, 12105.65, 15268.65] J
+Number of turns: [16, 19, 22]
+Path lengths: [1510.0, 1513.33, 1593.33] m
+Total energy: 38860.30 J
+Total number of turns: 57
+Total path length: 4616.66 m
+
+Iteration: 89
+Energy for paths: [14616.0, 12545.0, 11762.0] J
+Number of turns: [26, 15, 12]
+Path lengths: [1590.0, 1510.0, 1510.0] m
+Total energy: 38923.00 J
+Total number of turns: 53
+Total path length: 4610.00 m
+
+Iteration: 85
+Energy for paths: [12063.65, 11661.65, 15205.7] J
+Number of turns: [17, 15, 19]
+Path lengths: [1513.33, 1513.33, 1593.3400000000001] m
+Total energy: 38931.00 J
+Total number of turns: 51
+Total path length: 4620.00 m
+
+Iteration: 170
+Energy for paths: [11902.65, 11486.0, 15572.0] J
+Number of turns: [16, 16, 22]
+Path lengths: [1593.33, 1510.0, 1510.0] m
+Total energy: 38960.65 J
+Total number of turns: 54
+Total path length: 4613.33 m
+
+Iteration: 33
+Energy for paths: [13308.0, 14283.0, 11508.0] J
+Number of turns: [18, 18, 18]
+Path lengths: [1434.0, 1557.0, 1434.0] m
+Total energy: 39099.00 J
+Total number of turns: 54
+Total path length: 4425.00 m
+
+Iteration: 70
+Energy for paths: [11721.0, 13704.0, 13683.0] J
+Number of turns: [16, 19, 18]
+Path lengths: [1557.0, 1437.0, 1437.0] m
+Total energy: 39108.00 J
+Total number of turns: 53
+Total path length: 4431.00 m
+
+Iteration: 112
+Energy for paths: [15191.0, 12465.65, 11484.0] J
+Number of turns: [21, 19, 14]
+Path lengths: [1510.0, 1513.33, 1590.0] m
+Total energy: 39140.65 J
+Total number of turns: 54
+Total path length: 4613.33 m
+
+Iteration: 69
+Energy for paths: [14304.0, 11565.0, 13287.0] J
+Number of turns: [19, 20, 17]
+Path lengths: [1557.0, 1437.0, 1434.0] m
+Total energy: 39156.00 J
+Total number of turns: 56
+Total path length: 4428.00 m
+
+Iteration: 66
+Energy for paths: [12524.0, 12606.0, 14048.0] J
+Number of turns: [14, 16, 18]
+Path lengths: [1510.0, 1590.0, 1510.0] m
+Total energy: 39178.00 J
+Total number of turns: 48
+Total path length: 4610.00 m
+
+Iteration: 51
+Energy for paths: [11779.0, 14653.7, 12783.65] J
+Number of turns: [19, 27, 17]
+Path lengths: [1520.0, 1593.3400000000001, 1513.33] m
+Total energy: 39216.35 J
+Total number of turns: 63
+Total path length: 4626.67 m
+
+Iteration: 162
+Energy for paths: [14450.0, 11084.0, 13728.0] J
+Number of turns: [20, 14, 18]
+Path lengths: [1510.0, 1510.0, 1590.0] m
+Total energy: 39262.00 J
+Total number of turns: 52
+Total path length: 4610.00 m
+
+Iteration: 143
+Energy for paths: [13449.7, 12564.0, 13302.65] J
+Number of turns: [23, 14, 16]
+Path lengths: [1513.3400000000001, 1590.0, 1513.33] m
+Total energy: 39316.35 J
+Total number of turns: 53
+Total path length: 4616.67 m
+
+Iteration: 138
+Energy for paths: [11904.7, 13812.0, 13662.65] J
+Number of turns: [18, 22, 16]
+Path lengths: [1513.3400000000001, 1590.0, 1513.33] m
+Total energy: 39379.35 J
+Total number of turns: 56
+Total path length: 4616.67 m
+
+Iteration: 107
+Energy for paths: [11724.65, 15228.65, 12564.0] J
+Number of turns: [18, 22, 14]
+Path lengths: [1513.33, 1513.33, 1590.0] m
+Total energy: 39517.30 J
+Total number of turns: 54
+Total path length: 4616.66 m
+
+Iteration: 180
+Energy for paths: [12021.65, 15972.0, 11523.65] J
+Number of turns: [15, 22, 17]
+Path lengths: [1513.33, 1590.0, 1513.33] m
+Total energy: 39517.30 J
+Total number of turns: 54
+Total path length: 4616.66 m
+
+Iteration: 191
+Energy for paths: [11886.0, 15069.65, 12566.0] J
+Number of turns: [16, 23, 16]
+Path lengths: [1590.0, 1513.33, 1510.0] m
+Total energy: 39521.65 J
+Total number of turns: 55
+Total path length: 4613.33 m
+
+Iteration: 136
+Energy for paths: [14850.0, 11703.65, 12968.0] J
+Number of turns: [20, 17, 18]
+Path lengths: [1590.0, 1513.33, 1510.0] m
+Total energy: 39521.65 J
+Total number of turns: 55
+Total path length: 4613.33 m
+
+Iteration: 173
+Energy for paths: [12021.65, 12926.0, 14616.0] J
+Number of turns: [15, 16, 26]
+Path lengths: [1513.33, 1510.0, 1590.0] m
+Total energy: 39563.65 J
+Total number of turns: 57
+Total path length: 4613.33 m
+
+Iteration: 42
+Energy for paths: [11804.0, 16014.0, 11825.0] J
+Number of turns: [14, 24, 15]
+Path lengths: [1510.0, 1590.0, 1510.0] m
+Total energy: 39643.00 J
+Total number of turns: 53
+Total path length: 4610.00 m
+
+Iteration: 111
+Energy for paths: [11486.0, 15972.0, 12222.65] J
+Number of turns: [16, 22, 16]
+Path lengths: [1510.0, 1590.0, 1513.33] m
+Total energy: 39680.65 J
+Total number of turns: 54
+Total path length: 4613.33 m
+
+Iteration: 192
+Energy for paths: [12214.0, 11896.0, 15574.65] J
+Number of turns: [14, 16, 28]
+Path lengths: [1520.0, 1520.0, 1593.33] m
+Total energy: 39684.65 J
+Total number of turns: 58
+Total path length: 4633.33 m
+
+Iteration: 151
+Energy for paths: [11886.0, 12566.0, 15270.7] J
+Number of turns: [16, 16, 24]
+Path lengths: [1590.0, 1510.0, 1513.3400000000001] m
+Total energy: 39722.70 J
+Total number of turns: 56
+Total path length: 4613.34 m
+
+Iteration: 148
+Energy for paths: [12206.0, 14305.65, 13286.0] J
+Number of turns: [16, 19, 16]
+Path lengths: [1510.0, 1593.33, 1510.0] m
+Total energy: 39797.65 J
+Total number of turns: 51
+Total path length: 4613.33 m
+
+Iteration: 96
+Energy for paths: [15997.0, 11955.0, 11850.0] J
+Number of turns: [22, 20, 15]
+Path lengths: [1595.0, 1515.0, 1515.0] m
+Total energy: 39802.00 J
+Total number of turns: 57
+Total path length: 4625.00 m
+
+Iteration: 130
+Energy for paths: [11886.0, 15609.65, 12306.65] J
+Number of turns: [16, 23, 20]
+Path lengths: [1590.0, 1513.33, 1513.33] m
+Total energy: 39802.30 J
+Total number of turns: 59
+Total path length: 4616.66 m
+
+Iteration: 11
+Energy for paths: [11521.699999999999, 16023.0, 12325.7] J
+Number of turns: [16, 23, 20]
+Path lengths: [1517.14, 1596.0, 1517.1399999999999] m
+Total energy: 39870.40 J
+Total number of turns: 59
+Total path length: 4630.28 m
+
+Iteration: 125
+Energy for paths: [12311.0, 14487.7, 13431.0] J
+Number of turns: [21, 21, 21]
+Path lengths: [1510.0, 1513.3400000000001, 1590.0] m
+Total energy: 40229.70 J
+Total number of turns: 63
+Total path length: 4613.34 m
+
+Iteration: 169
+Energy for paths: [14115.0, 13066.699999999999, 13148.75] J
+Number of turns: [20, 21, 23]
+Path lengths: [1515.0, 1517.14, 1597.15] m
+Total energy: 40330.45 J
+Total number of turns: 64
+Total path length: 4629.29 m
+
+Iteration: 106
+Energy for paths: [13738.0, 13947.65, 12732.0] J
+Number of turns: [18, 21, 22]
+Path lengths: [1520.0, 1513.33, 1590.0] m
+Total energy: 40417.65 J
+Total number of turns: 61
+Total path length: 4623.33 m
+
+Iteration: 0
+Energy for paths: [13914.7, 14448.0, 12084.65] J
+Number of turns: [28, 18, 18]
+Path lengths: [1513.3400000000001, 1590.0, 1513.33] m
+Total energy: 40447.35 J
+Total number of turns: 64
+Total path length: 4616.67 m
+
+Iteration: 30
+Energy for paths: [13804.0, 12566.0, 14148.7] J
+Number of turns: [24, 16, 22]
+Path lengths: [1580.0, 1510.0, 1513.3400000000001] m
+Total energy: 40518.70 J
+Total number of turns: 62
+Total path length: 4603.34 m
+
+Iteration: 198
+Energy for paths: [12762.65, 13410.0, 14466.65] J
+Number of turns: [16, 20, 20]
+Path lengths: [1513.33, 1590.0, 1513.33] m
+Total energy: 40639.30 J
+Total number of turns: 56
+Total path length: 4616.66 m
+
+Iteration: 80
+Energy for paths: [12423.65, 12206.0, 16014.0] J
+Number of turns: [17, 16, 24]
+Path lengths: [1513.33, 1510.0, 1590.0] m
+Total energy: 40643.65 J
+Total number of turns: 57
+Total path length: 4613.33 m
+
+Iteration: 79
+Energy for paths: [12645.0, 14310.0, 13689.0] J
+Number of turns: [20, 20, 19]
+Path lengths: [1437.0, 1554.0, 1434.0] m
+Total energy: 40644.00 J
+Total number of turns: 59
+Total path length: 4425.00 m
+
+Iteration: 60
+Energy for paths: [13308.0, 12249.0, 15087.0] J
+Number of turns: [18, 19, 22]
+Path lengths: [1434.0, 1434.0, 1557.0] m
+Total energy: 40644.00 J
+Total number of turns: 59
+Total path length: 4425.00 m
+
+Iteration: 98
+Energy for paths: [13686.0, 13026.7, 14090.0] J
+Number of turns: [16, 20, 20]
+Path lengths: [1590.0, 1513.3400000000001, 1510.0] m
+Total energy: 40802.70 J
+Total number of turns: 56
+Total path length: 4613.34 m
+
+Iteration: 134
+Energy for paths: [14265.65, 12290.0, 14448.0] J
+Number of turns: [19, 20, 18]
+Path lengths: [1513.33, 1510.0, 1590.0] m
+Total energy: 41003.65 J
+Total number of turns: 57
+Total path length: 4613.33 m
+
+Iteration: 121
+Energy for paths: [15212.0, 12442.65, 13433.0] J
+Number of turns: [22, 16, 23]
+Path lengths: [1510.0, 1593.33, 1510.0] m
+Total energy: 41087.65 J
+Total number of turns: 61
+Total path length: 4613.33 m
+
+Iteration: 156
+Energy for paths: [13094.0, 12629.0, 15427.65] J
+Number of turns: [24, 19, 21]
+Path lengths: [1510.0, 1510.0, 1593.33] m
+Total energy: 41150.65 J
+Total number of turns: 64
+Total path length: 4613.33 m
+
+Iteration: 26
+Energy for paths: [15972.0, 13667.0, 11523.7] J
+Number of turns: [22, 17, 17]
+Path lengths: [1590.0, 1510.0, 1513.3400000000001] m
+Total energy: 41162.70 J
+Total number of turns: 56
+Total path length: 4613.34 m
+
+Iteration: 101
+Energy for paths: [12934.0, 15988.65, 12290.0] J
+Number of turns: [14, 22, 20]
+Path lengths: [1520.0, 1593.33, 1510.0] m
+Total energy: 41212.65 J
+Total number of turns: 56
+Total path length: 4623.33 m
+
+Iteration: 182
+Energy for paths: [13326.0, 15593.0, 12306.7] J
+Number of turns: [16, 23, 20]
+Path lengths: [1590.0, 1510.0, 1513.3400000000001] m
+Total energy: 41225.70 J
+Total number of turns: 59
+Total path length: 4613.34 m
+
+Iteration: 124
+Energy for paths: [12888.65, 15336.0, 13026.7] J
+Number of turns: [22, 26, 20]
+Path lengths: [1513.33, 1590.0, 1513.3400000000001] m
+Total energy: 41251.35 J
+Total number of turns: 68
+Total path length: 4616.67 m
+
+Iteration: 181
+Energy for paths: [11825.0, 15628.7, 13851.65] J
+Number of turns: [15, 22, 25]
+Path lengths: [1510.0, 1593.3400000000001, 1513.33] m
+Total energy: 41305.35 J
+Total number of turns: 62
+Total path length: 4616.67 m
+
+Iteration: 105
+Energy for paths: [12750.65, 15988.65, 12629.0] J
+Number of turns: [24, 22, 19]
+Path lengths: [1513.33, 1593.33, 1510.0] m
+Total energy: 41368.30 J
+Total number of turns: 65
+Total path length: 4616.66 m
+
+Iteration: 185
+Energy for paths: [14557.0, 12717.0, 14104.699999999999] J
+Number of turns: [22, 22, 19]
+Path lengths: [1595.0, 1515.0, 1517.14] m
+Total energy: 41378.70 J
+Total number of turns: 63
+Total path length: 4627.14 m
+
+Iteration: 157
+Energy for paths: [14875.0, 14305.7, 12241.75] J
+Number of turns: [20, 20, 16]
+Path lengths: [1595.0, 1517.1399999999999, 1517.15] m
+Total energy: 41422.45 J
+Total number of turns: 56
+Total path length: 4629.29 m
+
+Iteration: 139
+Energy for paths: [13812.0, 13269.65, 14450.0] J
+Number of turns: [22, 23, 20]
+Path lengths: [1590.0, 1513.33, 1510.0] m
+Total energy: 41531.65 J
+Total number of turns: 65
+Total path length: 4613.33 m
+
+Iteration: 68
+Energy for paths: [15972.0, 13248.65, 12311.0] J
+Number of turns: [22, 22, 21]
+Path lengths: [1590.0, 1513.33, 1510.0] m
+Total energy: 41531.65 J
+Total number of turns: 65
+Total path length: 4613.33 m
+
+Iteration: 164
+Energy for paths: [11724.65, 13863.65, 15988.65] J
+Number of turns: [18, 17, 22]
+Path lengths: [1513.33, 1513.33, 1593.33] m
+Total energy: 41576.95 J
+Total number of turns: 57
+Total path length: 4619.99 m
+
+Iteration: 189
+Energy for paths: [12907.65, 15408.65, 13428.65] J
+Number of turns: [21, 22, 22]
+Path lengths: [1593.33, 1513.33, 1513.33] m
+Total energy: 41744.95 J
+Total number of turns: 65
+Total path length: 4619.99 m
+
+Iteration: 110
+Energy for paths: [14850.0, 12734.0, 14169.65] J
+Number of turns: [20, 24, 23]
+Path lengths: [1590.0, 1510.0, 1513.33] m
+Total energy: 41753.65 J
+Total number of turns: 67
+Total path length: 4613.33 m
+
+Iteration: 83
+Energy for paths: [14106.65, 14048.0, 13854.0] J
+Number of turns: [20, 18, 24]
+Path lengths: [1513.33, 1510.0, 1590.0] m
+Total energy: 42008.65 J
+Total number of turns: 62
+Total path length: 4613.33 m
+
+Iteration: 128
+Energy for paths: [15997.0, 14496.0, 11542.7] J
+Number of turns: [22, 21, 17]
+Path lengths: [1595.0, 1515.0, 1517.1399999999999] m
+Total energy: 42035.70 J
+Total number of turns: 60
+Total path length: 4627.14 m
+
+Iteration: 54
+Energy for paths: [14885.75, 11860.7, 15597.0] J
+Number of turns: [20, 15, 22]
+Path lengths: [1597.15, 1517.1399999999999, 1515.0] m
+Total energy: 42343.45 J
+Total number of turns: 57
+Total path length: 4629.29 m
+
+Iteration: 166
+Energy for paths: [13458.0, 12961.699999999999, 16081.0] J
+Number of turns: [23, 16, 26]
+Path lengths: [1515.0, 1517.14, 1595.0] m
+Total energy: 42500.70 J
+Total number of turns: 65
+Total path length: 4627.14 m
+
+Iteration: 104
+Energy for paths: [14473.0, 13849.75, 14251.75] J
+Number of turns: [18, 24, 26]
+Path lengths: [1595.0, 1517.15, 1517.15] m
+Total energy: 42574.50 J
+Total number of turns: 68
+Total path length: 4629.30 m
+
+Iteration: 188
+Energy for paths: [13035.0, 13573.699999999999, 15997.0] J
+Number of turns: [20, 28, 22]
+Path lengths: [1515.0, 1517.14, 1595.0] m
+Total energy: 42605.70 J
+Total number of turns: 70
+Total path length: 4627.14 m
+
+Iteration: 86
+Energy for paths: [14450.0, 13545.65, 14616.0] J
+Number of turns: [20, 19, 26]
+Path lengths: [1510.0, 1513.33, 1590.0] m
+Total energy: 42611.65 J
+Total number of turns: 65
+Total path length: 4613.33 m
+
+Iteration: 195
+Energy for paths: [14625.65, 12306.65, 15871.65] J
+Number of turns: [19, 20, 25]
+Path lengths: [1513.33, 1513.33, 1593.33] m
+Total energy: 42803.95 J
+Total number of turns: 64
+Total path length: 4619.99 m
+
+Iteration: 100
+Energy for paths: [15647.699999999999, 13669.7, 13489.75] J
+Number of turns: [22, 24, 24]
+Path lengths: [1597.14, 1517.1399999999999, 1517.15] m
+Total energy: 42807.15 J
+Total number of turns: 70
+Total path length: 4631.43 m
+
+Iteration: 196
+Energy for paths: [12315.0, 14485.75, 16007.75] J
+Number of turns: [20, 20, 22]
+Path lengths: [1515.0, 1517.1499999999999, 1597.1499999999999] m
+Total energy: 42808.50 J
+Total number of turns: 62
+Total path length: 4629.30 m
+
+Iteration: 149
+Energy for paths: [13010.0, 13830.7, 16009.7] J
+Number of turns: [20, 24, 23]
+Path lengths: [1510.0, 1513.3400000000001, 1593.3400000000001] m
+Total energy: 42850.40 J
+Total number of turns: 67
+Total path length: 4616.68 m
+
+Iteration: 40
+Energy for paths: [13751.0, 14090.0, 15055.7] J
+Number of turns: [21, 20, 29]
+Path lengths: [1510.0, 1510.0, 1593.3400000000001] m
+Total energy: 42896.70 J
+Total number of turns: 70
+Total path length: 4613.34 m
+
+Iteration: 174
+Energy for paths: [14810.0, 15429.65, 12706.65] J
+Number of turns: [20, 23, 20]
+Path lengths: [1510.0, 1513.33, 1593.33] m
+Total energy: 42946.30 J
+Total number of turns: 63
+Total path length: 4616.66 m
+
+Iteration: 135
+Energy for paths: [14450.0, 13026.7, 15469.65] J
+Number of turns: [20, 20, 23]
+Path lengths: [1510.0, 1513.3400000000001, 1593.33] m
+Total energy: 42946.35 J
+Total number of turns: 63
+Total path length: 4616.67 m
+
+Iteration: 179
+Energy for paths: [14216.0, 14448.0, 14370.65] J
+Number of turns: [26, 18, 24]
+Path lengths: [1510.0, 1590.0, 1513.33] m
+Total energy: 43034.65 J
+Total number of turns: 68
+Total path length: 4613.33 m
+
+Iteration: 114
+Energy for paths: [12767.699999999999, 14263.7, 16030.699999999999] J
+Number of turns: [22, 18, 25]
+Path lengths: [1597.14, 1517.1399999999999, 1517.14] m
+Total energy: 43062.10 J
+Total number of turns: 65
+Total path length: 4631.42 m
+
+Iteration: 176
+Energy for paths: [14029.65, 13905.65, 15191.0] J
+Number of turns: [23, 19, 21]
+Path lengths: [1593.33, 1513.33, 1510.0] m
+Total energy: 43126.30 J
+Total number of turns: 63
+Total path length: 4616.66 m
+
+Iteration: 99
+Energy for paths: [14658.0, 14085.7, 14450.0] J
+Number of turns: [28, 19, 20]
+Path lengths: [1590.0, 1513.3400000000001, 1510.0] m
+Total energy: 43193.70 J
+Total number of turns: 67
+Total path length: 4613.34 m
+
+Iteration: 178
+Energy for paths: [14291.699999999999, 14814.0, 14104.7] J
+Number of turns: [26, 19, 19]
+Path lengths: [1597.14, 1515.0, 1517.14] m
+Total energy: 43210.40 J
+Total number of turns: 64
+Total path length: 4629.28 m
+
+Iteration: 142
+Energy for paths: [14466.65, 14085.7, 14674.65] J
+Number of turns: [20, 19, 28]
+Path lengths: [1513.33, 1513.3400000000001, 1593.33] m
+Total energy: 43227.00 J
+Total number of turns: 67
+Total path length: 4620.00 m
+
+Iteration: 144
+Energy for paths: [15647.75, 13087.75, 14506.699999999999] J
+Number of turns: [22, 22, 21]
+Path lengths: [1597.1499999999999, 1517.15, 1517.14] m
+Total energy: 43242.20 J
+Total number of turns: 65
+Total path length: 4631.44 m
+
+Iteration: 167
+Energy for paths: [12729.7, 15990.65, 14616.0] J
+Number of turns: [23, 24, 26]
+Path lengths: [1513.3400000000001, 1513.33, 1590.0] m
+Total energy: 43336.35 J
+Total number of turns: 73
+Total path length: 4616.67 m
+
+Iteration: 194
+Energy for paths: [14873.0, 15593.0, 13029.0] J
+Number of turns: [23, 23, 19]
+Path lengths: [1510.0, 1510.0, 1590.0] m
+Total energy: 43495.00 J
+Total number of turns: 65
+Total path length: 4610.00 m
+
+Iteration: 133
+Energy for paths: [14850.0, 15609.7, 13115.0] J
+Number of turns: [20, 23, 25]
+Path lengths: [1590.0, 1513.3400000000001, 1510.0] m
+Total energy: 43574.70 J
+Total number of turns: 68
+Total path length: 4613.34 m
+
+Iteration: 91
+Energy for paths: [14069.0, 15972.0, 13688.0] J
+Number of turns: [19, 22, 18]
+Path lengths: [1510.0, 1590.0, 1510.0] m
+Total energy: 43729.00 J
+Total number of turns: 59
+Total path length: 4610.00 m
+
+Iteration: 119
+Energy for paths: [13881.0, 16007.75, 13860.0] J
+Number of turns: [26, 22, 25]
+Path lengths: [1515.0, 1597.15, 1515.0] m
+Total energy: 43748.75 J
+Total number of turns: 73
+Total path length: 4627.15 m
+
+Iteration: 108
+Energy for paths: [14106.7, 15972.0, 13704.7] J
+Number of turns: [20, 22, 18]
+Path lengths: [1513.3400000000001, 1590.0, 1513.3400000000001] m
+Total energy: 43783.40 J
+Total number of turns: 60
+Total path length: 4616.68 m
+
+Iteration: 187
+Energy for paths: [15628.7, 12734.0, 15471.65] J
+Number of turns: [22, 24, 25]
+Path lengths: [1593.3400000000001, 1510.0, 1513.33] m
+Total energy: 43834.35 J
+Total number of turns: 71
+Total path length: 4616.67 m
+
+Iteration: 160
+Energy for paths: [14104.7, 14249.7, 15543.0] J
+Number of turns: [19, 24, 23]
+Path lengths: [1517.1399999999999, 1597.1399999999999, 1500.0] m
+Total energy: 43897.40 J
+Total number of turns: 66
+Total path length: 4614.28 m
+
+Iteration: 137
+Energy for paths: [15829.7, 15997.0, 12166.7] J
+Number of turns: [24, 22, 21]
+Path lengths: [1517.1399999999999, 1595.0, 1517.1399999999999] m
+Total energy: 43993.40 J
+Total number of turns: 67
+Total path length: 4629.28 m
+
+Iteration: 90
+Energy for paths: [13426.65, 14789.0, 15789.65] J
+Number of turns: [20, 19, 23]
+Path lengths: [1593.33, 1510.0, 1513.33] m
+Total energy: 44005.30 J
+Total number of turns: 62
+Total path length: 4616.66 m
+
+Iteration: 131
+Energy for paths: [15593.0, 15988.65, 12507.65] J
+Number of turns: [23, 22, 21]
+Path lengths: [1510.0, 1593.33, 1513.33] m
+Total energy: 44089.30 J
+Total number of turns: 66
+Total path length: 4616.66 m
+
+Iteration: 87
+Energy for paths: [16374.0, 13545.65, 14232.65] J
+Number of turns: [24, 19, 26]
+Path lengths: [1590.0, 1513.33, 1513.33] m
+Total energy: 44152.30 J
+Total number of turns: 69
+Total path length: 4616.66 m
+
+Iteration: 67
+Energy for paths: [14050.65, 14132.0, 15974.0] J
+Number of turns: [24, 22, 24]
+Path lengths: [1593.33, 1510.0, 1510.0] m
+Total energy: 44156.65 J
+Total number of turns: 70
+Total path length: 4613.33 m
+
+Iteration: 93
+Energy for paths: [14616.0, 15588.65, 14069.0] J
+Number of turns: [26, 22, 19]
+Path lengths: [1590.0, 1513.33, 1510.0] m
+Total energy: 44273.65 J
+Total number of turns: 67
+Total path length: 4613.33 m
+
+Iteration: 177
+Energy for paths: [15974.0, 14616.0, 13746.65] J
+Number of turns: [24, 26, 20]
+Path lengths: [1510.0, 1590.0, 1513.33] m
+Total energy: 44336.65 J
+Total number of turns: 70
+Total path length: 4613.33 m
+
+Iteration: 146
+Energy for paths: [14751.65, 15212.0, 14616.0] J
+Number of turns: [25, 22, 26]
+Path lengths: [1513.33, 1510.0, 1590.0] m
+Total energy: 44579.65 J
+Total number of turns: 73
+Total path length: 4613.33 m
+
+Iteration: 117
+Energy for paths: [14835.65, 13751.0, 16014.0] J
+Number of turns: [29, 21, 24]
+Path lengths: [1513.33, 1510.0, 1590.0] m
+Total energy: 44600.65 J
+Total number of turns: 74
+Total path length: 4613.33 m
+
+Iteration: 84
+Energy for paths: [13246.7, 15371.7, 15999.0] J
+Number of turns: [21, 26, 24]
+Path lengths: [1517.14, 1597.1399999999999, 1515.0] m
+Total energy: 44617.40 J
+Total number of turns: 71
+Total path length: 4629.28 m
+
+Iteration: 175
+Energy for paths: [14616.0, 14789.0, 15228.7] J
+Number of turns: [26, 19, 22]
+Path lengths: [1590.0, 1510.0, 1513.3400000000001] m
+Total energy: 44633.70 J
+Total number of turns: 67
+Total path length: 4613.34 m
+
+Iteration: 57
+Energy for paths: [14216.0, 16014.0, 14466.65] J
+Number of turns: [26, 24, 20]
+Path lengths: [1510.0, 1590.0, 1513.33] m
+Total energy: 44696.65 J
+Total number of turns: 70
+Total path length: 4613.33 m
+
+Iteration: 127
+Energy for paths: [14917.0, 16359.0, 13479.0] J
+Number of turns: [22, 24, 24]
+Path lengths: [1595.0, 1515.0, 1515.0] m
+Total energy: 44755.00 J
+Total number of turns: 70
+Total path length: 4625.00 m
+
+Iteration: 145
+Energy for paths: [14616.0, 15212.0, 14952.65] J
+Number of turns: [26, 22, 26]
+Path lengths: [1590.0, 1510.0, 1513.33] m
+Total energy: 44780.65 J
+Total number of turns: 74
+Total path length: 4613.33 m
+
+Iteration: 97
+Energy for paths: [13445.7, 16411.7, 15025.7] J
+Number of turns: [20, 26, 20]
+Path lengths: [1597.1399999999999, 1517.1399999999999, 1517.14] m
+Total energy: 44883.10 J
+Total number of turns: 66
+Total path length: 4631.42 m
+
+Iteration: 92
+Energy for paths: [14852.0, 15831.65, 14314.7] J
+Number of turns: [22, 25, 28]
+Path lengths: [1510.0, 1513.33, 1593.3400000000001] m
+Total energy: 44998.35 J
+Total number of turns: 75
+Total path length: 4616.67 m
+
+Iteration: 153
+Energy for paths: [16776.0, 13767.7, 14466.7] J
+Number of turns: [26, 21, 20]
+Path lengths: [1590.0, 1513.3400000000001, 1513.3400000000001] m
+Total energy: 45010.40 J
+Total number of turns: 67
+Total path length: 4616.68 m
+
+Iteration: 168
+Energy for paths: [14466.7, 13449.65, 17194.65] J
+Number of turns: [20, 23, 28]
+Path lengths: [1513.3400000000001, 1513.33, 1593.33] m
+Total energy: 45111.00 J
+Total number of turns: 71
+Total path length: 4620.00 m
+
+Iteration: 150
+Energy for paths: [14887.7, 15639.0, 14641.0] J
+Number of turns: [22, 24, 26]
+Path lengths: [1517.1399999999999, 1515.0, 1595.0] m
+Total energy: 45167.70 J
+Total number of turns: 72
+Total path length: 4627.14 m
+
+Iteration: 199
+Energy for paths: [13851.65, 15993.0, 15593.0] J
+Number of turns: [25, 23, 23]
+Path lengths: [1513.33, 1590.0, 1510.0] m
+Total energy: 45437.65 J
+Total number of turns: 71
+Total path length: 4613.33 m
+
+Iteration: 63
+Energy for paths: [15614.0, 14232.7, 15612.0] J
+Number of turns: [24, 26, 22]
+Path lengths: [1510.0, 1513.3400000000001, 1590.0] m
+Total energy: 45458.70 J
+Total number of turns: 72
+Total path length: 4613.34 m
+
+Iteration: 120
+Energy for paths: [14450.0, 14216.0, 16834.65] J
+Number of turns: [20, 26, 28]
+Path lengths: [1510.0, 1510.0, 1593.33] m
+Total energy: 45500.65 J
+Total number of turns: 74
+Total path length: 4613.33 m
+
+Iteration: 115
+Energy for paths: [15813.0, 14090.0, 15614.0] J
+Number of turns: [23, 20, 24]
+Path lengths: [1590.0, 1510.0, 1510.0] m
+Total energy: 45517.00 J
+Total number of turns: 67
+Total path length: 4610.00 m
+
+Iteration: 147
+Energy for paths: [14450.0, 16794.699999999997, 14616.0] J
+Number of turns: [20, 28, 26]
+Path lengths: [1510.0, 1513.3400000000001, 1590.0] m
+Total energy: 45860.70 J
+Total number of turns: 74
+Total path length: 4613.34 m
+
+Iteration: 118
+Energy for paths: [15990.65, 14542.0, 16030.7] J
+Number of turns: [24, 22, 24]
+Path lengths: [1513.33, 1520.0, 1593.3400000000001] m
+Total energy: 46563.35 J
+Total number of turns: 70
+Total path length: 4626.67 m
+

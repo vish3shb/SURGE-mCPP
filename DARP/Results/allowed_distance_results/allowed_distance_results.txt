@@ -1,0 +1,4401 @@
+Iteration: 0
+Turns: [76, 80, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 3.559
+Minimum Required Distance: 260.242
+Connectivity Check Time: 3.653 seconds
+Overall Time: 3.653 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 78, 'shift_sampled/uav_2_sampled_path.txt': 116, 'shift_sampled/uav_3_sampled_path.txt': -407}
+
+Iteration: 1
+Turns: [80, 76, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 4.028
+Minimum Required Distance: 245.266
+Connectivity Check Time: 3.859 seconds
+Overall Time: 3.859 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -73, 'shift_sampled/uav_2_sampled_path.txt': -84, 'shift_sampled/uav_3_sampled_path.txt': 46}
+
+Iteration: 2
+Turns: [80, 76, 76]
+Average Turns: 20.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 240.468
+Connectivity Check Time: 3.995 seconds
+Overall Time: 3.995 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -101, 'shift_sampled/uav_2_sampled_path.txt': 147, 'shift_sampled/uav_3_sampled_path.txt': -341}
+
+Iteration: 1
+Turns: [80, 76, 76]
+Average Turns: 18.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 282.452
+Connectivity Check Time: 3.704 seconds
+Overall Time: 3.704 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 343, 'shift_sampled/uav_2_sampled_path.txt': -116, 'shift_sampled/uav_3_sampled_path.txt': -27}
+
+Iteration: 2
+Turns: [76, 80, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 6.128
+Minimum Required Distance: 240.017
+Connectivity Check Time: 3.741 seconds
+Overall Time: 3.741 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -113, 'shift_sampled/uav_2_sampled_path.txt': 111, 'shift_sampled/uav_3_sampled_path.txt': -340}
+
+Iteration: 3
+Turns: [76, 80, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 4.028
+Minimum Required Distance: 285.215
+Connectivity Check Time: 3.385 seconds
+Overall Time: 3.385 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 338, 'shift_sampled/uav_2_sampled_path.txt': 232, 'shift_sampled/uav_3_sampled_path.txt': 261}
+
+Iteration: 5
+Turns: [76, 76, 80]
+Average Turns: 18.000
+Standard Deviation Turns: 4.899
+Minimum Required Distance: 275.949
+Connectivity Check Time: 3.259 seconds
+Overall Time: 3.259 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 195, 'shift_sampled/uav_2_sampled_path.txt': 239, 'shift_sampled/uav_3_sampled_path.txt': -136}
+
+Iteration: 7
+Turns: [76, 76, 80]
+Average Turns: 20.667
+Standard Deviation Turns: 6.182
+Minimum Required Distance: 281.603
+Connectivity Check Time: 3.890 seconds
+Overall Time: 3.890 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -160, 'shift_sampled/uav_2_sampled_path.txt': -156, 'shift_sampled/uav_3_sampled_path.txt': -395}
+
+Iteration: 9
+Turns: [80, 76, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 271.202
+Connectivity Check Time: 3.348 seconds
+Overall Time: 3.348 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 157, 'shift_sampled/uav_2_sampled_path.txt': -190, 'shift_sampled/uav_3_sampled_path.txt': 246}
+
+Iteration: 12
+Turns: [76, 80, 76]
+Average Turns: 16.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 298.022
+Connectivity Check Time: 3.719 seconds
+Overall Time: 3.719 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -27, 'shift_sampled/uav_2_sampled_path.txt': 173, 'shift_sampled/uav_3_sampled_path.txt': -84}
+
+Iteration: 14
+Turns: [80, 76, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 280.000
+Connectivity Check Time: 3.826 seconds
+Overall Time: 3.826 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 66, 'shift_sampled/uav_2_sampled_path.txt': -395, 'shift_sampled/uav_3_sampled_path.txt': 104}
+
+Iteration: 15
+Turns: [76, 80, 76]
+Average Turns: 16.000
+Standard Deviation Turns: 3.266
+Minimum Required Distance: 280.179
+Connectivity Check Time: 3.646 seconds
+Overall Time: 3.646 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -349, 'shift_sampled/uav_2_sampled_path.txt': 188, 'shift_sampled/uav_3_sampled_path.txt': -226}
+
+Iteration: 16
+Turns: [76, 80, 76]
+Average Turns: 17.667
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 265.213
+Connectivity Check Time: 3.502 seconds
+Overall Time: 3.502 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -194, 'shift_sampled/uav_2_sampled_path.txt': 244, 'shift_sampled/uav_3_sampled_path.txt': 362}
+
+Iteration: 17
+Turns: [80, 76, 76]
+Average Turns: 22.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 281.758
+Connectivity Check Time: 3.646 seconds
+Overall Time: 3.646 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -342, 'shift_sampled/uav_2_sampled_path.txt': -401, 'shift_sampled/uav_3_sampled_path.txt': -246}
+
+Iteration: 19
+Turns: [80, 76, 76]
+Average Turns: 21.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 260.000
+Connectivity Check Time: 3.685 seconds
+Overall Time: 3.685 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 294, 'shift_sampled/uav_2_sampled_path.txt': 216, 'shift_sampled/uav_3_sampled_path.txt': 241}
+
+Iteration: 20
+Turns: [76, 80, 76]
+Average Turns: 22.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 260.000
+Connectivity Check Time: 3.821 seconds
+Overall Time: 3.821 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 180, 'shift_sampled/uav_2_sampled_path.txt': -299, 'shift_sampled/uav_3_sampled_path.txt': -257}
+
+Iteration: 21
+Turns: [80, 76, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 284.961
+Connectivity Check Time: 3.284 seconds
+Overall Time: 3.284 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -244, 'shift_sampled/uav_2_sampled_path.txt': -157, 'shift_sampled/uav_3_sampled_path.txt': 108}
+
+Iteration: 23
+Turns: [76, 76, 80]
+Average Turns: 19.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 280.713
+Connectivity Check Time: 3.605 seconds
+Overall Time: 3.605 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 88, 'shift_sampled/uav_2_sampled_path.txt': -315, 'shift_sampled/uav_3_sampled_path.txt': 119}
+
+Iteration: 25
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 240.425
+Connectivity Check Time: 3.783 seconds
+Overall Time: 3.783 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 35, 'shift_sampled/uav_2_sampled_path.txt': -267, 'shift_sampled/uav_3_sampled_path.txt': -141}
+
+Iteration: 27
+Turns: [76, 76, 80]
+Average Turns: 18.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 256.320
+Connectivity Check Time: 3.396 seconds
+Overall Time: 3.396 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -299, 'shift_sampled/uav_2_sampled_path.txt': 119, 'shift_sampled/uav_3_sampled_path.txt': 322}
+
+Iteration: 28
+Turns: [80, 76, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 301.358
+Connectivity Check Time: 3.556 seconds
+Overall Time: 3.556 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 99, 'shift_sampled/uav_2_sampled_path.txt': -223, 'shift_sampled/uav_3_sampled_path.txt': -17}
+
+Iteration: 29
+Turns: [76, 76, 80]
+Average Turns: 19.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 261.268
+Connectivity Check Time: 3.826 seconds
+Overall Time: 3.826 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 7, 'shift_sampled/uav_2_sampled_path.txt': 0, 'shift_sampled/uav_3_sampled_path.txt': 6}
+
+Iteration: 30
+Turns: [76, 76, 80]
+Average Turns: 20.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 263.509
+Connectivity Check Time: 3.440 seconds
+Overall Time: 3.440 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 225, 'shift_sampled/uav_2_sampled_path.txt': 249, 'shift_sampled/uav_3_sampled_path.txt': 389}
+
+Iteration: 31
+Turns: [76, 80, 76]
+Average Turns: 21.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 242.539
+Connectivity Check Time: 3.813 seconds
+Overall Time: 3.813 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 179, 'shift_sampled/uav_2_sampled_path.txt': 344, 'shift_sampled/uav_3_sampled_path.txt': -386}
+
+Iteration: 32
+Turns: [76, 76, 80]
+Average Turns: 20.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 276.020
+Connectivity Check Time: 3.901 seconds
+Overall Time: 3.901 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -164, 'shift_sampled/uav_2_sampled_path.txt': 283, 'shift_sampled/uav_3_sampled_path.txt': 297}
+
+Iteration: 33
+Turns: [80, 76, 76]
+Average Turns: 23.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 284.183
+Connectivity Check Time: 3.806 seconds
+Overall Time: 3.806 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 235, 'shift_sampled/uav_2_sampled_path.txt': 318, 'shift_sampled/uav_3_sampled_path.txt': -235}
+
+Iteration: 34
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 290.000
+Connectivity Check Time: 3.782 seconds
+Overall Time: 3.782 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 323, 'shift_sampled/uav_2_sampled_path.txt': 339, 'shift_sampled/uav_3_sampled_path.txt': 182}
+
+Iteration: 35
+Turns: [80, 76, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 288.956
+Connectivity Check Time: 3.788 seconds
+Overall Time: 3.788 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -152, 'shift_sampled/uav_2_sampled_path.txt': -54, 'shift_sampled/uav_3_sampled_path.txt': 60}
+
+Iteration: 36
+Turns: [76, 76, 80]
+Average Turns: 22.667
+Standard Deviation Turns: 4.110
+Minimum Required Distance: 257.140
+Connectivity Check Time: 3.941 seconds
+Overall Time: 3.941 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -228, 'shift_sampled/uav_2_sampled_path.txt': -395, 'shift_sampled/uav_3_sampled_path.txt': 264}
+
+Iteration: 37
+Turns: [80, 76, 76]
+Average Turns: 20.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 267.433
+Connectivity Check Time: 3.790 seconds
+Overall Time: 3.790 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -203, 'shift_sampled/uav_2_sampled_path.txt': -169, 'shift_sampled/uav_3_sampled_path.txt': 113}
+
+Iteration: 38
+Turns: [76, 80, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 307.612
+Connectivity Check Time: 3.641 seconds
+Overall Time: 3.641 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 314, 'shift_sampled/uav_2_sampled_path.txt': 27, 'shift_sampled/uav_3_sampled_path.txt': -246}
+
+Iteration: 39
+Turns: [76, 80, 76]
+Average Turns: 16.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 297.700
+Connectivity Check Time: 3.553 seconds
+Overall Time: 3.553 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 200, 'shift_sampled/uav_2_sampled_path.txt': -61, 'shift_sampled/uav_3_sampled_path.txt': 24}
+
+Iteration: 40
+Turns: [76, 76, 80]
+Average Turns: 16.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 280.022
+Connectivity Check Time: 3.598 seconds
+Overall Time: 3.598 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 212, 'shift_sampled/uav_2_sampled_path.txt': 122, 'shift_sampled/uav_3_sampled_path.txt': 258}
+
+Iteration: 41
+Turns: [76, 76, 80]
+Average Turns: 22.667
+Standard Deviation Turns: 4.110
+Minimum Required Distance: 255.000
+Connectivity Check Time: 3.614 seconds
+Overall Time: 3.614 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 324, 'shift_sampled/uav_2_sampled_path.txt': -259, 'shift_sampled/uav_3_sampled_path.txt': -403}
+
+Iteration: 42
+Turns: [76, 76, 80]
+Average Turns: 16.000
+Standard Deviation Turns: 3.742
+Minimum Required Distance: 286.356
+Connectivity Check Time: 3.773 seconds
+Overall Time: 3.773 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 97, 'shift_sampled/uav_2_sampled_path.txt': 321, 'shift_sampled/uav_3_sampled_path.txt': 22}
+
+Iteration: 43
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 4.784
+Minimum Required Distance: 272.029
+Connectivity Check Time: 3.466 seconds
+Overall Time: 3.466 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 134, 'shift_sampled/uav_2_sampled_path.txt': 314, 'shift_sampled/uav_3_sampled_path.txt': 303}
+
+Iteration: 44
+Turns: [80, 76, 76]
+Average Turns: 19.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 297.700
+Connectivity Check Time: 3.836 seconds
+Overall Time: 3.836 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 82, 'shift_sampled/uav_2_sampled_path.txt': -319, 'shift_sampled/uav_3_sampled_path.txt': 390}
+
+Iteration: 47
+Turns: [76, 76, 80]
+Average Turns: 17.667
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 260.768
+Connectivity Check Time: 3.701 seconds
+Overall Time: 3.701 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 168, 'shift_sampled/uav_2_sampled_path.txt': -102, 'shift_sampled/uav_3_sampled_path.txt': -244}
+
+Iteration: 48
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 280.401
+Connectivity Check Time: 3.550 seconds
+Overall Time: 3.551 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -136, 'shift_sampled/uav_2_sampled_path.txt': 213, 'shift_sampled/uav_3_sampled_path.txt': 304}
+
+Iteration: 50
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 255.969
+Connectivity Check Time: 3.837 seconds
+Overall Time: 3.837 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -373, 'shift_sampled/uav_2_sampled_path.txt': 28, 'shift_sampled/uav_3_sampled_path.txt': 1}
+
+Iteration: 51
+Turns: [80, 76, 76]
+Average Turns: 18.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 261.964
+Connectivity Check Time: 3.596 seconds
+Overall Time: 3.596 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -155, 'shift_sampled/uav_2_sampled_path.txt': 6, 'shift_sampled/uav_3_sampled_path.txt': -92}
+
+Iteration: 53
+Turns: [76, 76, 80]
+Average Turns: 20.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 275.607
+Connectivity Check Time: 3.880 seconds
+Overall Time: 3.880 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -268, 'shift_sampled/uav_2_sampled_path.txt': -200, 'shift_sampled/uav_3_sampled_path.txt': -104}
+
+Iteration: 54
+Turns: [80, 76, 76]
+Average Turns: 17.000
+Standard Deviation Turns: 2.944
+Minimum Required Distance: 282.843
+Connectivity Check Time: 3.731 seconds
+Overall Time: 3.731 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 264, 'shift_sampled/uav_2_sampled_path.txt': -242, 'shift_sampled/uav_3_sampled_path.txt': -168}
+
+Iteration: 56
+Turns: [80, 76, 76]
+Average Turns: 23.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 248.954
+Connectivity Check Time: 3.803 seconds
+Overall Time: 3.803 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -20, 'shift_sampled/uav_2_sampled_path.txt': -125, 'shift_sampled/uav_3_sampled_path.txt': -115}
+
+Iteration: 57
+Turns: [76, 80, 76]
+Average Turns: 21.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 280.713
+Connectivity Check Time: 3.695 seconds
+Overall Time: 3.695 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 198, 'shift_sampled/uav_2_sampled_path.txt': 298, 'shift_sampled/uav_3_sampled_path.txt': -167}
+
+Iteration: 59
+Turns: [76, 76, 80]
+Average Turns: 16.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 301.357
+Connectivity Check Time: 3.438 seconds
+Overall Time: 3.438 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 304, 'shift_sampled/uav_2_sampled_path.txt': -1, 'shift_sampled/uav_3_sampled_path.txt': -111}
+
+Iteration: 60
+Turns: [80, 76, 76]
+Average Turns: 18.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 266.833
+Connectivity Check Time: 3.755 seconds
+Overall Time: 3.755 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -294, 'shift_sampled/uav_2_sampled_path.txt': 200, 'shift_sampled/uav_3_sampled_path.txt': 157}
+
+Iteration: 61
+Turns: [76, 76, 80]
+Average Turns: 19.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 296.816
+Connectivity Check Time: 3.777 seconds
+Overall Time: 3.777 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -381, 'shift_sampled/uav_2_sampled_path.txt': -86, 'shift_sampled/uav_3_sampled_path.txt': 51}
+
+Iteration: 62
+Turns: [76, 80, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 283.771
+Connectivity Check Time: 3.776 seconds
+Overall Time: 3.776 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 341, 'shift_sampled/uav_2_sampled_path.txt': -141, 'shift_sampled/uav_3_sampled_path.txt': 229}
+
+Iteration: 63
+Turns: [76, 76, 80]
+Average Turns: 19.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 258.415
+Connectivity Check Time: 3.598 seconds
+Overall Time: 3.598 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 46, 'shift_sampled/uav_2_sampled_path.txt': -175, 'shift_sampled/uav_3_sampled_path.txt': -129}
+
+Iteration: 64
+Turns: [76, 80, 76]
+Average Turns: 16.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 301.496
+Connectivity Check Time: 3.565 seconds
+Overall Time: 3.565 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 219, 'shift_sampled/uav_2_sampled_path.txt': -62, 'shift_sampled/uav_3_sampled_path.txt': 122}
+
+Iteration: 66
+Turns: [76, 80, 76]
+Average Turns: 21.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 188.157
+Connectivity Check Time: 3.772 seconds
+Overall Time: 3.772 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 73, 'shift_sampled/uav_2_sampled_path.txt': 66, 'shift_sampled/uav_3_sampled_path.txt': -238}
+
+Iteration: 67
+Turns: [76, 76, 80]
+Average Turns: 21.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 264.764
+Connectivity Check Time: 3.517 seconds
+Overall Time: 3.517 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 70, 'shift_sampled/uav_2_sampled_path.txt': -340, 'shift_sampled/uav_3_sampled_path.txt': 342}
+
+Iteration: 68
+Turns: [80, 76, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 286.400
+Connectivity Check Time: 3.446 seconds
+Overall Time: 3.446 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 127, 'shift_sampled/uav_2_sampled_path.txt': 404, 'shift_sampled/uav_3_sampled_path.txt': 124}
+
+Iteration: 69
+Turns: [76, 76, 80]
+Average Turns: 18.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 260.768
+Connectivity Check Time: 3.337 seconds
+Overall Time: 3.337 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -140, 'shift_sampled/uav_2_sampled_path.txt': -62, 'shift_sampled/uav_3_sampled_path.txt': 47}
+
+Iteration: 70
+Turns: [76, 76, 80]
+Average Turns: 20.667
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 291.339
+Connectivity Check Time: 3.659 seconds
+Overall Time: 3.659 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 70, 'shift_sampled/uav_2_sampled_path.txt': 24, 'shift_sampled/uav_3_sampled_path.txt': 358}
+
+Iteration: 71
+Turns: [76, 80, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 270.405
+Connectivity Check Time: 3.719 seconds
+Overall Time: 3.719 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 380, 'shift_sampled/uav_2_sampled_path.txt': -322, 'shift_sampled/uav_3_sampled_path.txt': 259}
+
+Iteration: 72
+Turns: [76, 80, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 4.714
+Minimum Required Distance: 311.430
+Connectivity Check Time: 3.274 seconds
+Overall Time: 3.274 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -134, 'shift_sampled/uav_2_sampled_path.txt': 242, 'shift_sampled/uav_3_sampled_path.txt': -327}
+
+Iteration: 74
+Turns: [80, 76, 76]
+Average Turns: 18.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 250.000
+Connectivity Check Time: 3.879 seconds
+Overall Time: 3.879 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -371, 'shift_sampled/uav_2_sampled_path.txt': -56, 'shift_sampled/uav_3_sampled_path.txt': -391}
+
+Iteration: 76
+Turns: [76, 80, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 265.886
+Connectivity Check Time: 3.838 seconds
+Overall Time: 3.838 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -196, 'shift_sampled/uav_2_sampled_path.txt': 102, 'shift_sampled/uav_3_sampled_path.txt': -199}
+
+Iteration: 77
+Turns: [80, 76, 76]
+Average Turns: 21.667
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 288.456
+Connectivity Check Time: 3.626 seconds
+Overall Time: 3.626 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 31, 'shift_sampled/uav_2_sampled_path.txt': -124, 'shift_sampled/uav_3_sampled_path.txt': 350}
+
+Iteration: 78
+Turns: [76, 76, 80]
+Average Turns: 15.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 277.191
+Connectivity Check Time: 3.772 seconds
+Overall Time: 3.772 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -370, 'shift_sampled/uav_2_sampled_path.txt': 137, 'shift_sampled/uav_3_sampled_path.txt': 57}
+
+Iteration: 79
+Turns: [76, 80, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 3.771
+Minimum Required Distance: 270.378
+Connectivity Check Time: 4.019 seconds
+Overall Time: 4.019 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -368, 'shift_sampled/uav_2_sampled_path.txt': 33, 'shift_sampled/uav_3_sampled_path.txt': 211}
+
+Iteration: 81
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 277.140
+Connectivity Check Time: 3.796 seconds
+Overall Time: 3.796 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 74, 'shift_sampled/uav_2_sampled_path.txt': 117, 'shift_sampled/uav_3_sampled_path.txt': 49}
+
+Iteration: 82
+Turns: [76, 76, 80]
+Average Turns: 14.667
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 249.603
+Connectivity Check Time: 3.561 seconds
+Overall Time: 3.561 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -349, 'shift_sampled/uav_2_sampled_path.txt': 173, 'shift_sampled/uav_3_sampled_path.txt': -293}
+
+Iteration: 83
+Turns: [76, 76, 80]
+Average Turns: 16.667
+Standard Deviation Turns: 3.859
+Minimum Required Distance: 260.451
+Connectivity Check Time: 3.728 seconds
+Overall Time: 3.728 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 196, 'shift_sampled/uav_2_sampled_path.txt': 144, 'shift_sampled/uav_3_sampled_path.txt': -183}
+
+Iteration: 84
+Turns: [76, 76, 80]
+Average Turns: 22.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 263.059
+Connectivity Check Time: 3.912 seconds
+Overall Time: 3.912 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 63, 'shift_sampled/uav_2_sampled_path.txt': 350, 'shift_sampled/uav_3_sampled_path.txt': 210}
+
+Iteration: 85
+Turns: [76, 76, 80]
+Average Turns: 19.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 265.000
+Connectivity Check Time: 3.903 seconds
+Overall Time: 3.903 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -363, 'shift_sampled/uav_2_sampled_path.txt': -112, 'shift_sampled/uav_3_sampled_path.txt': 7}
+
+Iteration: 86
+Turns: [76, 80, 76]
+Average Turns: 11.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 248.244
+Connectivity Check Time: 3.653 seconds
+Overall Time: 3.653 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 194, 'shift_sampled/uav_2_sampled_path.txt': -270, 'shift_sampled/uav_3_sampled_path.txt': -186}
+
+Iteration: 90
+Turns: [76, 80, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 4.714
+Minimum Required Distance: 302.035
+Connectivity Check Time: 3.782 seconds
+Overall Time: 3.782 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -232, 'shift_sampled/uav_2_sampled_path.txt': -36, 'shift_sampled/uav_3_sampled_path.txt': -403}
+
+Iteration: 91
+Turns: [76, 76, 80]
+Average Turns: 21.667
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 265.120
+Connectivity Check Time: 3.592 seconds
+Overall Time: 3.592 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 111, 'shift_sampled/uav_2_sampled_path.txt': 274, 'shift_sampled/uav_3_sampled_path.txt': -391}
+
+Iteration: 92
+Turns: [76, 80, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 3.682
+Minimum Required Distance: 289.871
+Connectivity Check Time: 3.711 seconds
+Overall Time: 3.711 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -362, 'shift_sampled/uav_2_sampled_path.txt': 138, 'shift_sampled/uav_3_sampled_path.txt': -382}
+
+Iteration: 93
+Turns: [76, 80, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 304.631
+Connectivity Check Time: 3.721 seconds
+Overall Time: 3.721 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -223, 'shift_sampled/uav_2_sampled_path.txt': -160, 'shift_sampled/uav_3_sampled_path.txt': 335}
+
+Iteration: 94
+Turns: [76, 76, 80]
+Average Turns: 17.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 286.356
+Connectivity Check Time: 3.864 seconds
+Overall Time: 3.864 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -394, 'shift_sampled/uav_2_sampled_path.txt': 121, 'shift_sampled/uav_3_sampled_path.txt': 298}
+
+Iteration: 95
+Turns: [80, 76, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 268.002
+Connectivity Check Time: 3.742 seconds
+Overall Time: 3.742 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 17, 'shift_sampled/uav_2_sampled_path.txt': -378, 'shift_sampled/uav_3_sampled_path.txt': -364}
+
+Iteration: 96
+Turns: [76, 80, 76]
+Average Turns: 17.000
+Standard Deviation Turns: 2.944
+Minimum Required Distance: 280.179
+Connectivity Check Time: 3.429 seconds
+Overall Time: 3.429 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 46, 'shift_sampled/uav_2_sampled_path.txt': -29, 'shift_sampled/uav_3_sampled_path.txt': 187}
+
+Iteration: 97
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 264.498
+Connectivity Check Time: 3.452 seconds
+Overall Time: 3.452 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 96, 'shift_sampled/uav_2_sampled_path.txt': 236, 'shift_sampled/uav_3_sampled_path.txt': 52}
+
+Iteration: 98
+Turns: [80, 76, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 280.713
+Connectivity Check Time: 3.654 seconds
+Overall Time: 3.654 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -377, 'shift_sampled/uav_2_sampled_path.txt': -306, 'shift_sampled/uav_3_sampled_path.txt': 275}
+
+Iteration: 99
+Turns: [76, 80, 76]
+Average Turns: 22.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 262.345
+Connectivity Check Time: 3.690 seconds
+Overall Time: 3.690 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -283, 'shift_sampled/uav_2_sampled_path.txt': 17, 'shift_sampled/uav_3_sampled_path.txt': -313}
+
+Iteration: 100
+Turns: [76, 80, 76]
+Average Turns: 21.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 260.063
+Connectivity Check Time: 3.994 seconds
+Overall Time: 3.994 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -59, 'shift_sampled/uav_2_sampled_path.txt': 70, 'shift_sampled/uav_3_sampled_path.txt': 43}
+
+Iteration: 101
+Turns: [80, 76, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 210.000
+Connectivity Check Time: 3.371 seconds
+Overall Time: 3.371 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -404, 'shift_sampled/uav_2_sampled_path.txt': -306, 'shift_sampled/uav_3_sampled_path.txt': -224}
+
+Iteration: 102
+Turns: [76, 80, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 4.028
+Minimum Required Distance: 286.969
+Connectivity Check Time: 3.397 seconds
+Overall Time: 3.397 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -280, 'shift_sampled/uav_2_sampled_path.txt': 317, 'shift_sampled/uav_3_sampled_path.txt': -335}
+
+Iteration: 103
+Turns: [76, 76, 80]
+Average Turns: 18.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 296.816
+Connectivity Check Time: 3.677 seconds
+Overall Time: 3.677 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -7, 'shift_sampled/uav_2_sampled_path.txt': -13, 'shift_sampled/uav_3_sampled_path.txt': -295}
+
+Iteration: 104
+Turns: [76, 76, 80]
+Average Turns: 20.667
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 285.215
+Connectivity Check Time: 4.026 seconds
+Overall Time: 4.026 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 303, 'shift_sampled/uav_2_sampled_path.txt': -347, 'shift_sampled/uav_3_sampled_path.txt': -374}
+
+Iteration: 105
+Turns: [76, 76, 80]
+Average Turns: 15.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 294.160
+Connectivity Check Time: 3.640 seconds
+Overall Time: 3.640 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 61, 'shift_sampled/uav_2_sampled_path.txt': 151, 'shift_sampled/uav_3_sampled_path.txt': -261}
+
+Iteration: 106
+Turns: [80, 76, 76]
+Average Turns: 20.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 255.000
+Connectivity Check Time: 3.879 seconds
+Overall Time: 3.879 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -29, 'shift_sampled/uav_2_sampled_path.txt': -350, 'shift_sampled/uav_3_sampled_path.txt': -259}
+
+Iteration: 107
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 271.532
+Connectivity Check Time: 4.016 seconds
+Overall Time: 4.016 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -290, 'shift_sampled/uav_2_sampled_path.txt': 107, 'shift_sampled/uav_3_sampled_path.txt': -375}
+
+Iteration: 110
+Turns: [80, 76, 76]
+Average Turns: 18.000
+Standard Deviation Turns: 4.899
+Minimum Required Distance: 271.708
+Connectivity Check Time: 3.716 seconds
+Overall Time: 3.716 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 343, 'shift_sampled/uav_2_sampled_path.txt': -71, 'shift_sampled/uav_3_sampled_path.txt': 290}
+
+Iteration: 111
+Turns: [76, 76, 80]
+Average Turns: 20.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 252.095
+Connectivity Check Time: 3.466 seconds
+Overall Time: 3.466 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -88, 'shift_sampled/uav_2_sampled_path.txt': 245, 'shift_sampled/uav_3_sampled_path.txt': -223}
+
+Iteration: 113
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 2.449
+Minimum Required Distance: 251.446
+Connectivity Check Time: 4.089 seconds
+Overall Time: 4.089 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -9, 'shift_sampled/uav_2_sampled_path.txt': 17, 'shift_sampled/uav_3_sampled_path.txt': 353}
+
+Iteration: 114
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 2.449
+Minimum Required Distance: 251.200
+Connectivity Check Time: 3.560 seconds
+Overall Time: 3.560 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 207, 'shift_sampled/uav_2_sampled_path.txt': 179, 'shift_sampled/uav_3_sampled_path.txt': -241}
+
+Iteration: 115
+Turns: [76, 80, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 291.204
+Connectivity Check Time: 4.110 seconds
+Overall Time: 4.110 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -155, 'shift_sampled/uav_2_sampled_path.txt': -262, 'shift_sampled/uav_3_sampled_path.txt': -315}
+
+Iteration: 118
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 268.002
+Connectivity Check Time: 4.185 seconds
+Overall Time: 4.185 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -181, 'shift_sampled/uav_2_sampled_path.txt': 337, 'shift_sampled/uav_3_sampled_path.txt': -14}
+
+Iteration: 119
+Turns: [76, 76, 80]
+Average Turns: 22.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 283.561
+Connectivity Check Time: 3.787 seconds
+Overall Time: 3.787 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 170, 'shift_sampled/uav_2_sampled_path.txt': 160, 'shift_sampled/uav_3_sampled_path.txt': 230}
+
+Iteration: 120
+Turns: [80, 76, 76]
+Average Turns: 20.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 297.700
+Connectivity Check Time: 3.769 seconds
+Overall Time: 3.769 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -82, 'shift_sampled/uav_2_sampled_path.txt': 286, 'shift_sampled/uav_3_sampled_path.txt': -439}
+
+Iteration: 121
+Turns: [76, 80, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 254.290
+Connectivity Check Time: 3.579 seconds
+Overall Time: 3.579 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 188, 'shift_sampled/uav_2_sampled_path.txt': 347, 'shift_sampled/uav_3_sampled_path.txt': 77}
+
+Iteration: 122
+Turns: [80, 76, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 260.016
+Connectivity Check Time: 3.638 seconds
+Overall Time: 3.638 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 138, 'shift_sampled/uav_2_sampled_path.txt': 286, 'shift_sampled/uav_3_sampled_path.txt': -280}
+
+Iteration: 123
+Turns: [76, 80, 76]
+Average Turns: 15.667
+Standard Deviation Turns: 5.907
+Minimum Required Distance: 292.746
+Connectivity Check Time: 3.260 seconds
+Overall Time: 3.260 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 154, 'shift_sampled/uav_2_sampled_path.txt': 288, 'shift_sampled/uav_3_sampled_path.txt': -165}
+
+Iteration: 124
+Turns: [76, 76, 80]
+Average Turns: 21.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 260.242
+Connectivity Check Time: 3.696 seconds
+Overall Time: 3.696 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -263, 'shift_sampled/uav_2_sampled_path.txt': 323, 'shift_sampled/uav_3_sampled_path.txt': -231}
+
+Iteration: 125
+Turns: [80, 76, 76]
+Average Turns: 17.667
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 282.454
+Connectivity Check Time: 3.467 seconds
+Overall Time: 3.467 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -406, 'shift_sampled/uav_2_sampled_path.txt': -193, 'shift_sampled/uav_3_sampled_path.txt': -416}
+
+Iteration: 126
+Turns: [76, 80, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 299.830
+Connectivity Check Time: 4.076 seconds
+Overall Time: 4.076 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 113, 'shift_sampled/uav_2_sampled_path.txt': 181, 'shift_sampled/uav_3_sampled_path.txt': 180}
+
+Iteration: 127
+Turns: [76, 76, 80]
+Average Turns: 21.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 272.029
+Connectivity Check Time: 3.791 seconds
+Overall Time: 3.791 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 82, 'shift_sampled/uav_2_sampled_path.txt': 23, 'shift_sampled/uav_3_sampled_path.txt': 187}
+
+Iteration: 128
+Turns: [80, 76, 76]
+Average Turns: 18.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 260.233
+Connectivity Check Time: 3.632 seconds
+Overall Time: 3.632 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -269, 'shift_sampled/uav_2_sampled_path.txt': -206, 'shift_sampled/uav_3_sampled_path.txt': 321}
+
+Iteration: 129
+Turns: [80, 76, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 5.312
+Minimum Required Distance: 238.242
+Connectivity Check Time: 3.779 seconds
+Overall Time: 3.779 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 421, 'shift_sampled/uav_2_sampled_path.txt': -387, 'shift_sampled/uav_3_sampled_path.txt': -404}
+
+Iteration: 131
+Turns: [76, 76, 80]
+Average Turns: 22.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 280.401
+Connectivity Check Time: 3.763 seconds
+Overall Time: 3.763 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -164, 'shift_sampled/uav_2_sampled_path.txt': 386, 'shift_sampled/uav_3_sampled_path.txt': -386}
+
+Iteration: 132
+Turns: [76, 76, 80]
+Average Turns: 18.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 245.153
+Connectivity Check Time: 3.648 seconds
+Overall Time: 3.648 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 223, 'shift_sampled/uav_2_sampled_path.txt': -211, 'shift_sampled/uav_3_sampled_path.txt': 221}
+
+Iteration: 133
+Turns: [80, 76, 76]
+Average Turns: 16.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 295.677
+Connectivity Check Time: 3.788 seconds
+Overall Time: 3.788 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 304, 'shift_sampled/uav_2_sampled_path.txt': 374, 'shift_sampled/uav_3_sampled_path.txt': -92}
+
+Iteration: 134
+Turns: [80, 76, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 251.200
+Connectivity Check Time: 3.560 seconds
+Overall Time: 3.560 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 383, 'shift_sampled/uav_2_sampled_path.txt': -243, 'shift_sampled/uav_3_sampled_path.txt': 181}
+
+Iteration: 135
+Turns: [80, 76, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 2.867
+Minimum Required Distance: 294.290
+Connectivity Check Time: 4.020 seconds
+Overall Time: 4.020 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -389, 'shift_sampled/uav_2_sampled_path.txt': -39, 'shift_sampled/uav_3_sampled_path.txt': 101}
+
+Iteration: 137
+Turns: [80, 76, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 263.509
+Connectivity Check Time: 3.666 seconds
+Overall Time: 3.666 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -36, 'shift_sampled/uav_2_sampled_path.txt': 179, 'shift_sampled/uav_3_sampled_path.txt': -54}
+
+Iteration: 138
+Turns: [80, 76, 76]
+Average Turns: 16.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 291.204
+Connectivity Check Time: 3.414 seconds
+Overall Time: 3.414 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 361, 'shift_sampled/uav_2_sampled_path.txt': -324, 'shift_sampled/uav_3_sampled_path.txt': -378}
+
+Iteration: 140
+Turns: [80, 76, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 277.502
+Connectivity Check Time: 3.804 seconds
+Overall Time: 3.804 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 91, 'shift_sampled/uav_2_sampled_path.txt': -295, 'shift_sampled/uav_3_sampled_path.txt': -226}
+
+Iteration: 141
+Turns: [76, 76, 80]
+Average Turns: 21.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 266.577
+Connectivity Check Time: 3.789 seconds
+Overall Time: 3.789 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -64, 'shift_sampled/uav_2_sampled_path.txt': -47, 'shift_sampled/uav_3_sampled_path.txt': 358}
+
+Iteration: 142
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 195.833
+Connectivity Check Time: 3.599 seconds
+Overall Time: 3.599 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 78, 'shift_sampled/uav_2_sampled_path.txt': -325, 'shift_sampled/uav_3_sampled_path.txt': -352}
+
+Iteration: 143
+Turns: [80, 76, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 3.559
+Minimum Required Distance: 263.865
+Connectivity Check Time: 4.061 seconds
+Overall Time: 4.061 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -25, 'shift_sampled/uav_2_sampled_path.txt': -22, 'shift_sampled/uav_3_sampled_path.txt': -38}
+
+Iteration: 144
+Turns: [80, 76, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 283.769
+Connectivity Check Time: 3.985 seconds
+Overall Time: 3.985 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -67, 'shift_sampled/uav_2_sampled_path.txt': 327, 'shift_sampled/uav_3_sampled_path.txt': 275}
+
+Iteration: 145
+Turns: [76, 80, 76]
+Average Turns: 22.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 261.725
+Connectivity Check Time: 3.826 seconds
+Overall Time: 3.826 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 42, 'shift_sampled/uav_2_sampled_path.txt': 413, 'shift_sampled/uav_3_sampled_path.txt': -256}
+
+Iteration: 146
+Turns: [76, 80, 76]
+Average Turns: 16.667
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 292.746
+Connectivity Check Time: 3.857 seconds
+Overall Time: 3.857 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 166, 'shift_sampled/uav_2_sampled_path.txt': 66, 'shift_sampled/uav_3_sampled_path.txt': 91}
+
+Iteration: 147
+Turns: [80, 76, 76]
+Average Turns: 17.000
+Standard Deviation Turns: 4.243
+Minimum Required Distance: 276.020
+Connectivity Check Time: 3.832 seconds
+Overall Time: 3.832 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 362, 'shift_sampled/uav_2_sampled_path.txt': -87, 'shift_sampled/uav_3_sampled_path.txt': -30}
+
+Iteration: 148
+Turns: [80, 76, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 281.454
+Connectivity Check Time: 3.792 seconds
+Overall Time: 3.792 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -141, 'shift_sampled/uav_2_sampled_path.txt': 193, 'shift_sampled/uav_3_sampled_path.txt': 131}
+
+Iteration: 150
+Turns: [76, 80, 76]
+Average Turns: 22.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 282.843
+Connectivity Check Time: 3.920 seconds
+Overall Time: 3.920 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 199, 'shift_sampled/uav_2_sampled_path.txt': -35, 'shift_sampled/uav_3_sampled_path.txt': 214}
+
+Iteration: 151
+Turns: [80, 76, 76]
+Average Turns: 21.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 287.793
+Connectivity Check Time: 4.149 seconds
+Overall Time: 4.149 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -139, 'shift_sampled/uav_2_sampled_path.txt': 279, 'shift_sampled/uav_3_sampled_path.txt': -187}
+
+Iteration: 152
+Turns: [76, 76, 80]
+Average Turns: 18.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 259.422
+Connectivity Check Time: 3.559 seconds
+Overall Time: 3.559 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 28, 'shift_sampled/uav_2_sampled_path.txt': -50, 'shift_sampled/uav_3_sampled_path.txt': -369}
+
+Iteration: 153
+Turns: [76, 80, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 281.114
+Connectivity Check Time: 3.410 seconds
+Overall Time: 3.410 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 176, 'shift_sampled/uav_2_sampled_path.txt': -31, 'shift_sampled/uav_3_sampled_path.txt': 380}
+
+Iteration: 154
+Turns: [80, 76, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 253.383
+Connectivity Check Time: 3.795 seconds
+Overall Time: 3.795 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -237, 'shift_sampled/uav_2_sampled_path.txt': 60, 'shift_sampled/uav_3_sampled_path.txt': -372}
+
+Iteration: 157
+Turns: [76, 76, 80]
+Average Turns: 17.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 247.572
+Connectivity Check Time: 3.380 seconds
+Overall Time: 3.380 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -108, 'shift_sampled/uav_2_sampled_path.txt': -58, 'shift_sampled/uav_3_sampled_path.txt': -274}
+
+Iteration: 158
+Turns: [76, 76, 80]
+Average Turns: 8.000
+Standard Deviation Turns: 0.000
+Minimum Required Distance: 216.333
+Connectivity Check Time: 3.315 seconds
+Overall Time: 3.315 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 321, 'shift_sampled/uav_2_sampled_path.txt': 158, 'shift_sampled/uav_3_sampled_path.txt': 197}
+
+Iteration: 159
+Turns: [80, 76, 76]
+Average Turns: 14.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 305.287
+Connectivity Check Time: 3.740 seconds
+Overall Time: 3.740 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -294, 'shift_sampled/uav_2_sampled_path.txt': 325, 'shift_sampled/uav_3_sampled_path.txt': -79}
+
+Iteration: 160
+Turns: [80, 76, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 280.401
+Connectivity Check Time: 3.558 seconds
+Overall Time: 3.558 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -21, 'shift_sampled/uav_2_sampled_path.txt': -1, 'shift_sampled/uav_3_sampled_path.txt': -308}
+
+Iteration: 161
+Turns: [76, 76, 80]
+Average Turns: 17.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 272.947
+Connectivity Check Time: 3.885 seconds
+Overall Time: 3.885 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -179, 'shift_sampled/uav_2_sampled_path.txt': -204, 'shift_sampled/uav_3_sampled_path.txt': -129}
+
+Iteration: 162
+Turns: [76, 80, 76]
+Average Turns: 13.333
+Standard Deviation Turns: 4.110
+Minimum Required Distance: 292.318
+Connectivity Check Time: 4.054 seconds
+Overall Time: 4.054 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -96, 'shift_sampled/uav_2_sampled_path.txt': 280, 'shift_sampled/uav_3_sampled_path.txt': -326}
+
+Iteration: 163
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 288.580
+Connectivity Check Time: 3.973 seconds
+Overall Time: 3.973 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 315, 'shift_sampled/uav_2_sampled_path.txt': -393, 'shift_sampled/uav_3_sampled_path.txt': -352}
+
+Iteration: 164
+Turns: [80, 76, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 290.052
+Connectivity Check Time: 4.109 seconds
+Overall Time: 4.109 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 357, 'shift_sampled/uav_2_sampled_path.txt': 296, 'shift_sampled/uav_3_sampled_path.txt': -230}
+
+Iteration: 165
+Turns: [76, 76, 80]
+Average Turns: 18.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 291.204
+Connectivity Check Time: 3.840 seconds
+Overall Time: 3.840 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -388, 'shift_sampled/uav_2_sampled_path.txt': 376, 'shift_sampled/uav_3_sampled_path.txt': -359}
+
+Iteration: 166
+Turns: [76, 80, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 4.190
+Minimum Required Distance: 286.400
+Connectivity Check Time: 3.840 seconds
+Overall Time: 3.840 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -131, 'shift_sampled/uav_2_sampled_path.txt': -132, 'shift_sampled/uav_3_sampled_path.txt': 319}
+
+Iteration: 169
+Turns: [80, 76, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 280.015
+Connectivity Check Time: 3.606 seconds
+Overall Time: 3.606 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 218, 'shift_sampled/uav_2_sampled_path.txt': -397, 'shift_sampled/uav_3_sampled_path.txt': -160}
+
+Iteration: 170
+Turns: [80, 76, 76]
+Average Turns: 16.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 301.357
+Connectivity Check Time: 3.609 seconds
+Overall Time: 3.609 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 78, 'shift_sampled/uav_2_sampled_path.txt': 343, 'shift_sampled/uav_3_sampled_path.txt': 104}
+
+Iteration: 171
+Turns: [80, 76, 76]
+Average Turns: 17.000
+Standard Deviation Turns: 2.944
+Minimum Required Distance: 288.506
+Connectivity Check Time: 3.991 seconds
+Overall Time: 3.991 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -92, 'shift_sampled/uav_2_sampled_path.txt': -401, 'shift_sampled/uav_3_sampled_path.txt': 339}
+
+Iteration: 172
+Turns: [76, 80, 76]
+Average Turns: 15.000
+Standard Deviation Turns: 4.243
+Minimum Required Distance: 299.294
+Connectivity Check Time: 3.598 seconds
+Overall Time: 3.598 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -252, 'shift_sampled/uav_2_sampled_path.txt': 361, 'shift_sampled/uav_3_sampled_path.txt': -302}
+
+Iteration: 174
+Turns: [76, 80, 76]
+Average Turns: 19.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 261.725
+Connectivity Check Time: 3.714 seconds
+Overall Time: 3.714 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -310, 'shift_sampled/uav_2_sampled_path.txt': -172, 'shift_sampled/uav_3_sampled_path.txt': -109}
+
+Iteration: 175
+Turns: [76, 80, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 2.944
+Minimum Required Distance: 263.233
+Connectivity Check Time: 3.477 seconds
+Overall Time: 3.477 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -334, 'shift_sampled/uav_2_sampled_path.txt': 297, 'shift_sampled/uav_3_sampled_path.txt': -259}
+
+Iteration: 176
+Turns: [76, 76, 80]
+Average Turns: 15.667
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 213.776
+Connectivity Check Time: 3.740 seconds
+Overall Time: 3.740 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 338, 'shift_sampled/uav_2_sampled_path.txt': -229, 'shift_sampled/uav_3_sampled_path.txt': -339}
+
+Iteration: 177
+Turns: [76, 80, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 265.886
+Connectivity Check Time: 3.722 seconds
+Overall Time: 3.722 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -175, 'shift_sampled/uav_2_sampled_path.txt': 325, 'shift_sampled/uav_3_sampled_path.txt': 140}
+
+Iteration: 178
+Turns: [76, 80, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 241.299
+Connectivity Check Time: 3.711 seconds
+Overall Time: 3.711 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 281, 'shift_sampled/uav_2_sampled_path.txt': 107, 'shift_sampled/uav_3_sampled_path.txt': 196}
+
+Iteration: 179
+Turns: [76, 76, 80]
+Average Turns: 17.000
+Standard Deviation Turns: 3.266
+Minimum Required Distance: 290.432
+Connectivity Check Time: 3.548 seconds
+Overall Time: 3.548 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -224, 'shift_sampled/uav_2_sampled_path.txt': 13, 'shift_sampled/uav_3_sampled_path.txt': -212}
+
+Iteration: 180
+Turns: [80, 76, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 253.180
+Connectivity Check Time: 3.590 seconds
+Overall Time: 3.590 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -277, 'shift_sampled/uav_2_sampled_path.txt': 22, 'shift_sampled/uav_3_sampled_path.txt': -370}
+
+Iteration: 181
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 4.320
+Minimum Required Distance: 280.012
+Connectivity Check Time: 3.681 seconds
+Overall Time: 3.681 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 359, 'shift_sampled/uav_2_sampled_path.txt': 386, 'shift_sampled/uav_3_sampled_path.txt': 293}
+
+Iteration: 184
+Turns: [80, 76, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 4.714
+Minimum Required Distance: 311.233
+Connectivity Check Time: 3.868 seconds
+Overall Time: 3.868 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -295, 'shift_sampled/uav_2_sampled_path.txt': 120, 'shift_sampled/uav_3_sampled_path.txt': -350}
+
+Iteration: 185
+Turns: [76, 76, 80]
+Average Turns: 19.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 274.362
+Connectivity Check Time: 3.693 seconds
+Overall Time: 3.693 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -57, 'shift_sampled/uav_2_sampled_path.txt': 281, 'shift_sampled/uav_3_sampled_path.txt': -57}
+
+Iteration: 186
+Turns: [76, 80, 76]
+Average Turns: 16.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 291.942
+Connectivity Check Time: 3.794 seconds
+Overall Time: 3.794 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -58, 'shift_sampled/uav_2_sampled_path.txt': -70, 'shift_sampled/uav_3_sampled_path.txt': 152}
+
+Iteration: 187
+Turns: [80, 76, 76]
+Average Turns: 17.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 236.106
+Connectivity Check Time: 3.758 seconds
+Overall Time: 3.758 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 40, 'shift_sampled/uav_2_sampled_path.txt': 29, 'shift_sampled/uav_3_sampled_path.txt': 155}
+
+Iteration: 188
+Turns: [76, 76, 80]
+Average Turns: 21.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 255.636
+Connectivity Check Time: 3.467 seconds
+Overall Time: 3.467 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -120, 'shift_sampled/uav_2_sampled_path.txt': -202, 'shift_sampled/uav_3_sampled_path.txt': -347}
+
+Iteration: 190
+Turns: [76, 76, 80]
+Average Turns: 14.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 291.204
+Connectivity Check Time: 3.754 seconds
+Overall Time: 3.754 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 26, 'shift_sampled/uav_2_sampled_path.txt': 323, 'shift_sampled/uav_3_sampled_path.txt': 8}
+
+Iteration: 191
+Turns: [76, 80, 76]
+Average Turns: 17.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 276.089
+Connectivity Check Time: 3.888 seconds
+Overall Time: 3.888 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -229, 'shift_sampled/uav_2_sampled_path.txt': 201, 'shift_sampled/uav_3_sampled_path.txt': -181}
+
+Iteration: 194
+Turns: [80, 76, 76]
+Average Turns: 17.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 248.646
+Connectivity Check Time: 3.864 seconds
+Overall Time: 3.864 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -238, 'shift_sampled/uav_2_sampled_path.txt': 304, 'shift_sampled/uav_3_sampled_path.txt': -74}
+
+Iteration: 195
+Turns: [76, 76, 80]
+Average Turns: 19.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 256.320
+Connectivity Check Time: 3.722 seconds
+Overall Time: 3.722 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -176, 'shift_sampled/uav_2_sampled_path.txt': -281, 'shift_sampled/uav_3_sampled_path.txt': 369}
+
+Iteration: 196
+Turns: [80, 76, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 272.029
+Connectivity Check Time: 3.836 seconds
+Overall Time: 3.836 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 284, 'shift_sampled/uav_2_sampled_path.txt': 317, 'shift_sampled/uav_3_sampled_path.txt': -252}
+
+Iteration: 198
+Turns: [76, 80, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 3.742
+Minimum Required Distance: 280.179
+Connectivity Check Time: 3.826 seconds
+Overall Time: 3.826 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 83, 'shift_sampled/uav_2_sampled_path.txt': 263, 'shift_sampled/uav_3_sampled_path.txt': 339}
+
+Iteration: 199
+Turns: [80, 76, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 253.180
+Connectivity Check Time: 4.213 seconds
+Overall Time: 4.213 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 264, 'shift_sampled/uav_2_sampled_path.txt': -75, 'shift_sampled/uav_3_sampled_path.txt': -34}
+
+Iteration: 1
+Turns: [76, 76, 80]
+Average Turns: 17.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 255.697
+Connectivity Check Time: 4.057 seconds
+Overall Time: 4.057 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 346, 'shift_sampled/uav_2_sampled_path.txt': -217, 'shift_sampled/uav_3_sampled_path.txt': 290}
+
+Iteration: 2
+Turns: [80, 76, 76]
+Average Turns: 16.667
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 274.722
+Connectivity Check Time: 4.366 seconds
+Overall Time: 4.366 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -160, 'shift_sampled/uav_2_sampled_path.txt': 277, 'shift_sampled/uav_3_sampled_path.txt': 304}
+
+Iteration: 3
+Turns: [76, 76, 80]
+Average Turns: 14.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 250.599
+Connectivity Check Time: 3.826 seconds
+Overall Time: 3.826 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -30, 'shift_sampled/uav_2_sampled_path.txt': 412, 'shift_sampled/uav_3_sampled_path.txt': -35}
+
+Iteration: 4
+Turns: [76, 80, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 257.417
+Connectivity Check Time: 4.140 seconds
+Overall Time: 4.140 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -13, 'shift_sampled/uav_2_sampled_path.txt': -319, 'shift_sampled/uav_3_sampled_path.txt': -409}
+
+Iteration: 5
+Turns: [76, 76, 80]
+Average Turns: 22.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 274.489
+Connectivity Check Time: 4.276 seconds
+Overall Time: 4.276 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 99, 'shift_sampled/uav_2_sampled_path.txt': -139, 'shift_sampled/uav_3_sampled_path.txt': -307}
+
+Iteration: 6
+Turns: [80, 76, 76]
+Average Turns: 14.667
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 274.764
+Connectivity Check Time: 3.930 seconds
+Overall Time: 3.930 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 147, 'shift_sampled/uav_2_sampled_path.txt': 135, 'shift_sampled/uav_3_sampled_path.txt': 10}
+
+Iteration: 11
+Turns: [80, 76, 76]
+Average Turns: 17.667
+Standard Deviation Turns: 2.867
+Minimum Required Distance: 278.883
+Connectivity Check Time: 3.921 seconds
+Overall Time: 3.921 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 88, 'shift_sampled/uav_2_sampled_path.txt': 352, 'shift_sampled/uav_3_sampled_path.txt': -18}
+
+Iteration: 13
+Turns: [76, 76, 80]
+Average Turns: 19.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 261.268
+Connectivity Check Time: 4.027 seconds
+Overall Time: 4.027 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 361, 'shift_sampled/uav_2_sampled_path.txt': -316, 'shift_sampled/uav_3_sampled_path.txt': 59}
+
+Iteration: 14
+Turns: [80, 76, 76]
+Average Turns: 22.667
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 261.565
+Connectivity Check Time: 4.139 seconds
+Overall Time: 4.139 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 108, 'shift_sampled/uav_2_sampled_path.txt': 48, 'shift_sampled/uav_3_sampled_path.txt': 221}
+
+Iteration: 0
+Turns: [76, 80, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 4.497
+Minimum Required Distance: 284.807
+Connectivity Check Time: 2.385 seconds
+Overall Time: 2.385 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -51, 'shift_sampled/uav_2_sampled_path.txt': -55, 'shift_sampled/uav_3_sampled_path.txt': 15}
+
+Iteration: 3
+Turns: [76, 80, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 4.028
+Minimum Required Distance: 260.000
+Connectivity Check Time: 2.364 seconds
+Overall Time: 2.364 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 89, 'shift_sampled/uav_2_sampled_path.txt': -82, 'shift_sampled/uav_3_sampled_path.txt': -108}
+
+Iteration: 5
+Turns: [76, 76, 80]
+Average Turns: 19.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 272.947
+Connectivity Check Time: 2.541 seconds
+Overall Time: 2.541 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -20, 'shift_sampled/uav_2_sampled_path.txt': -82, 'shift_sampled/uav_3_sampled_path.txt': 8}
+
+Iteration: 6
+Turns: [76, 80, 76]
+Average Turns: 22.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 261.725
+Connectivity Check Time: 2.403 seconds
+Overall Time: 2.403 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -50, 'shift_sampled/uav_2_sampled_path.txt': -88, 'shift_sampled/uav_3_sampled_path.txt': -143}
+
+Iteration: 7
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 290.306
+Connectivity Check Time: 2.595 seconds
+Overall Time: 2.595 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 57, 'shift_sampled/uav_2_sampled_path.txt': -66, 'shift_sampled/uav_3_sampled_path.txt': 104}
+
+Iteration: 12
+Turns: [76, 80, 76]
+Average Turns: 21.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 266.833
+Connectivity Check Time: 2.455 seconds
+Overall Time: 2.455 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 87, 'shift_sampled/uav_2_sampled_path.txt': -112, 'shift_sampled/uav_3_sampled_path.txt': 67}
+
+Iteration: 15
+Turns: [76, 80, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 4.028
+Minimum Required Distance: 262.638
+Connectivity Check Time: 2.335 seconds
+Overall Time: 2.335 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 69, 'shift_sampled/uav_2_sampled_path.txt': -124, 'shift_sampled/uav_3_sampled_path.txt': 57}
+
+Iteration: 17
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 246.664
+Connectivity Check Time: 2.374 seconds
+Overall Time: 2.374 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -2, 'shift_sampled/uav_2_sampled_path.txt': -111, 'shift_sampled/uav_3_sampled_path.txt': -130}
+
+Iteration: 19
+Turns: [76, 76, 80]
+Average Turns: 16.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 294.860
+Connectivity Check Time: 2.623 seconds
+Overall Time: 2.623 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -160, 'shift_sampled/uav_2_sampled_path.txt': -112, 'shift_sampled/uav_3_sampled_path.txt': -169}
+
+Iteration: 20
+Turns: [76, 80, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 278.411
+Connectivity Check Time: 2.621 seconds
+Overall Time: 2.621 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -47, 'shift_sampled/uav_2_sampled_path.txt': -130, 'shift_sampled/uav_3_sampled_path.txt': 102}
+
+Iteration: 21
+Turns: [76, 80, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 264.764
+Connectivity Check Time: 2.651 seconds
+Overall Time: 2.651 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 13, 'shift_sampled/uav_2_sampled_path.txt': -135, 'shift_sampled/uav_3_sampled_path.txt': -56}
+
+Iteration: 22
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 280.000
+Connectivity Check Time: 2.686 seconds
+Overall Time: 2.686 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 110, 'shift_sampled/uav_2_sampled_path.txt': 135, 'shift_sampled/uav_3_sampled_path.txt': -118}
+
+Iteration: 23
+Turns: [76, 76, 80]
+Average Turns: 18.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 280.713
+Connectivity Check Time: 2.575 seconds
+Overall Time: 2.575 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 49, 'shift_sampled/uav_2_sampled_path.txt': -19, 'shift_sampled/uav_3_sampled_path.txt': -169}
+
+Iteration: 24
+Turns: [80, 76, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 260.000
+Connectivity Check Time: 2.630 seconds
+Overall Time: 2.630 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -180, 'shift_sampled/uav_2_sampled_path.txt': 144, 'shift_sampled/uav_3_sampled_path.txt': 36}
+
+Iteration: 25
+Turns: [76, 80, 76]
+Average Turns: 15.667
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 262.488
+Connectivity Check Time: 2.366 seconds
+Overall Time: 2.366 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 88, 'shift_sampled/uav_2_sampled_path.txt': 123, 'shift_sampled/uav_3_sampled_path.txt': -98}
+
+Iteration: 26
+Turns: [76, 76, 80]
+Average Turns: 16.667
+Standard Deviation Turns: 2.357
+Minimum Required Distance: 269.653
+Connectivity Check Time: 2.478 seconds
+Overall Time: 2.478 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -35, 'shift_sampled/uav_2_sampled_path.txt': 10, 'shift_sampled/uav_3_sampled_path.txt': 86}
+
+Iteration: 27
+Turns: [76, 76, 80]
+Average Turns: 20.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 261.725
+Connectivity Check Time: 2.474 seconds
+Overall Time: 2.474 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 92, 'shift_sampled/uav_2_sampled_path.txt': 78, 'shift_sampled/uav_3_sampled_path.txt': -122}
+
+Iteration: 28
+Turns: [80, 76, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 291.204
+Connectivity Check Time: 2.623 seconds
+Overall Time: 2.623 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 75, 'shift_sampled/uav_2_sampled_path.txt': 153, 'shift_sampled/uav_3_sampled_path.txt': 85}
+
+Iteration: 29
+Turns: [76, 76, 80]
+Average Turns: 21.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 265.413
+Connectivity Check Time: 2.362 seconds
+Overall Time: 2.362 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -122, 'shift_sampled/uav_2_sampled_path.txt': 8, 'shift_sampled/uav_3_sampled_path.txt': -30}
+
+Iteration: 30
+Turns: [80, 76, 76]
+Average Turns: 19.000
+Standard Deviation Turns: 3.742
+Minimum Required Distance: 270.740
+Connectivity Check Time: 2.585 seconds
+Overall Time: 2.585 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 198, 'shift_sampled/uav_2_sampled_path.txt': 163, 'shift_sampled/uav_3_sampled_path.txt': 22}
+
+Iteration: 31
+Turns: [80, 76, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 2.449
+Minimum Required Distance: 264.155
+Connectivity Check Time: 2.622 seconds
+Overall Time: 2.622 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 94, 'shift_sampled/uav_2_sampled_path.txt': 69, 'shift_sampled/uav_3_sampled_path.txt': 131}
+
+Iteration: 34
+Turns: [76, 80, 76]
+Average Turns: 19.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 280.318
+Connectivity Check Time: 2.526 seconds
+Overall Time: 2.526 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 49, 'shift_sampled/uav_2_sampled_path.txt': -120, 'shift_sampled/uav_3_sampled_path.txt': -169}
+
+Iteration: 36
+Turns: [80, 76, 76]
+Average Turns: 18.333
+Standard Deviation Turns: 4.497
+Minimum Required Distance: 304.053
+Connectivity Check Time: 2.506 seconds
+Overall Time: 2.506 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 152, 'shift_sampled/uav_2_sampled_path.txt': 154, 'shift_sampled/uav_3_sampled_path.txt': 154}
+
+Iteration: 37
+Turns: [80, 76, 76]
+Average Turns: 20.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 260.768
+Connectivity Check Time: 2.711 seconds
+Overall Time: 2.711 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -9, 'shift_sampled/uav_2_sampled_path.txt': 37, 'shift_sampled/uav_3_sampled_path.txt': 164}
+
+Iteration: 38
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 261.364
+Connectivity Check Time: 2.656 seconds
+Overall Time: 2.656 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -15, 'shift_sampled/uav_2_sampled_path.txt': 119, 'shift_sampled/uav_3_sampled_path.txt': 8}
+
+Iteration: 40
+Turns: [76, 80, 76]
+Average Turns: 21.333
+Standard Deviation Turns: 4.028
+Minimum Required Distance: 285.035
+Connectivity Check Time: 2.378 seconds
+Overall Time: 2.378 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -180, 'shift_sampled/uav_2_sampled_path.txt': 177, 'shift_sampled/uav_3_sampled_path.txt': -180}
+
+Iteration: 41
+Turns: [80, 76, 76]
+Average Turns: 17.667
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 240.000
+Connectivity Check Time: 2.371 seconds
+Overall Time: 2.371 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 76, 'shift_sampled/uav_2_sampled_path.txt': 117, 'shift_sampled/uav_3_sampled_path.txt': 159}
+
+Iteration: 42
+Turns: [76, 80, 76]
+Average Turns: 15.667
+Standard Deviation Turns: 4.497
+Minimum Required Distance: 279.547
+Connectivity Check Time: 2.276 seconds
+Overall Time: 2.276 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -12, 'shift_sampled/uav_2_sampled_path.txt': 114, 'shift_sampled/uav_3_sampled_path.txt': -50}
+
+Iteration: 43
+Turns: [76, 80, 76]
+Average Turns: 16.000
+Standard Deviation Turns: 5.888
+Minimum Required Distance: 300.296
+Connectivity Check Time: 2.430 seconds
+Overall Time: 2.430 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 91, 'shift_sampled/uav_2_sampled_path.txt': -2, 'shift_sampled/uav_3_sampled_path.txt': 140}
+
+Iteration: 45
+Turns: [76, 80, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 272.029
+Connectivity Check Time: 2.608 seconds
+Overall Time: 2.608 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -110, 'shift_sampled/uav_2_sampled_path.txt': 75, 'shift_sampled/uav_3_sampled_path.txt': -167}
+
+Iteration: 46
+Turns: [76, 80, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 264.155
+Connectivity Check Time: 2.391 seconds
+Overall Time: 2.391 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -8, 'shift_sampled/uav_2_sampled_path.txt': -126, 'shift_sampled/uav_3_sampled_path.txt': 74}
+
+Iteration: 49
+Turns: [80, 76, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 2.867
+Minimum Required Distance: 301.496
+Connectivity Check Time: 2.434 seconds
+Overall Time: 2.434 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 25, 'shift_sampled/uav_2_sampled_path.txt': 119, 'shift_sampled/uav_3_sampled_path.txt': 14}
+
+Iteration: 50
+Turns: [80, 76, 76]
+Average Turns: 17.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 260.000
+Connectivity Check Time: 2.488 seconds
+Overall Time: 2.488 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 22, 'shift_sampled/uav_2_sampled_path.txt': 34, 'shift_sampled/uav_3_sampled_path.txt': -76}
+
+Iteration: 51
+Turns: [80, 76, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 3.742
+Minimum Required Distance: 268.328
+Connectivity Check Time: 2.643 seconds
+Overall Time: 2.643 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 184, 'shift_sampled/uav_2_sampled_path.txt': -190, 'shift_sampled/uav_3_sampled_path.txt': -106}
+
+Iteration: 52
+Turns: [80, 76, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 284.429
+Connectivity Check Time: 2.423 seconds
+Overall Time: 2.423 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -129, 'shift_sampled/uav_2_sampled_path.txt': 113, 'shift_sampled/uav_3_sampled_path.txt': -62}
+
+Iteration: 53
+Turns: [76, 80, 76]
+Average Turns: 16.667
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 301.496
+Connectivity Check Time: 2.546 seconds
+Overall Time: 2.546 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -93, 'shift_sampled/uav_2_sampled_path.txt': -116, 'shift_sampled/uav_3_sampled_path.txt': 1}
+
+Iteration: 55
+Turns: [80, 76, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 260.768
+Connectivity Check Time: 2.389 seconds
+Overall Time: 2.389 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 188, 'shift_sampled/uav_2_sampled_path.txt': -169, 'shift_sampled/uav_3_sampled_path.txt': 102}
+
+Iteration: 57
+Turns: [76, 80, 76]
+Average Turns: 21.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 268.412
+Connectivity Check Time: 2.442 seconds
+Overall Time: 2.442 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -155, 'shift_sampled/uav_2_sampled_path.txt': 36, 'shift_sampled/uav_3_sampled_path.txt': -47}
+
+Iteration: 58
+Turns: [76, 76, 80]
+Average Turns: 15.333
+Standard Deviation Turns: 4.110
+Minimum Required Distance: 291.204
+Connectivity Check Time: 2.301 seconds
+Overall Time: 2.301 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 147, 'shift_sampled/uav_2_sampled_path.txt': -51, 'shift_sampled/uav_3_sampled_path.txt': -110}
+
+Iteration: 59
+Turns: [80, 76, 76]
+Average Turns: 12.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 212.603
+Connectivity Check Time: 2.430 seconds
+Overall Time: 2.430 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -153, 'shift_sampled/uav_2_sampled_path.txt': -15, 'shift_sampled/uav_3_sampled_path.txt': 166}
+
+Iteration: 60
+Turns: [80, 76, 76]
+Average Turns: 12.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 206.155
+Connectivity Check Time: 2.483 seconds
+Overall Time: 2.483 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 41, 'shift_sampled/uav_2_sampled_path.txt': -32, 'shift_sampled/uav_3_sampled_path.txt': 174}
+
+Iteration: 61
+Turns: [80, 76, 76]
+Average Turns: 12.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 224.722
+Connectivity Check Time: 2.442 seconds
+Overall Time: 2.442 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 38, 'shift_sampled/uav_2_sampled_path.txt': -37, 'shift_sampled/uav_3_sampled_path.txt': 169}
+
+Iteration: 62
+Turns: [76, 76, 80]
+Average Turns: 11.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 310.483
+Connectivity Check Time: 2.356 seconds
+Overall Time: 2.356 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -67, 'shift_sampled/uav_2_sampled_path.txt': -10, 'shift_sampled/uav_3_sampled_path.txt': -36}
+
+Iteration: 63
+Turns: [76, 76, 80]
+Average Turns: 22.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 240.208
+Connectivity Check Time: 2.286 seconds
+Overall Time: 2.286 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 98, 'shift_sampled/uav_2_sampled_path.txt': 92, 'shift_sampled/uav_3_sampled_path.txt': -20}
+
+Iteration: 64
+Turns: [76, 80, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 4.784
+Minimum Required Distance: 243.311
+Connectivity Check Time: 2.463 seconds
+Overall Time: 2.463 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -154, 'shift_sampled/uav_2_sampled_path.txt': -130, 'shift_sampled/uav_3_sampled_path.txt': 41}
+
+Iteration: 66
+Turns: [76, 80, 76]
+Average Turns: 14.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 280.318
+Connectivity Check Time: 2.458 seconds
+Overall Time: 2.458 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 66, 'shift_sampled/uav_2_sampled_path.txt': 72, 'shift_sampled/uav_3_sampled_path.txt': -59}
+
+Iteration: 67
+Turns: [80, 76, 76]
+Average Turns: 21.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 272.029
+Connectivity Check Time: 2.339 seconds
+Overall Time: 2.339 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -119, 'shift_sampled/uav_2_sampled_path.txt': 145, 'shift_sampled/uav_3_sampled_path.txt': 80}
+
+Iteration: 68
+Turns: [76, 76, 80]
+Average Turns: 20.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 262.128
+Connectivity Check Time: 2.487 seconds
+Overall Time: 2.487 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 178, 'shift_sampled/uav_2_sampled_path.txt': -34, 'shift_sampled/uav_3_sampled_path.txt': 119}
+
+Iteration: 70
+Turns: [76, 80, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 280.323
+Connectivity Check Time: 2.488 seconds
+Overall Time: 2.488 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -127, 'shift_sampled/uav_2_sampled_path.txt': 26, 'shift_sampled/uav_3_sampled_path.txt': -130}
+
+Iteration: 71
+Turns: [80, 76, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 272.353
+Connectivity Check Time: 2.600 seconds
+Overall Time: 2.600 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -90, 'shift_sampled/uav_2_sampled_path.txt': 116, 'shift_sampled/uav_3_sampled_path.txt': 163}
+
+Iteration: 73
+Turns: [76, 76, 80]
+Average Turns: 17.333
+Standard Deviation Turns: 4.714
+Minimum Required Distance: 295.466
+Connectivity Check Time: 2.432 seconds
+Overall Time: 2.432 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 113, 'shift_sampled/uav_2_sampled_path.txt': 113, 'shift_sampled/uav_3_sampled_path.txt': 94}
+
+Iteration: 74
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 178.885
+Connectivity Check Time: 2.480 seconds
+Overall Time: 2.480 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 67, 'shift_sampled/uav_2_sampled_path.txt': 43, 'shift_sampled/uav_3_sampled_path.txt': -161}
+
+Iteration: 75
+Turns: [76, 76, 80]
+Average Turns: 19.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 278.411
+Connectivity Check Time: 2.721 seconds
+Overall Time: 2.721 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -159, 'shift_sampled/uav_2_sampled_path.txt': -14, 'shift_sampled/uav_3_sampled_path.txt': 123}
+
+Iteration: 76
+Turns: [80, 76, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 300.000
+Connectivity Check Time: 2.546 seconds
+Overall Time: 2.546 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -147, 'shift_sampled/uav_2_sampled_path.txt': -31, 'shift_sampled/uav_3_sampled_path.txt': -148}
+
+Iteration: 79
+Turns: [80, 76, 76]
+Average Turns: 18.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 280.079
+Connectivity Check Time: 2.528 seconds
+Overall Time: 2.528 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -34, 'shift_sampled/uav_2_sampled_path.txt': -97, 'shift_sampled/uav_3_sampled_path.txt': -58}
+
+Iteration: 80
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 294.017
+Connectivity Check Time: 2.500 seconds
+Overall Time: 2.500 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -144, 'shift_sampled/uav_2_sampled_path.txt': -99, 'shift_sampled/uav_3_sampled_path.txt': -128}
+
+Iteration: 81
+Turns: [76, 76, 80]
+Average Turns: 17.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 250.599
+Connectivity Check Time: 2.559 seconds
+Overall Time: 2.559 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 99, 'shift_sampled/uav_2_sampled_path.txt': -128, 'shift_sampled/uav_3_sampled_path.txt': -33}
+
+Iteration: 83
+Turns: [76, 80, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 228.035
+Connectivity Check Time: 2.514 seconds
+Overall Time: 2.514 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 71, 'shift_sampled/uav_2_sampled_path.txt': 113, 'shift_sampled/uav_3_sampled_path.txt': 152}
+
+Iteration: 85
+Turns: [76, 76, 80]
+Average Turns: 15.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 292.426
+Connectivity Check Time: 2.516 seconds
+Overall Time: 2.516 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 154, 'shift_sampled/uav_2_sampled_path.txt': -101, 'shift_sampled/uav_3_sampled_path.txt': -94}
+
+Iteration: 86
+Turns: [76, 80, 76]
+Average Turns: 20.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 272.029
+Connectivity Check Time: 2.538 seconds
+Overall Time: 2.538 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 140, 'shift_sampled/uav_2_sampled_path.txt': -13, 'shift_sampled/uav_3_sampled_path.txt': 120}
+
+Iteration: 87
+Turns: [76, 76, 80]
+Average Turns: 21.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 272.029
+Connectivity Check Time: 2.495 seconds
+Overall Time: 2.495 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 126, 'shift_sampled/uav_2_sampled_path.txt': -148, 'shift_sampled/uav_3_sampled_path.txt': 100}
+
+Iteration: 88
+Turns: [76, 80, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 286.356
+Connectivity Check Time: 2.460 seconds
+Overall Time: 2.460 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 110, 'shift_sampled/uav_2_sampled_path.txt': 75, 'shift_sampled/uav_3_sampled_path.txt': 108}
+
+Iteration: 89
+Turns: [80, 76, 76]
+Average Turns: 15.667
+Standard Deviation Turns: 6.018
+Minimum Required Distance: 272.029
+Connectivity Check Time: 2.444 seconds
+Overall Time: 2.444 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 122, 'shift_sampled/uav_2_sampled_path.txt': 54, 'shift_sampled/uav_3_sampled_path.txt': 110}
+
+Iteration: 90
+Turns: [76, 80, 76]
+Average Turns: 19.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 260.768
+Connectivity Check Time: 2.462 seconds
+Overall Time: 2.462 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 69, 'shift_sampled/uav_2_sampled_path.txt': -115, 'shift_sampled/uav_3_sampled_path.txt': -118}
+
+Iteration: 91
+Turns: [76, 76, 80]
+Average Turns: 17.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 260.000
+Connectivity Check Time: 2.420 seconds
+Overall Time: 2.420 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -105, 'shift_sampled/uav_2_sampled_path.txt': 78, 'shift_sampled/uav_3_sampled_path.txt': -17}
+
+Iteration: 92
+Turns: [76, 80, 76]
+Average Turns: 23.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 260.000
+Connectivity Check Time: 2.396 seconds
+Overall Time: 2.396 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 39, 'shift_sampled/uav_2_sampled_path.txt': 139, 'shift_sampled/uav_3_sampled_path.txt': 102}
+
+Iteration: 93
+Turns: [80, 76, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 2.867
+Minimum Required Distance: 280.713
+Connectivity Check Time: 2.500 seconds
+Overall Time: 2.500 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -159, 'shift_sampled/uav_2_sampled_path.txt': -10, 'shift_sampled/uav_3_sampled_path.txt': -94}
+
+Iteration: 94
+Turns: [76, 76, 80]
+Average Turns: 15.667
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 295.466
+Connectivity Check Time: 2.484 seconds
+Overall Time: 2.484 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -160, 'shift_sampled/uav_2_sampled_path.txt': 166, 'shift_sampled/uav_3_sampled_path.txt': -37}
+
+Iteration: 95
+Turns: [80, 76, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 4.784
+Minimum Required Distance: 272.947
+Connectivity Check Time: 2.323 seconds
+Overall Time: 2.323 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -33, 'shift_sampled/uav_2_sampled_path.txt': -62, 'shift_sampled/uav_3_sampled_path.txt': 65}
+
+Iteration: 98
+Turns: [76, 76, 80]
+Average Turns: 16.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 281.603
+Connectivity Check Time: 2.381 seconds
+Overall Time: 2.381 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 87, 'shift_sampled/uav_2_sampled_path.txt': -37, 'shift_sampled/uav_3_sampled_path.txt': 109}
+
+Iteration: 99
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 4.028
+Minimum Required Distance: 290.689
+Connectivity Check Time: 2.559 seconds
+Overall Time: 2.559 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -166, 'shift_sampled/uav_2_sampled_path.txt': -21, 'shift_sampled/uav_3_sampled_path.txt': -53}
+
+Iteration: 101
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 281.978
+Connectivity Check Time: 2.682 seconds
+Overall Time: 2.682 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -64, 'shift_sampled/uav_2_sampled_path.txt': -173, 'shift_sampled/uav_3_sampled_path.txt': 176}
+
+Iteration: 102
+Turns: [76, 76, 80]
+Average Turns: 12.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 252.982
+Connectivity Check Time: 2.494 seconds
+Overall Time: 2.494 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 64, 'shift_sampled/uav_2_sampled_path.txt': -109, 'shift_sampled/uav_3_sampled_path.txt': -88}
+
+Iteration: 103
+Turns: [76, 76, 80]
+Average Turns: 15.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 285.035
+Connectivity Check Time: 2.649 seconds
+Overall Time: 2.649 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 140, 'shift_sampled/uav_2_sampled_path.txt': -44, 'shift_sampled/uav_3_sampled_path.txt': -29}
+
+Iteration: 105
+Turns: [76, 76, 80]
+Average Turns: 19.667
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 246.670
+Connectivity Check Time: 2.542 seconds
+Overall Time: 2.542 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -108, 'shift_sampled/uav_2_sampled_path.txt': -151, 'shift_sampled/uav_3_sampled_path.txt': -33}
+
+Iteration: 106
+Turns: [80, 76, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 250.000
+Connectivity Check Time: 2.358 seconds
+Overall Time: 2.358 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 5, 'shift_sampled/uav_2_sampled_path.txt': 9, 'shift_sampled/uav_3_sampled_path.txt': -190}
+
+Iteration: 107
+Turns: [76, 76, 80]
+Average Turns: 16.333
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 282.843
+Connectivity Check Time: 2.623 seconds
+Overall Time: 2.623 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -179, 'shift_sampled/uav_2_sampled_path.txt': 37, 'shift_sampled/uav_3_sampled_path.txt': -157}
+
+Iteration: 108
+Turns: [76, 76, 80]
+Average Turns: 18.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 250.599
+Connectivity Check Time: 2.279 seconds
+Overall Time: 2.279 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -152, 'shift_sampled/uav_2_sampled_path.txt': 43, 'shift_sampled/uav_3_sampled_path.txt': 156}
+
+Iteration: 109
+Turns: [76, 76, 80]
+Average Turns: 19.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 286.670
+Connectivity Check Time: 2.488 seconds
+Overall Time: 2.488 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -161, 'shift_sampled/uav_2_sampled_path.txt': 9, 'shift_sampled/uav_3_sampled_path.txt': 25}
+
+Iteration: 110
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 272.029
+Connectivity Check Time: 2.602 seconds
+Overall Time: 2.602 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -27, 'shift_sampled/uav_2_sampled_path.txt': -114, 'shift_sampled/uav_3_sampled_path.txt': -21}
+
+Iteration: 111
+Turns: [76, 76, 80]
+Average Turns: 16.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 280.179
+Connectivity Check Time: 2.412 seconds
+Overall Time: 2.412 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 75, 'shift_sampled/uav_2_sampled_path.txt': 161, 'shift_sampled/uav_3_sampled_path.txt': 2}
+
+Iteration: 112
+Turns: [80, 76, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 301.844
+Connectivity Check Time: 2.464 seconds
+Overall Time: 2.464 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -94, 'shift_sampled/uav_2_sampled_path.txt': -32, 'shift_sampled/uav_3_sampled_path.txt': -172}
+
+Iteration: 113
+Turns: [76, 80, 76]
+Average Turns: 15.667
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 252.982
+Connectivity Check Time: 2.430 seconds
+Overall Time: 2.430 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 34, 'shift_sampled/uav_2_sampled_path.txt': -116, 'shift_sampled/uav_3_sampled_path.txt': -107}
+
+Iteration: 115
+Turns: [80, 76, 76]
+Average Turns: 20.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 217.972
+Connectivity Check Time: 2.304 seconds
+Overall Time: 2.304 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -194, 'shift_sampled/uav_2_sampled_path.txt': -6, 'shift_sampled/uav_3_sampled_path.txt': -45}
+
+Iteration: 117
+Turns: [80, 76, 76]
+Average Turns: 23.000
+Standard Deviation Turns: 3.742
+Minimum Required Distance: 260.341
+Connectivity Check Time: 2.243 seconds
+Overall Time: 2.243 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 3, 'shift_sampled/uav_2_sampled_path.txt': 33, 'shift_sampled/uav_3_sampled_path.txt': 75}
+
+Iteration: 118
+Turns: [80, 76, 76]
+Average Turns: 22.000
+Standard Deviation Turns: 0.000
+Minimum Required Distance: 310.000
+Connectivity Check Time: 2.532 seconds
+Overall Time: 2.532 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -93, 'shift_sampled/uav_2_sampled_path.txt': 131, 'shift_sampled/uav_3_sampled_path.txt': 190}
+
+Iteration: 120
+Turns: [76, 80, 76]
+Average Turns: 22.667
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 286.356
+Connectivity Check Time: 2.591 seconds
+Overall Time: 2.591 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 69, 'shift_sampled/uav_2_sampled_path.txt': 11, 'shift_sampled/uav_3_sampled_path.txt': 25}
+
+Iteration: 121
+Turns: [80, 76, 76]
+Average Turns: 18.667
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 260.768
+Connectivity Check Time: 2.447 seconds
+Overall Time: 2.447 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -49, 'shift_sampled/uav_2_sampled_path.txt': -101, 'shift_sampled/uav_3_sampled_path.txt': 39}
+
+Iteration: 122
+Turns: [76, 80, 76]
+Average Turns: 17.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 272.947
+Connectivity Check Time: 2.598 seconds
+Overall Time: 2.598 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 36, 'shift_sampled/uav_2_sampled_path.txt': 135, 'shift_sampled/uav_3_sampled_path.txt': 56}
+
+Iteration: 124
+Turns: [76, 80, 76]
+Average Turns: 21.000
+Standard Deviation Turns: 2.449
+Minimum Required Distance: 260.000
+Connectivity Check Time: 2.298 seconds
+Overall Time: 2.298 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 159, 'shift_sampled/uav_2_sampled_path.txt': -30, 'shift_sampled/uav_3_sampled_path.txt': 96}
+
+Iteration: 125
+Turns: [76, 76, 80]
+Average Turns: 19.000
+Standard Deviation Turns: 0.000
+Minimum Required Distance: 219.317
+Connectivity Check Time: 2.429 seconds
+Overall Time: 2.429 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 143, 'shift_sampled/uav_2_sampled_path.txt': -52, 'shift_sampled/uav_3_sampled_path.txt': -60}
+
+Iteration: 126
+Turns: [80, 76, 76]
+Average Turns: 14.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 276.241
+Connectivity Check Time: 2.439 seconds
+Overall Time: 2.439 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -90, 'shift_sampled/uav_2_sampled_path.txt': -49, 'shift_sampled/uav_3_sampled_path.txt': -106}
+
+Iteration: 129
+Turns: [76, 80, 76]
+Average Turns: 16.000
+Standard Deviation Turns: 4.320
+Minimum Required Distance: 291.204
+Connectivity Check Time: 2.263 seconds
+Overall Time: 2.263 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 98, 'shift_sampled/uav_2_sampled_path.txt': 2, 'shift_sampled/uav_3_sampled_path.txt': -158}
+
+Iteration: 130
+Turns: [76, 76, 80]
+Average Turns: 17.667
+Standard Deviation Turns: 2.867
+Minimum Required Distance: 272.947
+Connectivity Check Time: 2.509 seconds
+Overall Time: 2.509 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 57, 'shift_sampled/uav_2_sampled_path.txt': 28, 'shift_sampled/uav_3_sampled_path.txt': 3}
+
+Iteration: 131
+Turns: [76, 76, 80]
+Average Turns: 20.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 241.868
+Connectivity Check Time: 2.367 seconds
+Overall Time: 2.367 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -139, 'shift_sampled/uav_2_sampled_path.txt': 86, 'shift_sampled/uav_3_sampled_path.txt': 162}
+
+Iteration: 132
+Turns: [76, 76, 80]
+Average Turns: 17.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 264.008
+Connectivity Check Time: 2.438 seconds
+Overall Time: 2.438 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 139, 'shift_sampled/uav_2_sampled_path.txt': 131, 'shift_sampled/uav_3_sampled_path.txt': -49}
+
+Iteration: 133
+Turns: [76, 76, 80]
+Average Turns: 20.667
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 272.029
+Connectivity Check Time: 2.384 seconds
+Overall Time: 2.384 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 105, 'shift_sampled/uav_2_sampled_path.txt': -70, 'shift_sampled/uav_3_sampled_path.txt': 185}
+
+Iteration: 134
+Turns: [76, 76, 80]
+Average Turns: 17.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 280.000
+Connectivity Check Time: 2.608 seconds
+Overall Time: 2.608 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 34, 'shift_sampled/uav_2_sampled_path.txt': 4, 'shift_sampled/uav_3_sampled_path.txt': -166}
+
+Iteration: 135
+Turns: [80, 76, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 281.977
+Connectivity Check Time: 2.568 seconds
+Overall Time: 2.568 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 60, 'shift_sampled/uav_2_sampled_path.txt': -3, 'shift_sampled/uav_3_sampled_path.txt': 69}
+
+Iteration: 136
+Turns: [76, 80, 76]
+Average Turns: 16.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 282.843
+Connectivity Check Time: 2.426 seconds
+Overall Time: 2.426 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -26, 'shift_sampled/uav_2_sampled_path.txt': -54, 'shift_sampled/uav_3_sampled_path.txt': 73}
+
+Iteration: 138
+Turns: [80, 76, 76]
+Average Turns: 16.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 247.386
+Connectivity Check Time: 2.553 seconds
+Overall Time: 2.553 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -103, 'shift_sampled/uav_2_sampled_path.txt': 71, 'shift_sampled/uav_3_sampled_path.txt': 5}
+
+Iteration: 139
+Turns: [76, 76, 80]
+Average Turns: 20.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 280.079
+Connectivity Check Time: 2.357 seconds
+Overall Time: 2.357 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -151, 'shift_sampled/uav_2_sampled_path.txt': 164, 'shift_sampled/uav_3_sampled_path.txt': 29}
+
+Iteration: 140
+Turns: [76, 80, 76]
+Average Turns: 15.667
+Standard Deviation Turns: 3.859
+Minimum Required Distance: 280.713
+Connectivity Check Time: 2.595 seconds
+Overall Time: 2.595 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 159, 'shift_sampled/uav_2_sampled_path.txt': 20, 'shift_sampled/uav_3_sampled_path.txt': -162}
+
+Iteration: 141
+Turns: [76, 80, 76]
+Average Turns: 16.667
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 246.664
+Connectivity Check Time: 2.267 seconds
+Overall Time: 2.267 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -155, 'shift_sampled/uav_2_sampled_path.txt': -72, 'shift_sampled/uav_3_sampled_path.txt': 44}
+
+Iteration: 142
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 4.028
+Minimum Required Distance: 282.843
+Connectivity Check Time: 2.526 seconds
+Overall Time: 2.526 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 88, 'shift_sampled/uav_2_sampled_path.txt': -122, 'shift_sampled/uav_3_sampled_path.txt': -20}
+
+Iteration: 143
+Turns: [80, 76, 76]
+Average Turns: 15.667
+Standard Deviation Turns: 3.859
+Minimum Required Distance: 243.311
+Connectivity Check Time: 2.300 seconds
+Overall Time: 2.300 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -12, 'shift_sampled/uav_2_sampled_path.txt': 48, 'shift_sampled/uav_3_sampled_path.txt': -24}
+
+Iteration: 145
+Turns: [76, 80, 76]
+Average Turns: 22.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 240.093
+Connectivity Check Time: 2.701 seconds
+Overall Time: 2.701 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -159, 'shift_sampled/uav_2_sampled_path.txt': -91, 'shift_sampled/uav_3_sampled_path.txt': -173}
+
+Iteration: 146
+Turns: [76, 80, 76]
+Average Turns: 22.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 252.982
+Connectivity Check Time: 2.509 seconds
+Overall Time: 2.509 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 65, 'shift_sampled/uav_2_sampled_path.txt': -55, 'shift_sampled/uav_3_sampled_path.txt': 41}
+
+Iteration: 147
+Turns: [76, 80, 76]
+Average Turns: 22.667
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 269.653
+Connectivity Check Time: 2.593 seconds
+Overall Time: 2.593 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -72, 'shift_sampled/uav_2_sampled_path.txt': -89, 'shift_sampled/uav_3_sampled_path.txt': 39}
+
+Iteration: 148
+Turns: [80, 76, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 253.180
+Connectivity Check Time: 2.380 seconds
+Overall Time: 2.380 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -160, 'shift_sampled/uav_2_sampled_path.txt': -109, 'shift_sampled/uav_3_sampled_path.txt': 131}
+
+Iteration: 149
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 284.429
+Connectivity Check Time: 2.409 seconds
+Overall Time: 2.409 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 139, 'shift_sampled/uav_2_sampled_path.txt': 115, 'shift_sampled/uav_3_sampled_path.txt': -110}
+
+Iteration: 151
+Turns: [76, 76, 80]
+Average Turns: 16.667
+Standard Deviation Turns: 3.771
+Minimum Required Distance: 241.868
+Connectivity Check Time: 2.685 seconds
+Overall Time: 2.685 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 110, 'shift_sampled/uav_2_sampled_path.txt': -65, 'shift_sampled/uav_3_sampled_path.txt': 118}
+
+Iteration: 152
+Turns: [84, 72, 76]
+Average Turns: 14.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 243.311
+Connectivity Check Time: 2.486 seconds
+Overall Time: 2.486 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -101, 'shift_sampled/uav_2_sampled_path.txt': 117, 'shift_sampled/uav_3_sampled_path.txt': 126}
+
+Iteration: 153
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 286.356
+Connectivity Check Time: 2.514 seconds
+Overall Time: 2.514 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 2, 'shift_sampled/uav_2_sampled_path.txt': -91, 'shift_sampled/uav_3_sampled_path.txt': -105}
+
+Iteration: 154
+Turns: [76, 80, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 236.457
+Connectivity Check Time: 2.292 seconds
+Overall Time: 2.292 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -18, 'shift_sampled/uav_2_sampled_path.txt': 0, 'shift_sampled/uav_3_sampled_path.txt': -170}
+
+Iteration: 155
+Turns: [84, 72, 76]
+Average Turns: 14.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 226.274
+Connectivity Check Time: 2.415 seconds
+Overall Time: 2.415 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 43, 'shift_sampled/uav_2_sampled_path.txt': 82, 'shift_sampled/uav_3_sampled_path.txt': -93}
+
+Iteration: 156
+Turns: [76, 76, 80]
+Average Turns: 19.667
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 253.330
+Connectivity Check Time: 2.420 seconds
+Overall Time: 2.420 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -53, 'shift_sampled/uav_2_sampled_path.txt': -18, 'shift_sampled/uav_3_sampled_path.txt': 74}
+
+Iteration: 158
+Turns: [76, 76, 80]
+Average Turns: 16.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 247.386
+Connectivity Check Time: 2.419 seconds
+Overall Time: 2.419 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -70, 'shift_sampled/uav_2_sampled_path.txt': 159, 'shift_sampled/uav_3_sampled_path.txt': 138}
+
+Iteration: 161
+Turns: [84, 72, 76]
+Average Turns: 14.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 234.094
+Connectivity Check Time: 2.461 seconds
+Overall Time: 2.461 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 55, 'shift_sampled/uav_2_sampled_path.txt': 87, 'shift_sampled/uav_3_sampled_path.txt': -86}
+
+Iteration: 162
+Turns: [76, 76, 80]
+Average Turns: 15.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 254.319
+Connectivity Check Time: 2.620 seconds
+Overall Time: 2.620 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 43, 'shift_sampled/uav_2_sampled_path.txt': 74, 'shift_sampled/uav_3_sampled_path.txt': -126}
+
+Iteration: 163
+Turns: [76, 76, 80]
+Average Turns: 15.333
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 290.689
+Connectivity Check Time: 2.609 seconds
+Overall Time: 2.609 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -145, 'shift_sampled/uav_2_sampled_path.txt': -106, 'shift_sampled/uav_3_sampled_path.txt': 51}
+
+Iteration: 164
+Turns: [76, 76, 80]
+Average Turns: 17.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 280.179
+Connectivity Check Time: 2.341 seconds
+Overall Time: 2.341 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 154, 'shift_sampled/uav_2_sampled_path.txt': 71, 'shift_sampled/uav_3_sampled_path.txt': 21}
+
+Iteration: 165
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 305.287
+Connectivity Check Time: 2.557 seconds
+Overall Time: 2.557 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -119, 'shift_sampled/uav_2_sampled_path.txt': -34, 'shift_sampled/uav_3_sampled_path.txt': -21}
+
+Iteration: 167
+Turns: [80, 76, 76]
+Average Turns: 22.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 271.311
+Connectivity Check Time: 2.485 seconds
+Overall Time: 2.485 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 100, 'shift_sampled/uav_2_sampled_path.txt': -174, 'shift_sampled/uav_3_sampled_path.txt': 61}
+
+Iteration: 168
+Turns: [80, 76, 76]
+Average Turns: 21.667
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 260.086
+Connectivity Check Time: 2.291 seconds
+Overall Time: 2.291 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 89, 'shift_sampled/uav_2_sampled_path.txt': -130, 'shift_sampled/uav_3_sampled_path.txt': -9}
+
+Iteration: 170
+Turns: [76, 76, 80]
+Average Turns: 16.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 315.753
+Connectivity Check Time: 2.291 seconds
+Overall Time: 2.291 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 142, 'shift_sampled/uav_2_sampled_path.txt': 12, 'shift_sampled/uav_3_sampled_path.txt': 63}
+
+Iteration: 171
+Turns: [84, 72, 76]
+Average Turns: 14.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 215.407
+Connectivity Check Time: 2.562 seconds
+Overall Time: 2.562 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 84, 'shift_sampled/uav_2_sampled_path.txt': 105, 'shift_sampled/uav_3_sampled_path.txt': 121}
+
+Iteration: 172
+Turns: [76, 80, 76]
+Average Turns: 15.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 271.377
+Connectivity Check Time: 2.517 seconds
+Overall Time: 2.517 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 51, 'shift_sampled/uav_2_sampled_path.txt': -144, 'shift_sampled/uav_3_sampled_path.txt': 64}
+
+Iteration: 173
+Turns: [80, 76, 76]
+Average Turns: 17.333
+Standard Deviation Turns: 4.714
+Minimum Required Distance: 280.713
+Connectivity Check Time: 2.490 seconds
+Overall Time: 2.490 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 47, 'shift_sampled/uav_2_sampled_path.txt': 47, 'shift_sampled/uav_3_sampled_path.txt': 6}
+
+Iteration: 174
+Turns: [76, 80, 76]
+Average Turns: 19.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 280.000
+Connectivity Check Time: 2.423 seconds
+Overall Time: 2.423 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 34, 'shift_sampled/uav_2_sampled_path.txt': 83, 'shift_sampled/uav_3_sampled_path.txt': -39}
+
+Iteration: 175
+Turns: [76, 80, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 2.867
+Minimum Required Distance: 240.832
+Connectivity Check Time: 2.321 seconds
+Overall Time: 2.321 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 71, 'shift_sampled/uav_2_sampled_path.txt': -71, 'shift_sampled/uav_3_sampled_path.txt': 47}
+
+Iteration: 176
+Turns: [76, 80, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 261.364
+Connectivity Check Time: 2.354 seconds
+Overall Time: 2.354 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -73, 'shift_sampled/uav_2_sampled_path.txt': -54, 'shift_sampled/uav_3_sampled_path.txt': 115}
+
+Iteration: 177
+Turns: [76, 80, 76]
+Average Turns: 21.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 277.451
+Connectivity Check Time: 2.603 seconds
+Overall Time: 2.603 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 76, 'shift_sampled/uav_2_sampled_path.txt': 153, 'shift_sampled/uav_3_sampled_path.txt': -125}
+
+Iteration: 179
+Turns: [76, 76, 80]
+Average Turns: 21.000
+Standard Deviation Turns: 3.559
+Minimum Required Distance: 269.653
+Connectivity Check Time: 2.509 seconds
+Overall Time: 2.509 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -159, 'shift_sampled/uav_2_sampled_path.txt': 80, 'shift_sampled/uav_3_sampled_path.txt': -179}
+
+Iteration: 180
+Turns: [80, 76, 76]
+Average Turns: 16.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 297.623
+Connectivity Check Time: 2.580 seconds
+Overall Time: 2.580 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 30, 'shift_sampled/uav_2_sampled_path.txt': -26, 'shift_sampled/uav_3_sampled_path.txt': -100}
+
+Iteration: 181
+Turns: [76, 76, 80]
+Average Turns: 18.667
+Standard Deviation Turns: 4.190
+Minimum Required Distance: 236.457
+Connectivity Check Time: 2.318 seconds
+Overall Time: 2.318 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 14, 'shift_sampled/uav_2_sampled_path.txt': 31, 'shift_sampled/uav_3_sampled_path.txt': -17}
+
+Iteration: 182
+Turns: [80, 76, 76]
+Average Turns: 17.667
+Standard Deviation Turns: 2.867
+Minimum Required Distance: 291.548
+Connectivity Check Time: 2.436 seconds
+Overall Time: 2.436 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -72, 'shift_sampled/uav_2_sampled_path.txt': -97, 'shift_sampled/uav_3_sampled_path.txt': 34}
+
+Iteration: 183
+Turns: [76, 80, 76]
+Average Turns: 8.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 224.722
+Connectivity Check Time: 2.317 seconds
+Overall Time: 2.317 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 39, 'shift_sampled/uav_2_sampled_path.txt': -34, 'shift_sampled/uav_3_sampled_path.txt': 140}
+
+Iteration: 184
+Turns: [76, 80, 76]
+Average Turns: 8.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 216.333
+Connectivity Check Time: 2.384 seconds
+Overall Time: 2.384 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -38, 'shift_sampled/uav_2_sampled_path.txt': -119, 'shift_sampled/uav_3_sampled_path.txt': 59}
+
+Iteration: 187
+Turns: [80, 76, 76]
+Average Turns: 22.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 263.059
+Connectivity Check Time: 2.476 seconds
+Overall Time: 2.476 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 53, 'shift_sampled/uav_2_sampled_path.txt': 99, 'shift_sampled/uav_3_sampled_path.txt': 51}
+
+Iteration: 189
+Turns: [80, 76, 76]
+Average Turns: 20.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 274.310
+Connectivity Check Time: 2.581 seconds
+Overall Time: 2.581 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 127, 'shift_sampled/uav_2_sampled_path.txt': -8, 'shift_sampled/uav_3_sampled_path.txt': -33}
+
+Iteration: 190
+Turns: [80, 76, 76]
+Average Turns: 17.000
+Standard Deviation Turns: 3.559
+Minimum Required Distance: 250.599
+Connectivity Check Time: 2.452 seconds
+Overall Time: 2.452 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -100, 'shift_sampled/uav_2_sampled_path.txt': 186, 'shift_sampled/uav_3_sampled_path.txt': 38}
+
+Iteration: 191
+Turns: [76, 76, 80]
+Average Turns: 16.667
+Standard Deviation Turns: 3.771
+Minimum Required Distance: 252.982
+Connectivity Check Time: 2.353 seconds
+Overall Time: 2.353 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -90, 'shift_sampled/uav_2_sampled_path.txt': -72, 'shift_sampled/uav_3_sampled_path.txt': 110}
+
+Iteration: 192
+Turns: [80, 76, 76]
+Average Turns: 19.000
+Standard Deviation Turns: 5.715
+Minimum Required Distance: 253.180
+Connectivity Check Time: 2.225 seconds
+Overall Time: 2.225 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 22, 'shift_sampled/uav_2_sampled_path.txt': -181, 'shift_sampled/uav_3_sampled_path.txt': 181}
+
+Iteration: 194
+Turns: [80, 76, 76]
+Average Turns: 19.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 280.179
+Connectivity Check Time: 2.395 seconds
+Overall Time: 2.395 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -67, 'shift_sampled/uav_2_sampled_path.txt': -37, 'shift_sampled/uav_3_sampled_path.txt': -169}
+
+Iteration: 195
+Turns: [76, 76, 80]
+Average Turns: 20.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 280.713
+Connectivity Check Time: 2.255 seconds
+Overall Time: 2.255 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -106, 'shift_sampled/uav_2_sampled_path.txt': -81, 'shift_sampled/uav_3_sampled_path.txt': 143}
+
+Iteration: 197
+Turns: [76, 80, 76]
+Average Turns: 15.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 230.172
+Connectivity Check Time: 2.331 seconds
+Overall Time: 2.331 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -4, 'shift_sampled/uav_2_sampled_path.txt': 38, 'shift_sampled/uav_3_sampled_path.txt': -159}
+
+Iteration: 198
+Turns: [76, 80, 76]
+Average Turns: 17.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 273.330
+Connectivity Check Time: 2.486 seconds
+Overall Time: 2.486 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 108, 'shift_sampled/uav_2_sampled_path.txt': 3, 'shift_sampled/uav_3_sampled_path.txt': -34}
+
+Iteration: 199
+Turns: [76, 80, 76]
+Average Turns: 21.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 280.318
+Connectivity Check Time: 2.609 seconds
+Overall Time: 2.609 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -99, 'shift_sampled/uav_2_sampled_path.txt': 119, 'shift_sampled/uav_3_sampled_path.txt': -37}
+
+Iteration: 1
+Turns: [52, 48, 48]
+Average Turns: 13.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 215.407
+Connectivity Check Time: 1.921 seconds
+Overall Time: 1.921 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 15, 'shift_sampled/uav_2_sampled_path.txt': 83, 'shift_sampled/uav_3_sampled_path.txt': 119}
+
+Iteration: 3
+Turns: [52, 48, 48]
+Average Turns: 10.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 224.722
+Connectivity Check Time: 2.076 seconds
+Overall Time: 2.076 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 40, 'shift_sampled/uav_2_sampled_path.txt': -59, 'shift_sampled/uav_3_sampled_path.txt': -102}
+
+Iteration: 6
+Turns: [48, 52, 48]
+Average Turns: 13.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 190.901
+Connectivity Check Time: 1.983 seconds
+Overall Time: 1.983 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -79, 'shift_sampled/uav_2_sampled_path.txt': 58, 'shift_sampled/uav_3_sampled_path.txt': 17}
+
+Iteration: 7
+Turns: [48, 48, 52]
+Average Turns: 15.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 193.330
+Connectivity Check Time: 2.066 seconds
+Overall Time: 2.066 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 15, 'shift_sampled/uav_2_sampled_path.txt': 46, 'shift_sampled/uav_3_sampled_path.txt': 6}
+
+Iteration: 8
+Turns: [48, 48, 52]
+Average Turns: 15.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 206.988
+Connectivity Check Time: 2.047 seconds
+Overall Time: 2.047 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 90, 'shift_sampled/uav_2_sampled_path.txt': -40, 'shift_sampled/uav_3_sampled_path.txt': 92}
+
+Iteration: 12
+Turns: [48, 48, 52]
+Average Turns: 15.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 203.961
+Connectivity Check Time: 1.965 seconds
+Overall Time: 1.965 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -35, 'shift_sampled/uav_2_sampled_path.txt': 70, 'shift_sampled/uav_3_sampled_path.txt': -96}
+
+Iteration: 13
+Turns: [48, 52, 48]
+Average Turns: 15.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 221.611
+Connectivity Check Time: 2.091 seconds
+Overall Time: 2.091 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -29, 'shift_sampled/uav_2_sampled_path.txt': 8, 'shift_sampled/uav_3_sampled_path.txt': 69}
+
+Iteration: 14
+Turns: [48, 48, 52]
+Average Turns: 11.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 224.722
+Connectivity Check Time: 1.947 seconds
+Overall Time: 1.947 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -109, 'shift_sampled/uav_2_sampled_path.txt': -45, 'shift_sampled/uav_3_sampled_path.txt': -57}
+
+Iteration: 1
+Turns: [52, 48, 48]
+Average Turns: 16.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 253.449
+Connectivity Check Time: 2.514 seconds
+Overall Time: 2.514 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 120, 'shift_sampled/uav_2_sampled_path.txt': 107, 'shift_sampled/uav_3_sampled_path.txt': 126}
+
+Iteration: 2
+Turns: [48, 52, 48]
+Average Turns: 15.667
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 250.000
+Connectivity Check Time: 2.223 seconds
+Overall Time: 2.223 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 77, 'shift_sampled/uav_2_sampled_path.txt': -29, 'shift_sampled/uav_3_sampled_path.txt': -42}
+
+Iteration: 3
+Turns: [48, 52, 48]
+Average Turns: 11.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 233.340
+Connectivity Check Time: 2.301 seconds
+Overall Time: 2.301 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -66, 'shift_sampled/uav_2_sampled_path.txt': -57, 'shift_sampled/uav_3_sampled_path.txt': 132}
+
+Iteration: 4
+Turns: [48, 48, 52]
+Average Turns: 12.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 278.139
+Connectivity Check Time: 2.249 seconds
+Overall Time: 2.249 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -137, 'shift_sampled/uav_2_sampled_path.txt': -26, 'shift_sampled/uav_3_sampled_path.txt': -128}
+
+Iteration: 5
+Turns: [52, 48, 48]
+Average Turns: 17.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 235.269
+Connectivity Check Time: 2.533 seconds
+Overall Time: 2.533 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -139, 'shift_sampled/uav_2_sampled_path.txt': 172, 'shift_sampled/uav_3_sampled_path.txt': 120}
+
+Iteration: 6
+Turns: [48, 52, 48]
+Average Turns: 9.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 291.670
+Connectivity Check Time: 2.338 seconds
+Overall Time: 2.338 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 117, 'shift_sampled/uav_2_sampled_path.txt': 149, 'shift_sampled/uav_3_sampled_path.txt': -70}
+
+Iteration: 8
+Turns: [48, 52, 48]
+Average Turns: 15.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 275.071
+Connectivity Check Time: 2.337 seconds
+Overall Time: 2.337 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -53, 'shift_sampled/uav_2_sampled_path.txt': -105, 'shift_sampled/uav_3_sampled_path.txt': 59}
+
+Iteration: 9
+Turns: [48, 48, 52]
+Average Turns: 12.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 245.236
+Connectivity Check Time: 2.300 seconds
+Overall Time: 2.300 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 124, 'shift_sampled/uav_2_sampled_path.txt': -51, 'shift_sampled/uav_3_sampled_path.txt': 53}
+
+Iteration: 13
+Turns: [52, 48, 48]
+Average Turns: 13.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 277.012
+Connectivity Check Time: 2.440 seconds
+Overall Time: 2.440 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -91, 'shift_sampled/uav_2_sampled_path.txt': -148, 'shift_sampled/uav_3_sampled_path.txt': -152}
+
+Iteration: 15
+Turns: [48, 48, 52]
+Average Turns: 14.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 239.935
+Connectivity Check Time: 2.345 seconds
+Overall Time: 2.345 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -162, 'shift_sampled/uav_2_sampled_path.txt': 89, 'shift_sampled/uav_3_sampled_path.txt': 92}
+
+Iteration: 19
+Turns: [48, 52, 48]
+Average Turns: 11.667
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 267.000
+Connectivity Check Time: 2.217 seconds
+Overall Time: 2.217 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 50, 'shift_sampled/uav_2_sampled_path.txt': 132, 'shift_sampled/uav_3_sampled_path.txt': -82}
+
+Iteration: 20
+Turns: [48, 48, 52]
+Average Turns: 12.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 263.526
+Connectivity Check Time: 2.246 seconds
+Overall Time: 2.246 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 78, 'shift_sampled/uav_2_sampled_path.txt': 130, 'shift_sampled/uav_3_sampled_path.txt': 103}
+
+Iteration: 21
+Turns: [48, 48, 52]
+Average Turns: 15.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 201.556
+Connectivity Check Time: 2.373 seconds
+Overall Time: 2.374 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -47, 'shift_sampled/uav_2_sampled_path.txt': -104, 'shift_sampled/uav_3_sampled_path.txt': 96}
+
+Iteration: 24
+Turns: [52, 48, 48]
+Average Turns: 13.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 250.555
+Connectivity Check Time: 2.437 seconds
+Overall Time: 2.437 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 139, 'shift_sampled/uav_2_sampled_path.txt': -40, 'shift_sampled/uav_3_sampled_path.txt': -174}
+
+Iteration: 25
+Turns: [48, 48, 52]
+Average Turns: 16.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 203.485
+Connectivity Check Time: 2.305 seconds
+Overall Time: 2.305 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 148, 'shift_sampled/uav_2_sampled_path.txt': -151, 'shift_sampled/uav_3_sampled_path.txt': -21}
+
+Iteration: 29
+Turns: [48, 52, 48]
+Average Turns: 13.000
+Standard Deviation Turns: 2.944
+Minimum Required Distance: 251.946
+Connectivity Check Time: 2.327 seconds
+Overall Time: 2.327 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -48, 'shift_sampled/uav_2_sampled_path.txt': -160, 'shift_sampled/uav_3_sampled_path.txt': 80}
+
+Iteration: 31
+Turns: [48, 52, 48]
+Average Turns: 13.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 258.330
+Connectivity Check Time: 2.197 seconds
+Overall Time: 2.197 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 91, 'shift_sampled/uav_2_sampled_path.txt': 58, 'shift_sampled/uav_3_sampled_path.txt': -127}
+
+Iteration: 32
+Turns: [48, 52, 48]
+Average Turns: 10.667
+Standard Deviation Turns: 2.867
+Minimum Required Distance: 280.903
+Connectivity Check Time: 2.279 seconds
+Overall Time: 2.279 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -59, 'shift_sampled/uav_2_sampled_path.txt': 61, 'shift_sampled/uav_3_sampled_path.txt': 1}
+
+Iteration: 34
+Turns: [48, 48, 52]
+Average Turns: 15.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 201.556
+Connectivity Check Time: 2.349 seconds
+Overall Time: 2.349 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -47, 'shift_sampled/uav_2_sampled_path.txt': -52, 'shift_sampled/uav_3_sampled_path.txt': 162}
+
+Iteration: 35
+Turns: [52, 48, 48]
+Average Turns: 16.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 238.637
+Connectivity Check Time: 2.379 seconds
+Overall Time: 2.379 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -179, 'shift_sampled/uav_2_sampled_path.txt': -148, 'shift_sampled/uav_3_sampled_path.txt': -41}
+
+Iteration: 36
+Turns: [48, 48, 52]
+Average Turns: 10.000
+Standard Deviation Turns: 3.559
+Minimum Required Distance: 292.146
+Connectivity Check Time: 2.261 seconds
+Overall Time: 2.261 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -77, 'shift_sampled/uav_2_sampled_path.txt': -32, 'shift_sampled/uav_3_sampled_path.txt': 91}
+
+Iteration: 37
+Turns: [52, 48, 48]
+Average Turns: 11.000
+Standard Deviation Turns: 3.742
+Minimum Required Distance: 275.071
+Connectivity Check Time: 2.395 seconds
+Overall Time: 2.395 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 129, 'shift_sampled/uav_2_sampled_path.txt': 140, 'shift_sampled/uav_3_sampled_path.txt': 98}
+
+Iteration: 43
+Turns: [48, 52, 48]
+Average Turns: 15.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 200.694
+Connectivity Check Time: 2.340 seconds
+Overall Time: 2.340 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 97, 'shift_sampled/uav_2_sampled_path.txt': -100, 'shift_sampled/uav_3_sampled_path.txt': 37}
+
+Iteration: 44
+Turns: [48, 48, 52]
+Average Turns: 12.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 280.903
+Connectivity Check Time: 2.305 seconds
+Overall Time: 2.305 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -39, 'shift_sampled/uav_2_sampled_path.txt': -27, 'shift_sampled/uav_3_sampled_path.txt': -83}
+
+Iteration: 45
+Turns: [48, 48, 52]
+Average Turns: 16.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 277.394
+Connectivity Check Time: 2.389 seconds
+Overall Time: 2.389 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 31, 'shift_sampled/uav_2_sampled_path.txt': -81, 'shift_sampled/uav_3_sampled_path.txt': -23}
+
+Iteration: 47
+Turns: [52, 48, 48]
+Average Turns: 15.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 250.078
+Connectivity Check Time: 2.438 seconds
+Overall Time: 2.438 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 158, 'shift_sampled/uav_2_sampled_path.txt': 175, 'shift_sampled/uav_3_sampled_path.txt': -115}
+
+Iteration: 48
+Turns: [48, 48, 52]
+Average Turns: 12.333
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 273.362
+Connectivity Check Time: 2.374 seconds
+Overall Time: 2.374 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 102, 'shift_sampled/uav_2_sampled_path.txt': -32, 'shift_sampled/uav_3_sampled_path.txt': -84}
+
+Iteration: 50
+Turns: [48, 52, 48]
+Average Turns: 16.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 251.946
+Connectivity Check Time: 2.408 seconds
+Overall Time: 2.408 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -112, 'shift_sampled/uav_2_sampled_path.txt': -16, 'shift_sampled/uav_3_sampled_path.txt': 136}
+
+Iteration: 52
+Turns: [52, 48, 48]
+Average Turns: 12.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 256.715
+Connectivity Check Time: 2.229 seconds
+Overall Time: 2.229 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -23, 'shift_sampled/uav_2_sampled_path.txt': 89, 'shift_sampled/uav_3_sampled_path.txt': -20}
+
+Iteration: 53
+Turns: [52, 48, 48]
+Average Turns: 13.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 265.239
+Connectivity Check Time: 2.501 seconds
+Overall Time: 2.501 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 84, 'shift_sampled/uav_2_sampled_path.txt': -13, 'shift_sampled/uav_3_sampled_path.txt': 106}
+
+Iteration: 55
+Turns: [48, 52, 48]
+Average Turns: 13.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 246.221
+Connectivity Check Time: 2.303 seconds
+Overall Time: 2.303 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 115, 'shift_sampled/uav_2_sampled_path.txt': 100, 'shift_sampled/uav_3_sampled_path.txt': 133}
+
+Iteration: 59
+Turns: [52, 48, 48]
+Average Turns: 12.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 258.737
+Connectivity Check Time: 2.446 seconds
+Overall Time: 2.446 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -113, 'shift_sampled/uav_2_sampled_path.txt': -145, 'shift_sampled/uav_3_sampled_path.txt': 112}
+
+Iteration: 6
+Turns: [48, 52, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 336.535
+Connectivity Check Time: 3.727 seconds
+Overall Time: 3.727 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -221, 'shift_sampled/uav_2_sampled_path.txt': -305, 'shift_sampled/uav_3_sampled_path.txt': 33}
+
+Iteration: 9
+Turns: [48, 48, 52]
+Average Turns: 14.667
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 329.509
+Connectivity Check Time: 3.219 seconds
+Overall Time: 3.219 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 260, 'shift_sampled/uav_2_sampled_path.txt': -63, 'shift_sampled/uav_3_sampled_path.txt': -212}
+
+Iteration: 12
+Turns: [48, 48, 52]
+Average Turns: 16.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 299.234
+Connectivity Check Time: 3.723 seconds
+Overall Time: 3.723 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -316, 'shift_sampled/uav_2_sampled_path.txt': 85, 'shift_sampled/uav_3_sampled_path.txt': -329}
+
+Iteration: 13
+Turns: [48, 52, 48]
+Average Turns: 12.333
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 334.389
+Connectivity Check Time: 3.199 seconds
+Overall Time: 3.199 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -268, 'shift_sampled/uav_2_sampled_path.txt': 258, 'shift_sampled/uav_3_sampled_path.txt': -254}
+
+Iteration: 15
+Turns: [48, 52, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 335.410
+Connectivity Check Time: 3.537 seconds
+Overall Time: 3.537 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 351, 'shift_sampled/uav_2_sampled_path.txt': -141, 'shift_sampled/uav_3_sampled_path.txt': -301}
+
+Iteration: 16
+Turns: [48, 52, 48]
+Average Turns: 12.000
+Standard Deviation Turns: 3.742
+Minimum Required Distance: 330.000
+Connectivity Check Time: 3.158 seconds
+Overall Time: 3.158 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 58, 'shift_sampled/uav_2_sampled_path.txt': 168, 'shift_sampled/uav_3_sampled_path.txt': -124}
+
+Iteration: 17
+Turns: [52, 48, 48]
+Average Turns: 15.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 324.000
+Connectivity Check Time: 3.583 seconds
+Overall Time: 3.583 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -65, 'shift_sampled/uav_2_sampled_path.txt': -370, 'shift_sampled/uav_3_sampled_path.txt': -62}
+
+Iteration: 22
+Turns: [48, 52, 48]
+Average Turns: 10.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 323.611
+Connectivity Check Time: 3.472 seconds
+Overall Time: 3.472 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 38, 'shift_sampled/uav_2_sampled_path.txt': 283, 'shift_sampled/uav_3_sampled_path.txt': -153}
+
+Iteration: 23
+Turns: [48, 48, 52]
+Average Turns: 14.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 305.941
+Connectivity Check Time: 3.387 seconds
+Overall Time: 3.387 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -20, 'shift_sampled/uav_2_sampled_path.txt': -292, 'shift_sampled/uav_3_sampled_path.txt': -110}
+
+Iteration: 24
+Turns: [48, 52, 48]
+Average Turns: 10.333
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 345.508
+Connectivity Check Time: 3.133 seconds
+Overall Time: 3.133 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 273, 'shift_sampled/uav_2_sampled_path.txt': -82, 'shift_sampled/uav_3_sampled_path.txt': 48}
+
+Iteration: 27
+Turns: [48, 48, 52]
+Average Turns: 14.667
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 285.804
+Connectivity Check Time: 3.244 seconds
+Overall Time: 3.244 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 158, 'shift_sampled/uav_2_sampled_path.txt': -34, 'shift_sampled/uav_3_sampled_path.txt': -173}
+
+Iteration: 28
+Turns: [48, 52, 48]
+Average Turns: 13.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 305.367
+Connectivity Check Time: 3.377 seconds
+Overall Time: 3.377 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -150, 'shift_sampled/uav_2_sampled_path.txt': -119, 'shift_sampled/uav_3_sampled_path.txt': 325}
+
+Iteration: 29
+Turns: [48, 48, 52]
+Average Turns: 12.667
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 317.717
+Connectivity Check Time: 3.062 seconds
+Overall Time: 3.062 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 86, 'shift_sampled/uav_2_sampled_path.txt': 174, 'shift_sampled/uav_3_sampled_path.txt': -102}
+
+Iteration: 31
+Turns: [52, 48, 48]
+Average Turns: 12.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 324.222
+Connectivity Check Time: 3.426 seconds
+Overall Time: 3.426 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -208, 'shift_sampled/uav_2_sampled_path.txt': -24, 'shift_sampled/uav_3_sampled_path.txt': 220}
+
+Iteration: 32
+Turns: [52, 48, 48]
+Average Turns: 13.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 361.509
+Connectivity Check Time: 3.513 seconds
+Overall Time: 3.513 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 27, 'shift_sampled/uav_2_sampled_path.txt': -84, 'shift_sampled/uav_3_sampled_path.txt': 318}
+
+Iteration: 33
+Turns: [48, 48, 52]
+Average Turns: 16.000
+Standard Deviation Turns: 0.000
+Minimum Required Distance: 330.491
+Connectivity Check Time: 3.670 seconds
+Overall Time: 3.670 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -321, 'shift_sampled/uav_2_sampled_path.txt': -123, 'shift_sampled/uav_3_sampled_path.txt': -117}
+
+Iteration: 35
+Turns: [48, 48, 52]
+Average Turns: 12.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 325.386
+Connectivity Check Time: 3.357 seconds
+Overall Time: 3.357 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -55, 'shift_sampled/uav_2_sampled_path.txt': 112, 'shift_sampled/uav_3_sampled_path.txt': 240}
+
+Iteration: 38
+Turns: [48, 48, 52]
+Average Turns: 15.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 305.941
+Connectivity Check Time: 3.273 seconds
+Overall Time: 3.273 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 217, 'shift_sampled/uav_2_sampled_path.txt': 327, 'shift_sampled/uav_3_sampled_path.txt': -218}
+
+Iteration: 39
+Turns: [52, 48, 48]
+Average Turns: 14.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 317.717
+Connectivity Check Time: 3.255 seconds
+Overall Time: 3.255 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 37, 'shift_sampled/uav_2_sampled_path.txt': 130, 'shift_sampled/uav_3_sampled_path.txt': -112}
+
+Iteration: 41
+Turns: [48, 48, 52]
+Average Turns: 15.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 304.304
+Connectivity Check Time: 3.461 seconds
+Overall Time: 3.461 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 179, 'shift_sampled/uav_2_sampled_path.txt': 286, 'shift_sampled/uav_3_sampled_path.txt': 137}
+
+Iteration: 43
+Turns: [52, 48, 48]
+Average Turns: 12.333
+Standard Deviation Turns: 3.682
+Minimum Required Distance: 330.218
+Connectivity Check Time: 3.586 seconds
+Overall Time: 3.586 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -183, 'shift_sampled/uav_2_sampled_path.txt': 182, 'shift_sampled/uav_3_sampled_path.txt': 188}
+
+Iteration: 45
+Turns: [52, 48, 48]
+Average Turns: 13.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 317.717
+Connectivity Check Time: 3.603 seconds
+Overall Time: 3.603 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -169, 'shift_sampled/uav_2_sampled_path.txt': 165, 'shift_sampled/uav_3_sampled_path.txt': 6}
+
+Iteration: 46
+Turns: [48, 48, 52]
+Average Turns: 14.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 332.662
+Connectivity Check Time: 3.487 seconds
+Overall Time: 3.487 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 26, 'shift_sampled/uav_2_sampled_path.txt': -80, 'shift_sampled/uav_3_sampled_path.txt': 27}
+
+Iteration: 47
+Turns: [48, 48, 52]
+Average Turns: 12.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 300.375
+Connectivity Check Time: 3.460 seconds
+Overall Time: 3.460 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -65, 'shift_sampled/uav_2_sampled_path.txt': -105, 'shift_sampled/uav_3_sampled_path.txt': -96}
+
+Iteration: 48
+Turns: [48, 52, 48]
+Average Turns: 14.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 300.240
+Connectivity Check Time: 3.412 seconds
+Overall Time: 3.412 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 102, 'shift_sampled/uav_2_sampled_path.txt': -231, 'shift_sampled/uav_3_sampled_path.txt': -248}
+
+Iteration: 49
+Turns: [48, 52, 48]
+Average Turns: 13.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 335.410
+Connectivity Check Time: 3.366 seconds
+Overall Time: 3.366 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 163, 'shift_sampled/uav_2_sampled_path.txt': -114, 'shift_sampled/uav_3_sampled_path.txt': -102}
+
+Iteration: 50
+Turns: [48, 52, 48]
+Average Turns: 15.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 323.110
+Connectivity Check Time: 3.459 seconds
+Overall Time: 3.459 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -159, 'shift_sampled/uav_2_sampled_path.txt': 67, 'shift_sampled/uav_3_sampled_path.txt': -203}
+
+Iteration: 56
+Turns: [52, 48, 48]
+Average Turns: 14.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 336.000
+Connectivity Check Time: 3.599 seconds
+Overall Time: 3.599 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 126, 'shift_sampled/uav_2_sampled_path.txt': -163, 'shift_sampled/uav_3_sampled_path.txt': -339}
+
+Iteration: 58
+Turns: [48, 52, 48]
+Average Turns: 16.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 300.000
+Connectivity Check Time: 3.311 seconds
+Overall Time: 3.311 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 151, 'shift_sampled/uav_2_sampled_path.txt': -176, 'shift_sampled/uav_3_sampled_path.txt': -116}
+
+Iteration: 59
+Turns: [48, 48, 52]
+Average Turns: 10.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 341.434
+Connectivity Check Time: 3.293 seconds
+Overall Time: 3.293 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 319, 'shift_sampled/uav_2_sampled_path.txt': -231, 'shift_sampled/uav_3_sampled_path.txt': 38}
+
+Iteration: 60
+Turns: [52, 48, 48]
+Average Turns: 17.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 279.435
+Connectivity Check Time: 3.394 seconds
+Overall Time: 3.394 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 256, 'shift_sampled/uav_2_sampled_path.txt': -119, 'shift_sampled/uav_3_sampled_path.txt': -48}
+
+Iteration: 61
+Turns: [52, 48, 48]
+Average Turns: 14.667
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 347.223
+Connectivity Check Time: 3.311 seconds
+Overall Time: 3.311 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 390, 'shift_sampled/uav_2_sampled_path.txt': 1, 'shift_sampled/uav_3_sampled_path.txt': 372}
+
+Iteration: 64
+Turns: [52, 48, 48]
+Average Turns: 15.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 304.821
+Connectivity Check Time: 3.416 seconds
+Overall Time: 3.416 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 330, 'shift_sampled/uav_2_sampled_path.txt': 357, 'shift_sampled/uav_3_sampled_path.txt': 322}
+
+Iteration: 69
+Turns: [48, 48, 52]
+Average Turns: 16.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 300.540
+Connectivity Check Time: 3.718 seconds
+Overall Time: 3.718 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -293, 'shift_sampled/uav_2_sampled_path.txt': -201, 'shift_sampled/uav_3_sampled_path.txt': 303}
+
+Iteration: 70
+Turns: [48, 52, 48]
+Average Turns: 15.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 332.770
+Connectivity Check Time: 3.531 seconds
+Overall Time: 3.531 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -336, 'shift_sampled/uav_2_sampled_path.txt': -244, 'shift_sampled/uav_3_sampled_path.txt': 167}
+
+Iteration: 71
+Turns: [52, 48, 48]
+Average Turns: 16.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 292.727
+Connectivity Check Time: 3.505 seconds
+Overall Time: 3.505 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 208, 'shift_sampled/uav_2_sampled_path.txt': 233, 'shift_sampled/uav_3_sampled_path.txt': -160}
+
+Iteration: 72
+Turns: [48, 52, 48]
+Average Turns: 14.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 336.535
+Connectivity Check Time: 3.257 seconds
+Overall Time: 3.257 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -295, 'shift_sampled/uav_2_sampled_path.txt': 308, 'shift_sampled/uav_3_sampled_path.txt': -234}
+
+Iteration: 73
+Turns: [52, 48, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 331.904
+Connectivity Check Time: 3.735 seconds
+Overall Time: 3.735 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 233, 'shift_sampled/uav_2_sampled_path.txt': -74, 'shift_sampled/uav_3_sampled_path.txt': 153}
+
+Iteration: 74
+Turns: [48, 48, 52]
+Average Turns: 12.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 310.743
+Connectivity Check Time: 3.809 seconds
+Overall Time: 3.809 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 73, 'shift_sampled/uav_2_sampled_path.txt': -299, 'shift_sampled/uav_3_sampled_path.txt': 277}
+
+Iteration: 75
+Turns: [52, 48, 48]
+Average Turns: 14.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 314.084
+Connectivity Check Time: 3.511 seconds
+Overall Time: 3.511 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 59, 'shift_sampled/uav_2_sampled_path.txt': 349, 'shift_sampled/uav_3_sampled_path.txt': -224}
+
+Iteration: 76
+Turns: [52, 48, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 242.685
+Connectivity Check Time: 3.270 seconds
+Overall Time: 3.270 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -160, 'shift_sampled/uav_2_sampled_path.txt': -41, 'shift_sampled/uav_3_sampled_path.txt': -234}
+
+Iteration: 77
+Turns: [48, 48, 52]
+Average Turns: 10.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 270.732
+Connectivity Check Time: 3.267 seconds
+Overall Time: 3.267 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 193, 'shift_sampled/uav_2_sampled_path.txt': 272, 'shift_sampled/uav_3_sampled_path.txt': 98}
+
+Iteration: 79
+Turns: [48, 52, 48]
+Average Turns: 17.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 276.586
+Connectivity Check Time: 3.543 seconds
+Overall Time: 3.543 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 372, 'shift_sampled/uav_2_sampled_path.txt': -364, 'shift_sampled/uav_3_sampled_path.txt': -75}
+
+Iteration: 81
+Turns: [48, 52, 48]
+Average Turns: 12.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 332.662
+Connectivity Check Time: 3.537 seconds
+Overall Time: 3.537 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -224, 'shift_sampled/uav_2_sampled_path.txt': -331, 'shift_sampled/uav_3_sampled_path.txt': -187}
+
+Iteration: 82
+Turns: [48, 48, 52]
+Average Turns: 15.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 284.621
+Connectivity Check Time: 3.519 seconds
+Overall Time: 3.519 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -225, 'shift_sampled/uav_2_sampled_path.txt': -156, 'shift_sampled/uav_3_sampled_path.txt': -132}
+
+Iteration: 83
+Turns: [48, 48, 52]
+Average Turns: 15.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 278.548
+Connectivity Check Time: 3.328 seconds
+Overall Time: 3.328 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 173, 'shift_sampled/uav_2_sampled_path.txt': -139, 'shift_sampled/uav_3_sampled_path.txt': 272}
+
+Iteration: 85
+Turns: [48, 52, 48]
+Average Turns: 10.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 360.000
+Connectivity Check Time: 3.725 seconds
+Overall Time: 3.725 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -110, 'shift_sampled/uav_2_sampled_path.txt': -60, 'shift_sampled/uav_3_sampled_path.txt': -321}
+
+Iteration: 86
+Turns: [52, 48, 48]
+Average Turns: 10.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 281.585
+Connectivity Check Time: 3.409 seconds
+Overall Time: 3.409 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 11, 'shift_sampled/uav_2_sampled_path.txt': -311, 'shift_sampled/uav_3_sampled_path.txt': -328}
+
+Iteration: 87
+Turns: [52, 48, 48]
+Average Turns: 9.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 329.509
+Connectivity Check Time: 3.227 seconds
+Overall Time: 3.227 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -212, 'shift_sampled/uav_2_sampled_path.txt': -241, 'shift_sampled/uav_3_sampled_path.txt': 100}
+
+Iteration: 89
+Turns: [48, 52, 48]
+Average Turns: 15.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 328.976
+Connectivity Check Time: 3.161 seconds
+Overall Time: 3.161 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 294, 'shift_sampled/uav_2_sampled_path.txt': -71, 'shift_sampled/uav_3_sampled_path.txt': -345}
+
+Iteration: 90
+Turns: [48, 48, 52]
+Average Turns: 17.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 273.659
+Connectivity Check Time: 3.679 seconds
+Overall Time: 3.679 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 241, 'shift_sampled/uav_2_sampled_path.txt': -372, 'shift_sampled/uav_3_sampled_path.txt': 122}
+
+Iteration: 91
+Turns: [48, 52, 48]
+Average Turns: 14.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 241.868
+Connectivity Check Time: 3.578 seconds
+Overall Time: 3.578 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 260, 'shift_sampled/uav_2_sampled_path.txt': -184, 'shift_sampled/uav_3_sampled_path.txt': -172}
+
+Iteration: 92
+Turns: [48, 52, 48]
+Average Turns: 14.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 326.173
+Connectivity Check Time: 3.337 seconds
+Overall Time: 3.337 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -101, 'shift_sampled/uav_2_sampled_path.txt': -84, 'shift_sampled/uav_3_sampled_path.txt': -80}
+
+Iteration: 96
+Turns: [48, 48, 52]
+Average Turns: 10.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 276.000
+Connectivity Check Time: 3.033 seconds
+Overall Time: 3.033 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -196, 'shift_sampled/uav_2_sampled_path.txt': -74, 'shift_sampled/uav_3_sampled_path.txt': 234}
+
+Iteration: 97
+Turns: [52, 48, 48]
+Average Turns: 9.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 287.265
+Connectivity Check Time: 3.369 seconds
+Overall Time: 3.369 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 271, 'shift_sampled/uav_2_sampled_path.txt': -45, 'shift_sampled/uav_3_sampled_path.txt': 259}
+
+Iteration: 99
+Turns: [48, 48, 52]
+Average Turns: 13.667
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 301.496
+Connectivity Check Time: 3.093 seconds
+Overall Time: 3.093 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 251, 'shift_sampled/uav_2_sampled_path.txt': -211, 'shift_sampled/uav_3_sampled_path.txt': -101}
+
+Iteration: 100
+Turns: [48, 48, 52]
+Average Turns: 14.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 295.054
+Connectivity Check Time: 3.081 seconds
+Overall Time: 3.081 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -165, 'shift_sampled/uav_2_sampled_path.txt': -203, 'shift_sampled/uav_3_sampled_path.txt': 203}
+
+Iteration: 101
+Turns: [48, 52, 48]
+Average Turns: 14.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 274.774
+Connectivity Check Time: 3.425 seconds
+Overall Time: 3.425 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -185, 'shift_sampled/uav_2_sampled_path.txt': -222, 'shift_sampled/uav_3_sampled_path.txt': 181}
+
+Iteration: 103
+Turns: [48, 52, 48]
+Average Turns: 14.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 317.717
+Connectivity Check Time: 3.507 seconds
+Overall Time: 3.507 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -169, 'shift_sampled/uav_2_sampled_path.txt': 308, 'shift_sampled/uav_3_sampled_path.txt': -275}
+
+Iteration: 104
+Turns: [52, 48, 48]
+Average Turns: 12.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 357.605
+Connectivity Check Time: 3.560 seconds
+Overall Time: 3.560 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -90, 'shift_sampled/uav_2_sampled_path.txt': -312, 'shift_sampled/uav_3_sampled_path.txt': 31}
+
+Iteration: 106
+Turns: [48, 52, 48]
+Average Turns: 12.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 306.470
+Connectivity Check Time: 3.665 seconds
+Overall Time: 3.665 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -1, 'shift_sampled/uav_2_sampled_path.txt': 284, 'shift_sampled/uav_3_sampled_path.txt': 8}
+
+Iteration: 107
+Turns: [48, 52, 48]
+Average Turns: 10.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 288.000
+Connectivity Check Time: 2.999 seconds
+Overall Time: 2.999 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 111, 'shift_sampled/uav_2_sampled_path.txt': -93, 'shift_sampled/uav_3_sampled_path.txt': -122}
+
+Iteration: 108
+Turns: [52, 48, 48]
+Average Turns: 8.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 294.184
+Connectivity Check Time: 2.821 seconds
+Overall Time: 2.821 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 198, 'shift_sampled/uav_2_sampled_path.txt': 16, 'shift_sampled/uav_3_sampled_path.txt': 215}
+
+Iteration: 109
+Turns: [52, 48, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 301.213
+Connectivity Check Time: 3.186 seconds
+Overall Time: 3.186 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 154, 'shift_sampled/uav_2_sampled_path.txt': 12, 'shift_sampled/uav_3_sampled_path.txt': 150}
+
+Iteration: 110
+Turns: [52, 48, 48]
+Average Turns: 10.667
+Standard Deviation Turns: 2.625
+Minimum Required Distance: 346.302
+Connectivity Check Time: 3.377 seconds
+Overall Time: 3.377 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -128, 'shift_sampled/uav_2_sampled_path.txt': -28, 'shift_sampled/uav_3_sampled_path.txt': 27}
+
+Iteration: 112
+Turns: [52, 48, 48]
+Average Turns: 10.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 330.654
+Connectivity Check Time: 3.335 seconds
+Overall Time: 3.335 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 84, 'shift_sampled/uav_2_sampled_path.txt': -255, 'shift_sampled/uav_3_sampled_path.txt': 183}
+
+Iteration: 114
+Turns: [52, 48, 48]
+Average Turns: 12.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 303.816
+Connectivity Check Time: 3.262 seconds
+Overall Time: 3.262 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 343, 'shift_sampled/uav_2_sampled_path.txt': -193, 'shift_sampled/uav_3_sampled_path.txt': 215}
+
+Iteration: 116
+Turns: [48, 48, 52]
+Average Turns: 13.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 329.509
+Connectivity Check Time: 3.132 seconds
+Overall Time: 3.132 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 315, 'shift_sampled/uav_2_sampled_path.txt': 324, 'shift_sampled/uav_3_sampled_path.txt': 66}
+
+Iteration: 117
+Turns: [48, 52, 48]
+Average Turns: 11.333
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 335.410
+Connectivity Check Time: 3.200 seconds
+Overall Time: 3.200 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 64, 'shift_sampled/uav_2_sampled_path.txt': -77, 'shift_sampled/uav_3_sampled_path.txt': 278}
+
+Iteration: 118
+Turns: [52, 48, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 333.054
+Connectivity Check Time: 3.109 seconds
+Overall Time: 3.109 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -20, 'shift_sampled/uav_2_sampled_path.txt': 352, 'shift_sampled/uav_3_sampled_path.txt': 237}
+
+Iteration: 119
+Turns: [52, 48, 48]
+Average Turns: 12.667
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 360.200
+Connectivity Check Time: 3.648 seconds
+Overall Time: 3.648 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 342, 'shift_sampled/uav_2_sampled_path.txt': -48, 'shift_sampled/uav_3_sampled_path.txt': 370}
+
+Iteration: 121
+Turns: [52, 48, 48]
+Average Turns: 12.667
+Standard Deviation Turns: 3.399
+Minimum Required Distance: 315.000
+Connectivity Check Time: 3.241 seconds
+Overall Time: 3.241 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -26, 'shift_sampled/uav_2_sampled_path.txt': -148, 'shift_sampled/uav_3_sampled_path.txt': -150}
+
+Iteration: 122
+Turns: [48, 52, 48]
+Average Turns: 12.000
+Standard Deviation Turns: 2.944
+Minimum Required Distance: 272.059
+Connectivity Check Time: 3.112 seconds
+Overall Time: 3.112 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -90, 'shift_sampled/uav_2_sampled_path.txt': 287, 'shift_sampled/uav_3_sampled_path.txt': 273}
+
+Iteration: 123
+Turns: [48, 52, 48]
+Average Turns: 8.000
+Standard Deviation Turns: 0.000
+Minimum Required Distance: 288.312
+Connectivity Check Time: 3.100 seconds
+Overall Time: 3.100 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -212, 'shift_sampled/uav_2_sampled_path.txt': 216, 'shift_sampled/uav_3_sampled_path.txt': 159}
+
+Iteration: 125
+Turns: [48, 52, 48]
+Average Turns: 14.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 275.951
+Connectivity Check Time: 3.404 seconds
+Overall Time: 3.404 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 281, 'shift_sampled/uav_2_sampled_path.txt': -222, 'shift_sampled/uav_3_sampled_path.txt': -161}
+
+Iteration: 126
+Turns: [48, 52, 48]
+Average Turns: 14.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 300.000
+Connectivity Check Time: 3.522 seconds
+Overall Time: 3.522 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 250, 'shift_sampled/uav_2_sampled_path.txt': 109, 'shift_sampled/uav_3_sampled_path.txt': -62}
+
+Iteration: 129
+Turns: [52, 48, 48]
+Average Turns: 15.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 291.000
+Connectivity Check Time: 3.254 seconds
+Overall Time: 3.254 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 339, 'shift_sampled/uav_2_sampled_path.txt': -41, 'shift_sampled/uav_3_sampled_path.txt': -59}
+
+Iteration: 130
+Turns: [52, 48, 48]
+Average Turns: 17.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 240.917
+Connectivity Check Time: 3.727 seconds
+Overall Time: 3.727 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 109, 'shift_sampled/uav_2_sampled_path.txt': -124, 'shift_sampled/uav_3_sampled_path.txt': 371}
+
+Iteration: 131
+Turns: [52, 48, 48]
+Average Turns: 17.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 252.357
+Connectivity Check Time: 3.679 seconds
+Overall Time: 3.679 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -129, 'shift_sampled/uav_2_sampled_path.txt': 49, 'shift_sampled/uav_3_sampled_path.txt': 201}
+
+Iteration: 132
+Turns: [48, 52, 48]
+Average Turns: 13.667
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 300.958
+Connectivity Check Time: 3.198 seconds
+Overall Time: 3.198 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 262, 'shift_sampled/uav_2_sampled_path.txt': -4, 'shift_sampled/uav_3_sampled_path.txt': -112}
+
+Iteration: 134
+Turns: [52, 48, 48]
+Average Turns: 16.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 300.000
+Connectivity Check Time: 3.681 seconds
+Overall Time: 3.681 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 338, 'shift_sampled/uav_2_sampled_path.txt': -206, 'shift_sampled/uav_3_sampled_path.txt': 139}
+
+Iteration: 137
+Turns: [48, 52, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 305.941
+Connectivity Check Time: 3.293 seconds
+Overall Time: 3.293 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 74, 'shift_sampled/uav_2_sampled_path.txt': 193, 'shift_sampled/uav_3_sampled_path.txt': 230}
+
+Iteration: 138
+Turns: [48, 48, 52]
+Average Turns: 15.333
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 302.152
+Connectivity Check Time: 3.679 seconds
+Overall Time: 3.679 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 186, 'shift_sampled/uav_2_sampled_path.txt': -92, 'shift_sampled/uav_3_sampled_path.txt': -331}
+
+Iteration: 139
+Turns: [52, 48, 48]
+Average Turns: 12.000
+Standard Deviation Turns: 1.414
+Minimum Required Distance: 300.958
+Connectivity Check Time: 3.372 seconds
+Overall Time: 3.372 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -137, 'shift_sampled/uav_2_sampled_path.txt': 334, 'shift_sampled/uav_3_sampled_path.txt': 261}
+
+Iteration: 141
+Turns: [48, 48, 52]
+Average Turns: 13.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 355.015
+Connectivity Check Time: 3.364 seconds
+Overall Time: 3.364 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 87, 'shift_sampled/uav_2_sampled_path.txt': 14, 'shift_sampled/uav_3_sampled_path.txt': 28}
+
+Iteration: 143
+Turns: [48, 52, 48]
+Average Turns: 13.667
+Standard Deviation Turns: 1.700
+Minimum Required Distance: 308.869
+Connectivity Check Time: 3.721 seconds
+Overall Time: 3.721 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 182, 'shift_sampled/uav_2_sampled_path.txt': -180, 'shift_sampled/uav_3_sampled_path.txt': -37}
+
+Iteration: 144
+Turns: [48, 48, 52]
+Average Turns: 16.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 259.044
+Connectivity Check Time: 3.537 seconds
+Overall Time: 3.537 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 324, 'shift_sampled/uav_2_sampled_path.txt': -171, 'shift_sampled/uav_3_sampled_path.txt': 27}
+
+Iteration: 145
+Turns: [48, 52, 48]
+Average Turns: 15.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 323.110
+Connectivity Check Time: 3.493 seconds
+Overall Time: 3.493 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 317, 'shift_sampled/uav_2_sampled_path.txt': 337, 'shift_sampled/uav_3_sampled_path.txt': -103}
+
+Iteration: 146
+Turns: [48, 52, 48]
+Average Turns: 16.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 300.958
+Connectivity Check Time: 3.614 seconds
+Overall Time: 3.614 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 306, 'shift_sampled/uav_2_sampled_path.txt': 175, 'shift_sampled/uav_3_sampled_path.txt': -146}
+
+Iteration: 147
+Turns: [48, 48, 52]
+Average Turns: 17.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 295.466
+Connectivity Check Time: 3.620 seconds
+Overall Time: 3.620 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -5, 'shift_sampled/uav_2_sampled_path.txt': -111, 'shift_sampled/uav_3_sampled_path.txt': 60}
+
+Iteration: 150
+Turns: [52, 48, 48]
+Average Turns: 15.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 332.026
+Connectivity Check Time: 3.870 seconds
+Overall Time: 3.870 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -178, 'shift_sampled/uav_2_sampled_path.txt': 52, 'shift_sampled/uav_3_sampled_path.txt': 145}
+
+Iteration: 151
+Turns: [48, 52, 48]
+Average Turns: 13.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 295.846
+Connectivity Check Time: 3.134 seconds
+Overall Time: 3.134 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -133, 'shift_sampled/uav_2_sampled_path.txt': 52, 'shift_sampled/uav_3_sampled_path.txt': -312}
+
+Iteration: 152
+Turns: [48, 48, 52]
+Average Turns: 14.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 317.547
+Connectivity Check Time: 3.553 seconds
+Overall Time: 3.553 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -293, 'shift_sampled/uav_2_sampled_path.txt': 154, 'shift_sampled/uav_3_sampled_path.txt': -204}
+
+Iteration: 153
+Turns: [52, 48, 48]
+Average Turns: 14.000
+Standard Deviation Turns: 0.000
+Minimum Required Distance: 332.662
+Connectivity Check Time: 3.474 seconds
+Overall Time: 3.474 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -16, 'shift_sampled/uav_2_sampled_path.txt': 62, 'shift_sampled/uav_3_sampled_path.txt': -66}
+
+Iteration: 154
+Turns: [48, 48, 52]
+Average Turns: 12.333
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 322.399
+Connectivity Check Time: 3.363 seconds
+Overall Time: 3.363 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -88, 'shift_sampled/uav_2_sampled_path.txt': -224, 'shift_sampled/uav_3_sampled_path.txt': -32}
+
+Iteration: 156
+Turns: [52, 48, 48]
+Average Turns: 11.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 342.000
+Connectivity Check Time: 3.344 seconds
+Overall Time: 3.344 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -127, 'shift_sampled/uav_2_sampled_path.txt': -2, 'shift_sampled/uav_3_sampled_path.txt': -11}
+
+Iteration: 157
+Turns: [48, 48, 52]
+Average Turns: 15.000
+Standard Deviation Turns: 1.633
+Minimum Required Distance: 284.621
+Connectivity Check Time: 3.416 seconds
+Overall Time: 3.416 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -123, 'shift_sampled/uav_2_sampled_path.txt': -211, 'shift_sampled/uav_3_sampled_path.txt': 122}
+
+Iteration: 158
+Turns: [48, 52, 48]
+Average Turns: 13.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 313.209
+Connectivity Check Time: 3.256 seconds
+Overall Time: 3.256 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -186, 'shift_sampled/uav_2_sampled_path.txt': 237, 'shift_sampled/uav_3_sampled_path.txt': -156}
+
+Iteration: 160
+Turns: [52, 48, 48]
+Average Turns: 12.000
+Standard Deviation Turns: 2.160
+Minimum Required Distance: 306.470
+Connectivity Check Time: 3.108 seconds
+Overall Time: 3.108 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -33, 'shift_sampled/uav_2_sampled_path.txt': 215, 'shift_sampled/uav_3_sampled_path.txt': 186}
+
+Iteration: 161
+Turns: [48, 48, 52]
+Average Turns: 13.667
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 307.833
+Connectivity Check Time: 3.442 seconds
+Overall Time: 3.442 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -29, 'shift_sampled/uav_2_sampled_path.txt': 278, 'shift_sampled/uav_3_sampled_path.txt': 168}
+
+Iteration: 162
+Turns: [48, 52, 48]
+Average Turns: 15.333
+Standard Deviation Turns: 3.091
+Minimum Required Distance: 262.975
+Connectivity Check Time: 3.271 seconds
+Overall Time: 3.271 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 291, 'shift_sampled/uav_2_sampled_path.txt': -198, 'shift_sampled/uav_3_sampled_path.txt': 27}
+
+Iteration: 163
+Turns: [48, 52, 48]
+Average Turns: 17.333
+Standard Deviation Turns: 4.110
+Minimum Required Distance: 307.467
+Connectivity Check Time: 3.441 seconds
+Overall Time: 3.441 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -60, 'shift_sampled/uav_2_sampled_path.txt': 223, 'shift_sampled/uav_3_sampled_path.txt': -298}
+
+Iteration: 164
+Turns: [52, 48, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 2.494
+Minimum Required Distance: 330.491
+Connectivity Check Time: 3.297 seconds
+Overall Time: 3.297 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 217, 'shift_sampled/uav_2_sampled_path.txt': -217, 'shift_sampled/uav_3_sampled_path.txt': 158}
+
+Iteration: 165
+Turns: [48, 48, 52]
+Average Turns: 12.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 318.000
+Connectivity Check Time: 3.361 seconds
+Overall Time: 3.361 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 289, 'shift_sampled/uav_2_sampled_path.txt': 178, 'shift_sampled/uav_3_sampled_path.txt': -190}
+
+Iteration: 167
+Turns: [48, 48, 52]
+Average Turns: 16.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 299.234
+Connectivity Check Time: 3.597 seconds
+Overall Time: 3.597 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -154, 'shift_sampled/uav_2_sampled_path.txt': 254, 'shift_sampled/uav_3_sampled_path.txt': 46}
+
+Iteration: 168
+Turns: [48, 52, 48]
+Average Turns: 8.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 231.525
+Connectivity Check Time: 3.226 seconds
+Overall Time: 3.226 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -158, 'shift_sampled/uav_2_sampled_path.txt': 207, 'shift_sampled/uav_3_sampled_path.txt': 235}
+
+Iteration: 169
+Turns: [52, 48, 48]
+Average Turns: 10.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 283.290
+Connectivity Check Time: 3.095 seconds
+Overall Time: 3.095 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 149, 'shift_sampled/uav_2_sampled_path.txt': 148, 'shift_sampled/uav_3_sampled_path.txt': -149}
+
+Iteration: 170
+Turns: [52, 48, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 323.611
+Connectivity Check Time: 3.562 seconds
+Overall Time: 3.562 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -38, 'shift_sampled/uav_2_sampled_path.txt': 82, 'shift_sampled/uav_3_sampled_path.txt': -129}
+
+Iteration: 171
+Turns: [52, 48, 48]
+Average Turns: 10.000
+Standard Deviation Turns: 0.816
+Minimum Required Distance: 290.489
+Connectivity Check Time: 3.560 seconds
+Overall Time: 3.560 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 4, 'shift_sampled/uav_2_sampled_path.txt': -328, 'shift_sampled/uav_3_sampled_path.txt': -270}
+
+Iteration: 172
+Turns: [52, 48, 48]
+Average Turns: 11.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 354.000
+Connectivity Check Time: 3.309 seconds
+Overall Time: 3.309 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -41, 'shift_sampled/uav_2_sampled_path.txt': -53, 'shift_sampled/uav_3_sampled_path.txt': -50}
+
+Iteration: 173
+Turns: [52, 48, 48]
+Average Turns: 7.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 255.000
+Connectivity Check Time: 3.417 seconds
+Overall Time: 3.417 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -99, 'shift_sampled/uav_2_sampled_path.txt': -94, 'shift_sampled/uav_3_sampled_path.txt': -235}
+
+Iteration: 175
+Turns: [48, 48, 52]
+Average Turns: 17.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 273.659
+Connectivity Check Time: 3.464 seconds
+Overall Time: 3.464 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -145, 'shift_sampled/uav_2_sampled_path.txt': -4, 'shift_sampled/uav_3_sampled_path.txt': 107}
+
+Iteration: 176
+Turns: [48, 52, 48]
+Average Turns: 13.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 344.804
+Connectivity Check Time: 3.412 seconds
+Overall Time: 3.412 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -69, 'shift_sampled/uav_2_sampled_path.txt': -246, 'shift_sampled/uav_3_sampled_path.txt': -118}
+
+Iteration: 178
+Turns: [48, 52, 48]
+Average Turns: 16.667
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 264.426
+Connectivity Check Time: 3.523 seconds
+Overall Time: 3.523 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -371, 'shift_sampled/uav_2_sampled_path.txt': -208, 'shift_sampled/uav_3_sampled_path.txt': -201}
+
+Iteration: 179
+Turns: [48, 52, 48]
+Average Turns: 16.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 297.121
+Connectivity Check Time: 3.577 seconds
+Overall Time: 3.577 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 111, 'shift_sampled/uav_2_sampled_path.txt': -218, 'shift_sampled/uav_3_sampled_path.txt': 20}
+
+Iteration: 182
+Turns: [48, 52, 48]
+Average Turns: 17.333
+Standard Deviation Turns: 4.110
+Minimum Required Distance: 306.000
+Connectivity Check Time: 3.367 seconds
+Overall Time: 3.367 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -54, 'shift_sampled/uav_2_sampled_path.txt': 233, 'shift_sampled/uav_3_sampled_path.txt': -17}
+
+Iteration: 183
+Turns: [48, 48, 52]
+Average Turns: 11.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 330.000
+Connectivity Check Time: 3.702 seconds
+Overall Time: 3.702 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 119, 'shift_sampled/uav_2_sampled_path.txt': 126, 'shift_sampled/uav_3_sampled_path.txt': 16}
+
+Iteration: 185
+Turns: [48, 48, 52]
+Average Turns: 10.333
+Standard Deviation Turns: 3.300
+Minimum Required Distance: 360.000
+Connectivity Check Time: 3.145 seconds
+Overall Time: 3.145 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -151, 'shift_sampled/uav_2_sampled_path.txt': -136, 'shift_sampled/uav_3_sampled_path.txt': -42}
+
+Iteration: 186
+Turns: [48, 52, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 243.647
+Connectivity Check Time: 3.487 seconds
+Overall Time: 3.487 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -50, 'shift_sampled/uav_2_sampled_path.txt': -107, 'shift_sampled/uav_3_sampled_path.txt': 311}
+
+Iteration: 187
+Turns: [48, 52, 48]
+Average Turns: 14.333
+Standard Deviation Turns: 1.247
+Minimum Required Distance: 246.000
+Connectivity Check Time: 3.776 seconds
+Overall Time: 3.776 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 243, 'shift_sampled/uav_2_sampled_path.txt': -163, 'shift_sampled/uav_3_sampled_path.txt': 268}
+
+Iteration: 188
+Turns: [48, 52, 48]
+Average Turns: 15.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 249.000
+Connectivity Check Time: 3.722 seconds
+Overall Time: 3.722 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 91, 'shift_sampled/uav_2_sampled_path.txt': 59, 'shift_sampled/uav_3_sampled_path.txt': 215}
+
+Iteration: 189
+Turns: [48, 52, 48]
+Average Turns: 15.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 252.000
+Connectivity Check Time: 3.309 seconds
+Overall Time: 3.309 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -337, 'shift_sampled/uav_2_sampled_path.txt': -3, 'shift_sampled/uav_3_sampled_path.txt': -193}
+
+Iteration: 190
+Turns: [48, 48, 52]
+Average Turns: 14.000
+Standard Deviation Turns: 2.449
+Minimum Required Distance: 270.000
+Connectivity Check Time: 3.151 seconds
+Overall Time: 3.151 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 305, 'shift_sampled/uav_2_sampled_path.txt': 320, 'shift_sampled/uav_3_sampled_path.txt': 192}
+
+Iteration: 191
+Turns: [48, 48, 52]
+Average Turns: 14.000
+Standard Deviation Turns: 2.449
+Minimum Required Distance: 287.265
+Connectivity Check Time: 3.390 seconds
+Overall Time: 3.390 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 291, 'shift_sampled/uav_2_sampled_path.txt': -53, 'shift_sampled/uav_3_sampled_path.txt': -204}
+
+Iteration: 192
+Turns: [48, 52, 48]
+Average Turns: 15.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 303.000
+Connectivity Check Time: 3.695 seconds
+Overall Time: 3.695 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 212, 'shift_sampled/uav_2_sampled_path.txt': -206, 'shift_sampled/uav_3_sampled_path.txt': 48}
+
+Iteration: 193
+Turns: [52, 48, 48]
+Average Turns: 16.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 288.312
+Connectivity Check Time: 3.485 seconds
+Overall Time: 3.485 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -385, 'shift_sampled/uav_2_sampled_path.txt': 345, 'shift_sampled/uav_3_sampled_path.txt': 176}
+
+Iteration: 194
+Turns: [48, 48, 52]
+Average Turns: 13.333
+Standard Deviation Turns: 2.055
+Minimum Required Distance: 288.312
+Connectivity Check Time: 3.127 seconds
+Overall Time: 3.127 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 59, 'shift_sampled/uav_2_sampled_path.txt': 321, 'shift_sampled/uav_3_sampled_path.txt': 157}
+
+Iteration: 195
+Turns: [48, 52, 48]
+Average Turns: 13.000
+Standard Deviation Turns: 2.828
+Minimum Required Distance: 317.547
+Connectivity Check Time: 3.350 seconds
+Overall Time: 3.350 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -285, 'shift_sampled/uav_2_sampled_path.txt': 202, 'shift_sampled/uav_3_sampled_path.txt': -313}
+
+Iteration: 196
+Turns: [52, 48, 48]
+Average Turns: 16.667
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 298.210
+Connectivity Check Time: 3.667 seconds
+Overall Time: 3.667 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': 156, 'shift_sampled/uav_2_sampled_path.txt': 50, 'shift_sampled/uav_3_sampled_path.txt': 283}
+
+Iteration: 197
+Turns: [48, 48, 52]
+Average Turns: 15.333
+Standard Deviation Turns: 1.886
+Minimum Required Distance: 300.240
+Connectivity Check Time: 3.317 seconds
+Overall Time: 3.317 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -291, 'shift_sampled/uav_2_sampled_path.txt': -118, 'shift_sampled/uav_3_sampled_path.txt': 298}
+
+Iteration: 198
+Turns: [48, 52, 48]
+Average Turns: 15.333
+Standard Deviation Turns: 0.943
+Minimum Required Distance: 314.986
+Connectivity Check Time: 3.125 seconds
+Overall Time: 3.125 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -15, 'shift_sampled/uav_2_sampled_path.txt': 324, 'shift_sampled/uav_3_sampled_path.txt': 183}
+
+Iteration: 199
+Turns: [52, 48, 48]
+Average Turns: 14.000
+Standard Deviation Turns: 0.000
+Minimum Required Distance: 327.866
+Connectivity Check Time: 3.707 seconds
+Overall Time: 3.707 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -175, 'shift_sampled/uav_2_sampled_path.txt': -117, 'shift_sampled/uav_3_sampled_path.txt': -228}
+

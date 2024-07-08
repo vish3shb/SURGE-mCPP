@@ -1,0 +1,16 @@
+Iteration: 158
+Energy for paths: [11025.0, 10705.0, 10315.699999999999] J
+Number of turns: [10, 10, 10]
+Path lengths: [1515.0, 1595.0, 1517.14] m
+Total energy: 32045.70 J
+Total number of turns: 30
+Total path length: 4627.14 m
+
+Iteration: 183
+Energy for paths: [10696.65, 10682.0, 11016.7] J
+Number of turns: [10, 12, 10]
+Path lengths: [1593.33, 1510.0, 1513.3400000000001] m
+Total energy: 32395.35 J
+Total number of turns: 32
+Total path length: 4616.67 m
+

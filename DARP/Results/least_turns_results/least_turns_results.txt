@@ -1,0 +1,9 @@
+Iteration: 173
+Turns: [52, 48, 48]
+Average Turns: 7.333
+Standard Deviation Turns: 0.471
+Minimum Required Distance: 255.000
+Connectivity Check Time: 3.417 seconds
+Overall Time: 3.417 seconds
+Shift Combination: {'shift_sampled/uav_1_sampled_path.txt': -99, 'shift_sampled/uav_2_sampled_path.txt': -94, 'shift_sampled/uav_3_sampled_path.txt': -235}
+
