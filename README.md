@@ -128,5 +128,5 @@ For each robot path has been utilized the mode that results in the minimum numbe
 Paper: [Zenodo](https://zenodo.org/record/2591050#.YTCvBVtRVH6)
 
 Medium: [Medium](https://medium.com/@athanasios.kapoutsis/darp-divide-areas-algorithm-for-optimal-multi-robot-coverage-path-planning-2fed77b990a3)
-}
+
 ```
