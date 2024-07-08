@@ -36,7 +36,7 @@ This project was created using:
 #### To run the application, use:
 
 ```
-python3 multiRobotPathPlanner.py
+python3 main.py
 ```
 
 ## Usage
