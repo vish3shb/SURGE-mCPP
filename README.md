@@ -18,7 +18,7 @@ After the desired area division is achieved, we use [Spanning Tree Coverage (STC
 
 
 <p align="center">
-  <img width="650" height="400" src="images/STC.png">
+  <img width="650" height="400" src="DARP-main/images/STC.png">
 </p>
 
 
@@ -44,7 +44,7 @@ python3 multiRobotPathPlanner.py
 By default, without defining any parameters, the *multiRobotPathPlanner* is going to run for the following setup:
 
 <p align="center">
-  <img width="550" height="550" src="images/default_setup.png">
+  <img width="550" height="550" src="DARP-main/images/default_setup.png">
 </p>
 where the red, green and purple cells denote the initial positions of the 3 robots respectively and the black cells denote the environments obstacles. 
 
@@ -112,7 +112,7 @@ Using a 20x20 Grid area, four robots with initial positions 10, 32, 99 and 250 a
 ### Assignment Matrix
 
 <p align="center">
-  <img width="550" height="550" src="images/DARP.gif">
+  <img width="550" height="550" src="DARP-main/images/DARP.gif">
 </p>
 
 ### Final coverage paths for all robots
@@ -120,7 +120,7 @@ Using a 20x20 Grid area, four robots with initial positions 10, 32, 99 and 250 a
 For each robot path has been utilized the mode that results in the minimum number of turns to completely cover its respective sub-region.
 
 <p align="center">
-  <img width="550" height="550" src="images/all_modes.png">
+  <img width="550" height="550" src="DARP-main/images/all_modes.png">
 </p>
 
 ## Extra Material
