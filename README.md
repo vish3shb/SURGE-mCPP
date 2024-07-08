@@ -127,8 +127,11 @@ For each robot path has been utilized the mode that results in the minimum numbe
 Just run the command in CA_DARP folder by setting the iteration  for inner and outer loop.
 (Default--> inner:250 & outer: 1500)
 ```
-python3 main.py -vis
+python3 main.py
 ```
+
+### Results
+
 ## Extra Material
 
 Paper: [Zenodo](https://zenodo.org/record/2591050#.YTCvBVtRVH6)
