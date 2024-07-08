@@ -1,0 +1,34 @@
+{
+    // This config file is used for setting path planning parameters
+    Number_of_UAV: 3, 
+    Path_step_size: 30,
+    Sampling_intervel: 1,
+    visualiser_threshold: 40, //not used
+    visualiser_speed: 200, //not used
+    visualiser_old_trace_count: 1,
+    Turning_radius_of_uav: 3,
+    Forward_speed_of_uav: 6,
+    Turning_speed_of_uav: 3,
+    threshold_for_sorting: 50, //not used
+    start_end_points: {
+        UAV1: {
+            start: [-0, 0],
+            end: [-0, 0]
+        },
+        UAV2: {
+            start: [0, 0],
+            end: [0, 0]
+        },
+        UAV3: {
+            start: [0, 0],
+            end: [0, 0]
+        },
+        UAV4: {
+            start: [0, 0],
+            end: [0, 0]
+        }
+    },
+    UAV_UAV_range: 110,
+    GCS_position: [0, 0],
+    GCS_range: 0.0
+}
