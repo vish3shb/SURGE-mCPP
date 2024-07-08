@@ -17,4 +17,5 @@ pip install \
   nose==1.3.7\
   parameterized==0.8.1\
   sklearn \
-  Pillow
+  Pillow \
+  pandas
