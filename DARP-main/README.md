@@ -35,16 +35,6 @@ This project was created using:
 * nose == 1.3.7 
 * scikit-learn
 
-## Installation and Running
-
-#### To install the application, use:
-```
-git clone https://github.com/alice-st/DARP-Python.git
-cd DARP
-./Dependencies.sh DARP
-source DARP/bin/activate
-```
-
 #### To run the application, use:
 
 ```
@@ -140,22 +130,5 @@ For each robot path has been utilized the mode that results in the minimum numbe
 Paper: [Zenodo](https://zenodo.org/record/2591050#.YTCvBVtRVH6)
 
 Medium: [Medium](https://medium.com/@athanasios.kapoutsis/darp-divide-areas-algorithm-for-optimal-multi-robot-coverage-path-planning-2fed77b990a3)
-
-GitHub repositories: [Java](https://github.com/athakapo/DARP)
-
-GUI demo: [YouTube](https://www.youtube.com/watch?v=LrGfvma41Ak)
-
-ROS integration: [Wiki](http://wiki.ros.org/area_division)
-
-
-## Cite as
-
-```
-@article{kapoutsisdarp,
-  title={DARP: Divide Areas Algorithm for Optimal Multi-Robot Coverage Path Planning},
-  author={Kapoutsis, Athanasios Ch and Chatzichristofis, Savvas A and Kosmatopoulos, Elias B},
-  journal={Journal of Intelligent \& Robotic Systems},
-  pages={1--18},
-  publisher={Springer}
 }
 ```
